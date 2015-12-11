@@ -1,0 +1,45 @@
+
+intelligence
+
+decide():
+  @mode:  spawn/ standing/ playing  # mode list
+  spawn: login  # navigates the site to the lobby
+  standing:
+    enter_table :type  # performs everything necessary to join a particular table typee
+      -> enter_table_ring
+      -> enter_table_sng
+      -> enter_table_tournament
+  chat if random(10000) < 5  # randomly chat even when not playing
+  playing:
+    check for error messages
+    check controls
+      - erroneous controls (sit down while sitting. stand up while standing. etc)
+      - assert presence of card <img>s
+    check for buyin
+      - buyin()
+    check for turn
+      - random_action
+      - sleep  / @sleeping = true
+        brood.rb puts thread to sleep / passes execution on
+
+
+
+# better than Events, I think.
+per control tracking:
+  array of controls
+    hash per control
+      visible_during: {type, mode, turn}
+      conditions: array  [[:var, :greater-than, 5], ... ]  # only really useful for check/call, bet, etc. or visible/grey cards.
+
+.
+
+additional log info:
+  table/tourney id
+  hand id
+  state of hand(?)  # ex flop, river, etc
+  cards(?)
+  POST data
+  js: game.gamePlay
+    game.gamePlay.game_turn: int, hand stage
+    game.gamePlay.flop/turn/river: community cards
+    game.playersList[game.myKey].cards:  player cards
