@@ -1,0 +1,117 @@
+Bot created at 2014-01-04 02:35:39 -0800
+info   0.000 sec    Bot creation finished.
+info   0.001 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   3.722 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       3.723 sec    Resizing browser to 620x600
+       3.739 sec    Navigating to login page.
+       5.266 sec    Logging in as: bot8
+debug  5.272 sec    | Entering username (bot8)
+debug  5.427 sec    | Entering password (test1)
+debug  5.540 sec    | Submitting
+debug  8.093 sec    | Setting selenium page_load timeout (10 sec)
+debug  9.128 sec    Checking for #username
+info   9.198 sec    Preventing 'Are you sure?' dialogs
+       9.738 sec    Using Bypass
+info   9.840 sec    Preventing 'Are you sure?' dialogs
+       10.376 sec    Navigating back to the main page
+       12.118 sec    Clicking [Play Free Poker]
+info   14.587 sec    Preventing 'Are you sure?' dialogs
+       15.162 sec    (Directly) Joining Ring Game id 135
+info   23.539 sec    Allowing javascript to finish setting up
+info   25.507 sec    There are 5 seat(s) available.
+       25.551 sec    Sitting down at table (forced)
+info   26.452 sec    Preventing 'Are you sure?' dialogs
+       27.005 sec    Playing
+       27.147 sec    Buying in
+info   29.643 sec    There are now 6 players
+
+       29.728 sec    Hand ID:    8874
+       29.728 sec    Hand stage: cards
+       39.271 sec    Hand stage: flop
+info   48.314 sec    There are now 7 players
+       48.416 sec    Hand stage: winner
+
+       58.659 sec    Hand ID:    8875
+       58.661 sec    Hand stage: cards
+info   102.695 sec    It is our turn
+       104.870 sec    Folding :(        (#btnPass.primary)
+info   106.093 sec    Chatting: Check... bet... check... bet...
+       157.238 sec    Hand stage: winner
+
+       171.818 sec    Hand ID:    8876
+       171.818 sec    Hand stage: cards
+info   214.805 sec    It is our turn
+info   214.886 sec    Chatting: Come again?
+       219.137 sec    Raising ~         (#btnRaise.primary)
+info   274.097 sec    It is our turn
+       276.481 sec    Calling!          (#btnCall.primary)
+info   278.064 sec    Chatting: I'll cover that paltry sum with a pile.
+       284.396 sec    Hand stage: flop
+       316.929 sec    Hand stage: turn
+       359.800 sec    Hand stage: river
+       362.851 sec    Hand stage: winner
+       371.208 sec    Buying in
+
+       376.283 sec    Hand ID:    8877
+       376.283 sec    Hand stage: cards
+       405.146 sec    Hand stage: flop
+warn   431.104 sec    Control is Missing: Stand Up button
+info   431.111 sec    - mode:      playing
+info   431.147 sec    - stage:     flop
+info   431.178 sec    - sitting:   true
+info   431.225 sec    - our turn?: false (js)
+       431.803 sec    Hand stage: turn
+info   436.226 sec    Control Reappeared: Stand Up button
+info   436.233 sec    - mode:      playing
+info   436.256 sec    - stage:     winner
+info   436.288 sec    - sitting:   true
+info   436.311 sec    - our turn?: false (js)
+       436.565 sec    Hand stage: winner
+fatal  445.544 sec    Caught an unhandled error. Shutting down bot.
+info   445.556 sec    - Mode: playing
+info   446.290 sec    - Title: Real Gaming::Test:: Table ID 135, No Limit::
+info   449.179 sec    Preventing 'Are you sure?' dialogs
+       450.720 sec    Standing up
+       451.807 sec    Logging out
+fatal  454.614 sec    Error message:
+                      game is not defined
+
+
+Stacktrace:
+[remote server] https://realgaming.com/component/camerona/?view=holdem&format=raw&table_id=135:62:in `anonymous'
+[remote server] https://realgaming.com/component/camerona/?view=holdem&format=raw&table_id=135:60:in `handleEvaluateEvent'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:51:in `assert_ok'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:629:in `raw_execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:607:in `execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:328:in `executeScript'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/driver.rb:213:in `execute_script'
+/home/ashley/selenium/brood/game.rb:27:in `playersdata_keys'
+/home/ashley/selenium/brood/game.rb:53:in `playercount'
+/home/ashley/selenium/brood/broodling.rb:998:in `decide'
+/home/ashley/selenium/brood/broodling.rb:736:in `play_game'
+/home/ashley/selenium/brood/broodling.rb:160:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   454.624 sec    Saving log to file.
+debug  454.624 sec    filename: ./logs/firefox ~ linux ~ bot8 ~ Sat Jan  4 02:35:39 2014.log

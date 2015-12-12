@@ -1,0 +1,3202 @@
+Bot created at 2013-08-30 02:33:53 -0700
+info   0.000 sec    Host OS:  linux (linux-gnu)
+info   0.000 sec    Browser:  firefox
+       0.000 sec    Bot creation finished
+info   1.447 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       1.448 sec    Navigating to login page.
+       2.817 sec    Logging in as: bot80
+debug  2.817 sec    Entering username (bot80)
+debug  2.892 sec    Entering password (test1)
+debug  2.974 sec    Submitting
+debug  3.626 sec    Setting selenium page_load timeout (10 sec)
+       3.646 sec    Logging in as: bot80 (again)
+debug  3.646 sec    Entering username (bot80)
+debug  3.704 sec    Entering password (test1)
+debug  3.779 sec    Submitting
+debug  5.519 sec    Setting selenium page_load timeout (10 sec)
+debug  6.526 sec    Checking for #username
+info   6.604 sec    Preventing 'Are you sure?' dialogs
+       7.213 sec    Using Bypass
+info   7.378 sec    Preventing 'Are you sure?' dialogs
+       7.909 sec    Navigating back to the main page
+       9.098 sec    Clicking [Play Free Poker]
+info   9.776 sec    Preventing 'Are you sure?' dialogs
+       10.291 sec    (Directly) Joining Ring game 95
+info   11.599 sec    Allowing javascript to finish setting up
+       13.695 sec    Sitting down at table
+info   13.858 sec    Preventing 'Are you sure?' dialogs
+       14.526 sec    Playing
+       14.541 sec    Buying in
+
+info   16.649 sec    Hand ID:    19145
+
+info   18.757 sec    Hand ID:    19148
+info   34.835 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+
+info   48.503 sec    Hand ID:    19150
+info   50.073 sec    It is our turn
+info   50.114 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       53.600 sec    Calling!          (#btnCall.primary)
+warn   56.635 sec    Missing Control: The "Away" Button is not available
+
+info   72.273 sec    Hand ID:    19152
+info   77.554 sec    It is our turn
+       78.938 sec    Raising ~         (#btnRaise.primary)
+info   84.210 sec    It is our turn
+       85.729 sec    Raising ~         (#btnRaise.primary)
+info   86.518 sec    Chatting: Raising.
+
+info   96.263 sec    Hand ID:    19154
+
+info   110.431 sec    Hand ID:    19155
+
+info   128.846 sec    Hand ID:    19156
+info   129.417 sec    It is our turn
+info   129.473 sec    Chatting: HEY EURAKARTE
+       131.908 sec    Calling!          (#btnCall.primary)
+
+info   143.943 sec    Hand ID:    19157
+
+info   174.198 sec    Hand ID:    19158
+
+info   185.015 sec    Hand ID:    19159
+info   185.688 sec    It is our turn
+       187.348 sec    Folding :(        (#btnPass.primary)
+
+info   195.005 sec    Hand ID:    19160
+
+info   204.561 sec    Hand ID:    19161
+info   205.025 sec    It is our turn
+info   205.069 sec    Chatting: Hi!  I'm , how's you?
+       207.302 sec    Raising ~         (#btnRaise.primary)
+info   221.052 sec    Chatting: Hi!  I'm , how's you?
+
+info   234.112 sec    Hand ID:    19164
+info   237.600 sec    It is our turn
+       239.244 sec    Calling Any       (#btnCallAny.primary)
+info   241.946 sec    It is our turn
+       243.714 sec    Raising ~         (#btnRaise.primary)
+info   244.518 sec    Chatting: These cards right here.. these cards, in my hand.  These cards. They're awesome.
+info   262.282 sec    Chatting: HEY EURAKARTE
+
+info   264.923 sec    Hand ID:    19166
+info   265.799 sec    It is our turn
+       267.293 sec    Calling Any       (#btnCallAny.primary)
+info   278.494 sec    It is our turn
+       279.493 sec    Waiting 10 seconds before acting (13.0 seconds remaining)
+       289.720 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   303.767 sec    Hand ID:    19168
+info   311.337 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+info   312.112 sec    It is our turn
+       314.130 sec    Checking.         (#btnCheck.primary)
+info   317.093 sec    It is our turn
+       318.723 sec    Checking.         (#btnCheck.primary)
+info   336.593 sec    It is our turn
+info   336.648 sec    Chatting: Hi!  I'm , how's you?
+       338.617 sec    Checking.         (#btnCheck.primary)
+info   343.746 sec    It is our turn
+       345.197 sec    Folding :(        (#btnPass.primary)
+
+info   354.168 sec    Hand ID:    19171
+info   354.453 sec    It is our turn
+       355.644 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       356.840 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   377.249 sec    Hand ID:    19173
+info   380.831 sec    It is our turn
+info   380.872 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       382.879 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       387.100 sec    Raising ~         (#btnRaise.primary)
+info   392.853 sec    It is our turn
+       394.207 sec    Waiting 8 seconds before acting (13.0 seconds remaining)
+       402.496 sec    Checking.         (#btnCheck.primary)
+info   418.805 sec    It is our turn
+info   418.865 sec    Chatting: HEY EURAKARTE
+       420.932 sec    Folding :(        (#btnPass.primary)
+
+info   429.937 sec    Hand ID:    19176
+info   430.453 sec    It is our turn
+info   430.510 sec    Chatting: Chatting. Chat chat chat.
+       432.830 sec    Waiting 1 seconds before acting (11.0 seconds remaining)
+       434.307 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   460.760 sec    Hand ID:    19177
+info   465.743 sec    It is our turn
+       467.171 sec    Waiting 3 seconds before acting (11.0 seconds remaining)
+       470.392 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   475.175 sec    Chatting: Dude. It's your turn. Go.
+
+info   486.919 sec    Hand ID:    19178
+info   487.482 sec    It is our turn
+       489.008 sec    Waiting 1 seconds before acting (11.0 seconds remaining)
+       490.270 sec    Calling!          (#btnCall.primary)
+error  500.320 sec    javascript indicates it's our turn, but the controls do not.
+info   500.359 sec    - Fold:      blue
+info   500.426 sec    - Timer:     visible  (Any timer)
+info   500.474 sec    - Container: not visible
+info   500.481 sec    - Stage:     flop
+info   500.495 sec    - via_js:    true
+info   500.714 sec    - via_ctrls: true
+       500.714 sec    Skipping turn.
+info   520.616 sec    It is our turn
+       521.817 sec    Waiting 2 seconds before acting (13.0 seconds remaining)
+       524.036 sec    Raising ~         (#btnRaise.primary)
+info   525.008 sec    Chatting: Let's up the ante a bit.
+error  538.712 sec    javascript indicates it's our turn, but the controls do not.
+info   538.737 sec    - Fold:      blue
+info   538.761 sec    - Timer:     visible  (Any timer)
+info   538.797 sec    - Container: visible
+info   538.819 sec    - Stage:     river
+info   538.846 sec    - via_js:    true
+info   539.063 sec    - via_ctrls: true
+       539.064 sec    Skipping turn.
+
+info   560.135 sec    Hand ID:    19181
+
+info   574.055 sec    Hand ID:    19183
+info   574.979 sec    It is our turn
+       576.168 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       584.384 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   595.502 sec    Hand ID:    19184
+
+info   606.419 sec    Hand ID:    19185
+info   606.925 sec    It is our turn
+       608.935 sec    Calling!          (#btnCall.primary)
+
+info   623.463 sec    Hand ID:    19186
+info   626.003 sec    It is our turn
+       627.455 sec    Folding :(        (#btnPass.primary)
+info   628.260 sec    Chatting: I won't even do these cards the honor of checking.
+
+info   635.483 sec    Hand ID:    19188
+info   636.255 sec    It is our turn
+       637.973 sec    Waiting 8 seconds before acting (11.0 seconds remaining)
+       646.199 sec    Raising ~         (#btnRaise.primary)
+
+info   664.176 sec    Hand ID:    19190
+info   670.110 sec    It is our turn
+info   670.170 sec    Chatting: Ya'll suck.
+       673.026 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   693.469 sec    Hand ID:    19191
+info   695.680 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+
+info   709.728 sec    Hand ID:    19193
+info   714.266 sec    It is our turn
+info   714.308 sec    Chatting: Ya'll suck.
+       716.068 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       725.314 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   736.447 sec    Hand ID:    19195
+info   736.764 sec    It is our turn
+       738.056 sec    Waiting 8 seconds before acting (11.0 seconds remaining)
+       746.251 sec    Check/Fold        (#btnCheckFold.primary)
+info   747.120 sec    Chatting: AFK, checkfold me.
+
+info   753.886 sec    Hand ID:    19197
+info   758.977 sec    It is our turn
+       760.810 sec    Checking.         (#btnCheck.primary)
+info   763.720 sec    It is our turn
+       765.172 sec    Waiting 2 seconds before acting (13.0 seconds remaining)
+       767.468 sec    Folding :(        (#btnPass.primary)
+
+info   774.538 sec    Hand ID:    19199
+info   775.088 sec    It is our turn
+info   775.174 sec    Chatting: Why are you taking so long?
+       777.467 sec    Calling!          (#btnCall.primary)
+
+info   800.560 sec    Hand ID:    19200
+
+info   811.631 sec    Hand ID:    19201
+info   811.907 sec    It is our turn
+info   811.952 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       814.145 sec    Waiting 4 seconds before acting (10.0 seconds remaining)
+       818.399 sec    Calling!          (#btnCall.primary)
+info   823.242 sec    Chatting: The rain in Spain falls mostly on the plain
+
+info   830.720 sec    Hand ID:    19204
+
+info   843.606 sec    Hand ID:    19205
+
+info   856.901 sec    Hand ID:    19207
+
+info   874.643 sec    Hand ID:    19209
+info   879.785 sec    It is our turn
+       881.086 sec    Waiting 4 seconds before acting (11.0 seconds remaining)
+       885.320 sec    Raising ~         (#btnRaise.primary)
+info   890.295 sec    Chatting: You know, stalling for time doesn't really work in poker.
+
+info   901.568 sec    Hand ID:    19211
+info   901.848 sec    It is our turn
+info   901.890 sec    Chatting: HEY EURAKARTE
+       904.210 sec    Folding :(        (#btnPass.primary)
+
+info   911.698 sec    Hand ID:    19213
+info   916.675 sec    It is our turn
+       918.300 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       927.492 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   928.398 sec    Chatting: Bad Wolf.
+
+info   954.614 sec    Hand ID:    19215
+info   955.229 sec    It is our turn
+info   955.413 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       957.302 sec    Calling!          (#btnCall.primary)
+
+info   969.539 sec    Hand ID:    19217
+info   974.745 sec    It is our turn
+       976.495 sec    Checking.         (#btnCheck.primary)
+info   977.233 sec    Chatting: I just wanna see what's next
+info   980.032 sec    It is our turn
+       981.741 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   998.077 sec    Hand ID:    19219
+info   998.683 sec    It is our turn
+       1000.046 sec    Waiting 5 seconds before acting (11.0 seconds remaining)
+       1005.408 sec    Folding :(        (#btnPass.primary)
+info   1006.247 sec    Chatting: Dealer! These cards SUCK
+
+info   1013.044 sec    Hand ID:    19221
+
+info   1023.819 sec    Hand ID:    19222
+info   1024.078 sec    It is our turn
+info   1024.124 sec    Chatting: Why are you taking so long?
+       1026.092 sec    Waiting 6 seconds before acting (10.0 seconds remaining)
+       1032.337 sec    Folding :(        (#btnPass.primary)
+
+info   1039.653 sec    Hand ID:    19224
+info   1044.583 sec    It is our turn
+       1045.907 sec    Calling!          (#btnCall.primary)
+info   1046.944 sec    Chatting: You call that a bet?
+
+info   1060.375 sec    Hand ID:    19226
+info   1061.191 sec    It is our turn
+       1062.981 sec    Calling!          (#btnCall.primary)
+info   1076.950 sec    It is our turn
+info   1076.996 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       1079.065 sec    Folding :(        (#btnPass.primary)
+
+info   1089.031 sec    Hand ID:    19228
+info   1091.497 sec    Chatting: Hurry up already!
+info   1096.411 sec    It is our turn
+       1097.908 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       1124.184 sec    Buying in
+
+info   1126.782 sec    Hand ID:    19230
+info   1127.497 sec    It is our turn
+info   1127.602 sec    Chatting: Hi!  How are you?
+       1129.591 sec    Calling!          (#btnCall.primary)
+info   1150.386 sec    It is our turn
+       1151.942 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       1154.158 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       1167.712 sec    Buying in
+
+info   1173.042 sec    Hand ID:    19232
+info   1186.010 sec    It is our turn
+       1187.441 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   1211.688 sec    Hand ID:    19234
+info   1212.296 sec    It is our turn
+       1214.261 sec    Calling!          (#btnCall.primary)
+info   1215.281 sec    Chatting: You call that a bet?
+info   1224.819 sec    It is our turn
+       1226.535 sec    Folding :(        (#btnPass.primary)
+
+info   1233.912 sec    Hand ID:    19236
+info   1236.735 sec    Chatting: I wouldn't have done that.
+
+info   1243.915 sec    Hand ID:    19238
+info   1244.562 sec    It is our turn
+       1246.117 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       1249.589 sec    Folding :(        (#btnPass.primary)
+info   1250.414 sec    Chatting: I could only turn this unwinnable hand into a failure.
+
+info   1257.157 sec    Hand ID:    19239
+info   1262.080 sec    It is our turn
+       1264.624 sec    Calling!          (#btnCall.primary)
+info   1267.263 sec    Chatting: Chatting. Chat chat chat.
+info   1268.552 sec    It is our turn
+       1273.235 sec    Folding :(        (#btnPass.primary)
+
+info   1282.175 sec    Hand ID:    19241
+info   1282.920 sec    It is our turn
+       1285.063 sec    Raising ~         (#btnRaise.primary)
+info   1294.795 sec    Chatting: Help! I'm trapped in a poker bot!
+info   1297.937 sec    It is our turn
+       1299.307 sec    Checking.         (#btnCheck.primary)
+info   1304.717 sec    It is our turn
+       1306.202 sec    Checking.         (#btnCheck.primary)
+info   1306.931 sec    Chatting: Checking.
+info   1311.929 sec    It is our turn
+       1313.412 sec    Checking.         (#btnCheck.primary)
+
+info   1320.650 sec    Hand ID:    19243
+info   1326.035 sec    It is our turn
+info   1326.079 sec    Chatting: Help! I'm trapped in a poker bot!
+       1328.396 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       1334.064 sec    Raising ~         (#btnRaise.primary)
+info   1339.950 sec    It is our turn
+info   1340.005 sec    Chatting: Raaaah!
+       1342.115 sec    Calling!          (#btnCall.primary)
+info   1345.487 sec    It is our turn
+       1346.895 sec    Waiting 3 seconds before acting (13.0 seconds remaining)
+       1350.304 sec    Checking.         (#btnCheck.primary)
+info   1355.625 sec    It is our turn
+       1357.237 sec    Folding :(        (#btnPass.primary)
+
+info   1365.996 sec    Hand ID:    19246
+info   1366.284 sec    It is our turn
+       1367.792 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       1368.947 sec    Calling!          (#btnCall.primary)
+info   1378.195 sec    Chatting: Hi!  How are you?
+info   1378.700 sec    It is our turn
+       1380.336 sec    Checking.         (#btnCheck.primary)
+info   1392.110 sec    It is our turn
+       1393.821 sec    Raising ~         (#btnRaise.primary)
+info   1403.707 sec    It is our turn
+       1405.313 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   1414.077 sec    Hand ID:    19249
+info   1416.976 sec    It is our turn
+       1418.631 sec    Checking.         (#btnCheck.primary)
+info   1419.374 sec    Chatting: I just wanna see what's next
+info   1422.288 sec    It is our turn
+       1423.597 sec    Waiting 7 seconds before acting (13.0 seconds remaining)
+       1430.833 sec    Raising ~         (#btnRaise.primary)
+info   1431.917 sec    Chatting: I like big piles and I cannot lie, you other bots can't deny.
+info   1441.260 sec    It is our turn
+       1442.573 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       1456.235 sec    Buying in
+
+info   1458.857 sec    Hand ID:    19251
+info   1459.863 sec    It is our turn
+info   1459.947 sec    Chatting: I wouldn't have done that.
+       1461.511 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       1464.721 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   1471.641 sec    Chatting: INSULT
+
+info   1476.099 sec    Hand ID:    19253
+
+info   1485.943 sec    Hand ID:    19254
+info   1486.863 sec    It is our turn
+       1488.537 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   1489.411 sec    Chatting: Ya'll suck.
+       1515.713 sec    Buying in
+
+info   1519.873 sec    Hand ID:    19256
+info   1523.047 sec    It is our turn
+       1524.553 sec    Folding :(        (#btnPass.primary)
+info   1525.410 sec    Chatting: Hell no, I don't want to lose.
+
+info   1532.165 sec    Hand ID:    19258
+info   1532.626 sec    It is our turn
+       1534.328 sec    Calling Any       (#btnCallAny.primary)
+
+info   1545.755 sec    Hand ID:    19259
+
+info   1554.984 sec    Hand ID:    19260
+info   1555.660 sec    It is our turn
+       1557.605 sec    Calling!          (#btnCall.primary)
+info   1558.455 sec    Chatting: Those chips look so lonely.
+info   1563.567 sec    It is our turn
+       1565.105 sec    Calling!          (#btnCall.primary)
+info   1571.087 sec    It is our turn
+       1572.648 sec    Checking.         (#btnCheck.primary)
+info   1586.945 sec    It is our turn
+       1588.667 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       1605.293 sec    Buying in
+
+info   1607.851 sec    Hand ID:    19263
+info   1613.191 sec    It is our turn
+info   1613.237 sec    Chatting: Why is my entire life poker?
+       1615.140 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       1618.381 sec    Check/Fold        (#btnCheckFold.primary)
+info   1621.268 sec    It is our turn
+       1622.643 sec    Checking.         (#btnCheck.primary)
+info   1637.193 sec    It is our turn
+info   1637.242 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       1639.463 sec    Folding :(        (#btnPass.primary)
+
+info   1647.243 sec    Hand ID:    19266
+info   1648.072 sec    It is our turn
+       1649.531 sec    Calling!          (#btnCall.primary)
+info   1650.464 sec    Chatting: Those chips look so lonely.
+info   1655.701 sec    It is our turn
+       1657.281 sec    Folding :(        (#btnPass.primary)
+
+info   1665.118 sec    Hand ID:    19267
+
+info   1679.822 sec    Hand ID:    19269
+info   1680.439 sec    It is our turn
+       1681.872 sec    Calling Any       (#btnCallAny.primary)
+       1697.849 sec    Buying in
+
+info   1702.227 sec    Hand ID:    19270
+info   1705.471 sec    It is our turn
+       1706.570 sec    Waiting 11 seconds before acting (13.0 seconds remaining)
+       1717.839 sec    Checking.         (#btnCheck.primary)
+info   1718.953 sec    Chatting: Interesting.
+info   1721.701 sec    It is our turn
+       1723.183 sec    Checking.         (#btnCheck.primary)
+info   1730.608 sec    It is our turn
+info   1730.660 sec    Chatting: Hi!  How are you?
+       1732.688 sec    Checking.         (#btnCheck.primary)
+info   1746.855 sec    It is our turn
+       1748.397 sec    Checking.         (#btnCheck.primary)
+info   1749.214 sec    Chatting: Checking.
+info   1763.118 sec    It is our turn
+info   1763.161 sec    Chatting: Why are you taking so long?
+       1765.315 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   1774.330 sec    Hand ID:    19273
+info   1774.622 sec    It is our turn
+info   1774.663 sec    Chatting: RETORT
+       1776.738 sec    Folding :(        (#btnPass.primary)
+
+info   1783.927 sec    Hand ID:    19275
+
+info   1799.264 sec    Hand ID:    19276
+info   1799.563 sec    It is our turn
+       1800.858 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       1811.114 sec    Calling Any       (#btnCallAny.primary)
+error  1821.310 sec    javascript indicates it's our turn, but the controls do not.
+info   1821.376 sec    - Fold:      blue
+info   1821.419 sec    - Timer:     visible  (Any timer)
+info   1821.470 sec    - Container: not visible
+info   1821.484 sec    - Stage:     flop
+info   1821.501 sec    - via_js:    true
+info   1821.704 sec    - via_ctrls: true
+       1821.704 sec    Skipping turn.
+info   1841.363 sec    It is our turn
+       1842.880 sec    Check/Fold        (#btnCheckFold.primary)
+info   1843.744 sec    Chatting: hmm hmm hmm
+
+info   1850.481 sec    Hand ID:    19278
+       1863.604 sec    Buying in
+
+info   1866.491 sec    Hand ID:    19279
+info   1867.418 sec    It is our turn
+info   1867.512 sec    Chatting: Hurry up already!
+       1870.308 sec    Calling!          (#btnCall.primary)
+info   1880.303 sec    It is our turn
+       1882.025 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   1882.784 sec    Chatting: Let's see ya match this, buddy.
+       1896.093 sec    Buying in
+
+info   1898.214 sec    Hand ID:    19281
+info   1903.102 sec    Chatting: Raaaaaah!
+
+info   1909.668 sec    Hand ID:    19282
+info   1909.983 sec    It is our turn
+       1911.669 sec    Calling!          (#btnCall.primary)
+info   1917.320 sec    It is our turn
+info   1917.371 sec    Chatting: I wouldn't have done that.
+       1919.201 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       1922.438 sec    Calling Any       (#btnCallAny.primary)
+info   1930.128 sec    It is our turn
+info   1930.181 sec    Chatting: Raaaah!
+       1933.072 sec    Checking.         (#btnCheck.primary)
+info   1938.366 sec    It is our turn
+       1939.915 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       1951.096 sec    Buying in
+
+info   1953.267 sec    Hand ID:    19285
+
+info   1972.793 sec    Hand ID:    19286
+info   1973.328 sec    It is our turn
+info   1973.399 sec    Chatting: RETORT
+       1975.246 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       1977.565 sec    Folding :(        (#btnPass.primary)
+
+info   1984.553 sec    Hand ID:    19288
+info   1995.906 sec    It is our turn
+       1997.270 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   1998.042 sec    Chatting: My chips were getting lonely.
+
+info   2013.165 sec    Hand ID:    19290
+info   2013.495 sec    It is our turn
+info   2013.539 sec    Chatting: Ya'll suck.
+       2015.635 sec    Raising ~         (#btnRaise.primary)
+
+info   2033.606 sec    Hand ID:    19291
+info   2042.555 sec    It is our turn
+       2043.833 sec    Folding :(        (#btnPass.primary)
+info   2044.609 sec    Chatting: No way.
+
+info   2051.475 sec    Hand ID:    19293
+info   2052.044 sec    It is our turn
+       2053.801 sec    Calling Any       (#btnCallAny.primary)
+info   2054.953 sec    Chatting: You call that a bet?
+info   2060.944 sec    It is our turn
+       2062.231 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   2069.415 sec    Hand ID:    19295
+info   2080.833 sec    It is our turn
+       2082.292 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       2100.074 sec    Buying in
+
+info   2102.280 sec    Hand ID:    19296
+info   2102.755 sec    Chatting: Raaaaaah!
+info   2103.513 sec    It is our turn
+       2105.152 sec    Calling!          (#btnCall.primary)
+info   2117.463 sec    Chatting: Hurry up already!
+info   2122.907 sec    It is our turn
+       2124.319 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       2137.974 sec    Buying in
+
+info   2140.248 sec    Hand ID:    19299
+info   2147.475 sec    It is our turn
+       2148.823 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       2151.032 sec    Folding :(        (#btnPass.primary)
+info   2151.830 sec    Chatting: Why is my entire life poker?
+info   2158.083 sec    It is our turn
+
+info   2158.098 sec    Hand ID:    19300
+       2159.705 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       2164.347 sec    Folding :(        (#btnPass.primary)
+
+info   2171.630 sec    Hand ID:    19301
+info   2172.228 sec    Chatting: INSULT
+
+info   2187.656 sec    Hand ID:    19302
+       2200.479 sec    Buying in
+
+info   2205.465 sec    Hand ID:    19303
+
+info   2214.116 sec    Hand ID:    19304
+info   2214.674 sec    It is our turn
+info   2214.719 sec    Chatting: RETORT
+       2216.969 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   2224.660 sec    Hand ID:    19306
+info   2229.875 sec    It is our turn
+info   2229.928 sec    Chatting: The rain in Spain falls mostly on the plain
+       2232.492 sec    Checking.         (#btnCheck.primary)
+info   2235.744 sec    It is our turn
+       2237.313 sec    Checking.         (#btnCheck.primary)
+info   2242.512 sec    Chatting: Raaaah!
+info   2243.185 sec    It is our turn
+       2244.775 sec    Folding :(        (#btnPass.primary)
+
+info   2251.669 sec    Hand ID:    19308
+info   2252.250 sec    It is our turn
+       2253.964 sec    Calling!          (#btnCall.primary)
+
+info   2274.391 sec    Hand ID:    19309
+
+info   2283.482 sec    Hand ID:    19310
+info   2283.942 sec    It is our turn
+       2285.324 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       2294.584 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   2306.791 sec    Chatting: Dude. It's your turn. Go.
+
+info   2313.699 sec    Hand ID:    19313
+info   2320.814 sec    It is our turn
+       2322.283 sec    Checking.         (#btnCheck.primary)
+info   2325.141 sec    It is our turn
+info   2325.189 sec    Chatting: Hi!  How are you?
+       2327.013 sec    Raising ~         (#btnRaise.primary)
+
+info   2340.909 sec    Hand ID:    19314
+info   2341.177 sec    It is our turn
+       2342.964 sec    Raising ~         (#btnRaise.primary)
+info   2353.204 sec    It is our turn
+       2354.918 sec    Folding :(        (#btnPass.primary)
+info   2355.927 sec    Chatting: Dealer! Are you stacking the deck against me?
+
+info   2362.592 sec    Hand ID:    19316
+info   2367.507 sec    It is our turn
+       2368.614 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       2373.996 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   2394.712 sec    Hand ID:    19319
+info   2395.131 sec    It is our turn
+info   2395.174 sec    Chatting: Why are you taking so long?
+       2397.423 sec    Calling!          (#btnCall.primary)
+info   2414.718 sec    It is our turn
+       2416.207 sec    Raising ~         (#btnRaise.primary)
+info   2422.178 sec    It is our turn
+       2423.753 sec    Calling!          (#btnCall.primary)
+info   2429.305 sec    It is our turn
+info   2429.349 sec    Chatting: Hi!  I'm , how's you?
+       2431.141 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       2437.367 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   2444.991 sec    Chatting: Ya'll suck.
+
+info   2449.743 sec    Hand ID:    19322
+info   2455.095 sec    It is our turn
+info   2455.139 sec    Chatting: INSULT
+       2456.898 sec    Waiting 9 seconds before acting (11.0 seconds remaining)
+       2466.140 sec    Raising ~         (#btnRaise.primary)
+info   2467.168 sec    Chatting: These cards right here.. these cards, in my hand.  These cards. They're awesome.
+
+info   2484.571 sec    Hand ID:    19325
+info   2485.071 sec    It is our turn
+info   2485.120 sec    Chatting: Ya'll suck.
+       2487.289 sec    Folding :(        (#btnPass.primary)
+
+info   2494.753 sec    Hand ID:    19326
+info   2499.651 sec    It is our turn
+       2501.405 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       2510.631 sec    Folding :(        (#btnPass.primary)
+info   2515.397 sec    Chatting: Help! I'm trapped in a poker bot!
+
+info   2517.889 sec    Hand ID:    19329
+info   2518.715 sec    It is our turn
+       2520.051 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       2524.315 sec    Calling Any       (#btnCallAny.primary)
+info   2527.027 sec    Chatting: Rah.
+info   2540.850 sec    Chatting: Raaaah!
+info   2541.471 sec    It is our turn
+       2543.399 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   2552.890 sec    Chatting: Why is my entire life poker?
+
+info   2561.951 sec    Hand ID:    19331
+info   2564.489 sec    It is our turn
+info   2564.529 sec    Chatting: Ya'll suck.
+       2566.427 sec    Raising ~         (#btnRaise.primary)
+
+info   2577.726 sec    Hand ID:    19333
+info   2578.116 sec    It is our turn
+       2579.760 sec    Folding :(        (#btnPass.primary)
+info   2580.827 sec    Chatting: Hell no, I don't want to lose.
+
+info   2587.750 sec    Hand ID:    19334
+info   2593.229 sec    It is our turn
+       2595.266 sec    Checking.         (#btnCheck.primary)
+info   2598.184 sec    It is our turn
+       2599.512 sec    Waiting 10 seconds before acting (13.0 seconds remaining)
+       2609.863 sec    Checking.         (#btnCheck.primary)
+info   2610.523 sec    Chatting: I just wanna see what's next
+info   2619.896 sec    It is our turn
+       2621.546 sec    Raising ~         (#btnRaise.primary)
+
+info   2637.278 sec    Hand ID:    19337
+info   2637.938 sec    It is our turn
+info   2637.981 sec    Chatting: I wouldn't have done that.
+       2639.864 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       2641.046 sec    Calling!          (#btnCall.primary)
+info   2652.869 sec    It is our turn
+       2654.860 sec    Raising ~         (#btnRaise.primary)
+info   2655.691 sec    Chatting: Let's make this interesting.
+info   2667.497 sec    It is our turn
+       2669.083 sec    Folding :(        (#btnPass.primary)
+
+info   2676.030 sec    Hand ID:    19339
+info   2680.798 sec    It is our turn
+       2682.635 sec    Checking.         (#btnCheck.primary)
+info   2683.349 sec    Chatting: I'm curious, but I'm not 'bet' kind of curious.
+info   2686.098 sec    It is our turn
+       2687.578 sec    Checking.         (#btnCheck.primary)
+info   2699.141 sec    It is our turn
+       2700.806 sec    Raising ~         (#btnRaise.primary)
+info   2710.268 sec    Chatting: Help! I'm trapped in a poker bot!
+info   2715.627 sec    It is our turn
+       2717.064 sec    Folding :(        (#btnPass.primary)
+info   2722.418 sec    Chatting: Hi!  How are you?
+
+info   2725.101 sec    Hand ID:    19341
+info   2725.877 sec    It is our turn
+       2727.878 sec    Raising ~         (#btnRaise.primary)
+info   2733.365 sec    It is our turn
+info   2733.406 sec    Chatting: Why is my entire life poker?
+       2735.348 sec    Calling!          (#btnCall.primary)
+info   2752.313 sec    It is our turn
+       2753.540 sec    Waiting 7 seconds before acting (13.0 seconds remaining)
+       2760.836 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   2761.780 sec    Chatting: INSULT
+info   2775.106 sec    Chatting: The rain in Spain falls mostly on the plain
+
+info   2777.847 sec    Hand ID:    19344
+info   2782.807 sec    It is our turn
+       2784.178 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       2791.398 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   2802.971 sec    Hand ID:    19346
+info   2803.804 sec    It is our turn
+       2805.180 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       2811.378 sec    Calling!          (#btnCall.primary)
+info   2812.180 sec    Chatting: That's a nice bet.  Or is it?  I've kinda lost track.
+info   2823.590 sec    It is our turn
+info   2823.630 sec    Chatting: Raaaaaah!
+       2825.975 sec    Waiting 1 seconds before acting (11.0 seconds remaining)
+       2827.405 sec    Raising ~         (#btnRaise.primary)
+info   2843.816 sec    It is our turn
+       2845.446 sec    Folding :(        (#btnPass.primary)
+
+info   2854.213 sec    Hand ID:    19349
+info   2857.070 sec    It is our turn
+info   2857.116 sec    Chatting: Help! I'm trapped in a poker bot!
+       2858.983 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       2865.428 sec    Checking.         (#btnCheck.primary)
+info   2868.437 sec    It is our turn
+       2869.744 sec    Waiting 9 seconds before acting (14.0 seconds remaining)
+       2878.926 sec    Checking.         (#btnCheck.primary)
+info   2879.580 sec    Chatting: Check.
+info   2890.811 sec    It is our turn
+       2892.623 sec    Checking.         (#btnCheck.primary)
+info   2897.726 sec    It is our turn
+       2899.305 sec    Folding :(        (#btnPass.primary)
+info   2900.177 sec    Chatting: Nope.
+
+info   2907.135 sec    Hand ID:    19350
+info   2907.965 sec    It is our turn
+       2909.392 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       2919.623 sec    Calling!          (#btnCall.primary)
+info   2933.573 sec    It is our turn
+       2934.920 sec    Waiting 9 seconds before acting (13.0 seconds remaining)
+       2944.155 sec    Folding :(        (#btnPass.primary)
+info   2946.893 sec    Chatting: Rah.
+
+info   2954.447 sec    Hand ID:    19352
+info   2959.751 sec    It is our turn
+info   2959.809 sec    Chatting: HEY EURAKARTE
+       2962.080 sec    Checking.         (#btnCheck.primary)
+info   2965.109 sec    It is our turn
+       2966.438 sec    Checking.         (#btnCheck.primary)
+info   2971.494 sec    It is our turn
+info   2971.545 sec    Chatting: Why are you taking so long?
+       2973.540 sec    Folding :(        (#btnPass.primary)
+
+info   2981.237 sec    Hand ID:    19354
+info   2981.781 sec    Chatting: Raaaaaah!
+info   2982.881 sec    It is our turn
+       2984.447 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   2994.315 sec    Hand ID:    19356
+info   2996.980 sec    It is our turn
+       2998.309 sec    Checking.         (#btnCheck.primary)
+info   2999.195 sec    Chatting: Check check check.
+info   3002.077 sec    It is our turn
+       3003.552 sec    Checking.         (#btnCheck.primary)
+info   3009.008 sec    It is our turn
+       3010.982 sec    Raising ~         (#btnRaise.primary)
+info   3016.457 sec    It is our turn
+info   3016.514 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       3018.858 sec    Calling Any       (#btnCallAny.primary)
+info   3022.222 sec    It is our turn
+       3023.750 sec    Checking.         (#btnCheck.primary)
+info   3030.956 sec    It is our turn
+       3032.458 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   3033.452 sec    Chatting: It was a ruse all along, I DO know what I'm doing!
+       3044.471 sec    Buying in
+
+info   3047.295 sec    Hand ID:    19358
+info   3048.239 sec    It is our turn
+info   3048.310 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       3050.427 sec    Calling!          (#btnCall.primary)
+
+info   3062.218 sec    Hand ID:    19360
+info   3067.405 sec    It is our turn
+info   3067.443 sec    Chatting: Help! I'm trapped in a poker bot!
+       3070.642 sec    Folding :(        (#btnPass.primary)
+
+info   3078.654 sec    Hand ID:    19361
+info   3079.190 sec    It is our turn
+info   3079.230 sec    Chatting: Help! I'm trapped in a poker bot!
+       3081.408 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   3101.627 sec    Hand ID:    19362
+info   3104.593 sec    It is our turn
+info   3104.641 sec    Chatting: RETORT
+       3106.597 sec    Checking.         (#btnCheck.primary)
+info   3109.734 sec    It is our turn
+       3111.325 sec    Checking.         (#btnCheck.primary)
+info   3123.486 sec    It is our turn
+info   3123.536 sec    Chatting: RETORT
+       3125.614 sec    Checking.         (#btnCheck.primary)
+info   3131.263 sec    It is our turn
+       3133.121 sec    Raising ~         (#btnRaise.primary)
+info   3134.118 sec    Chatting: My cards are crap, but they're still better than yours.
+
+info   3145.137 sec    Hand ID:    19365
+info   3145.606 sec    It is our turn
+       3147.197 sec    Folding :(        (#btnPass.primary)
+
+info   3154.500 sec    Hand ID:    19366
+info   3159.424 sec    It is our turn
+info   3159.513 sec    Chatting: HEY EURAKARTE
+       3161.443 sec    Calling!          (#btnCall.primary)
+info   3164.205 sec    It is our turn
+       3165.773 sec    Checking.         (#btnCheck.primary)
+info   3171.459 sec    It is our turn
+info   3171.508 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       3173.606 sec    Calling Any       (#btnCallAny.primary)
+info   3177.163 sec    It is our turn
+       3178.758 sec    Checking.         (#btnCheck.primary)
+info   3196.238 sec    Chatting: Hurry up already!
+info   3196.860 sec    It is our turn
+       3199.083 sec    Checking.         (#btnCheck.primary)
+info   3205.519 sec    It is our turn
+       3206.909 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   3215.974 sec    Hand ID:    19369
+info   3216.475 sec    It is our turn
+       3218.183 sec    Raising ~         (#btnRaise.primary)
+info   3219.070 sec    Chatting: I'll raise.
+info   3223.996 sec    It is our turn
+       3225.542 sec    Calling!          (#btnCall.primary)
+info   3231.093 sec    It is our turn
+       3232.580 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   3239.740 sec    Chatting: Raaaah!
+
+info   3246.293 sec    Hand ID:    19371
+info   3251.218 sec    It is our turn
+info   3251.337 sec    Chatting: Chatting. Chat chat chat.
+       3253.616 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       3255.851 sec    Checking.         (#btnCheck.primary)
+info   3258.737 sec    It is our turn
+       3260.007 sec    Waiting 9 seconds before acting (13.0 seconds remaining)
+       3269.287 sec    Folding :(        (#btnPass.primary)
+info   3270.239 sec    Chatting: Like a watered-down marinara, that is weaksauce.
+
+info   3276.928 sec    Hand ID:    19373
+info   3277.407 sec    It is our turn
+       3279.067 sec    Calling Any       (#btnCallAny.primary)
+
+info   3300.644 sec    Hand ID:    19374
+info   3305.570 sec    It is our turn
+info   3305.615 sec    Chatting: Help! I'm trapped in a poker bot!
+       3307.368 sec    Check/Fold        (#btnCheckFold.primary)
+info   3310.388 sec    It is our turn
+       3312.133 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       3316.317 sec    Raising ~         (#btnRaise.primary)
+info   3321.230 sec    It is our turn
+       3322.667 sec    Checking.         (#btnCheck.primary)
+info   3330.040 sec    It is our turn
+info   3330.133 sec    Chatting: Chatting. Chat chat chat.
+       3332.123 sec    Raising ~         (#btnRaise.primary)
+
+info   3343.814 sec    Hand ID:    19375
+info   3344.217 sec    It is our turn
+       3345.597 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       3348.771 sec    Calling!          (#btnCall.primary)
+info   3362.614 sec    It is our turn
+       3363.858 sec    Raising ~         (#btnRaise.primary)
+
+info   3377.807 sec    Hand ID:    19377
+info   3382.885 sec    It is our turn
+       3384.618 sec    Raising ~         (#btnRaise.primary)
+info   3392.058 sec    It is our turn
+info   3392.153 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       3395.016 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   3418.198 sec    Hand ID:    19380
+info   3418.642 sec    It is our turn
+       3419.965 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       3426.168 sec    Raising ~         (#btnRaise.primary)
+
+info   3446.707 sec    Hand ID:    19382
+info   3456.227 sec    It is our turn
+       3457.996 sec    Raising ~         (#btnRaise.primary)
+info   3467.395 sec    It is our turn
+info   3467.447 sec    Chatting: Hi!  How are you?
+       3469.616 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       3473.854 sec    Raising ~         (#btnRaise.primary)
+info   3479.140 sec    It is our turn
+info   3479.186 sec    Chatting: Chatting. Chat chat chat.
+       3481.857 sec    Raising ~         (#btnRaise.primary)
+info   3494.239 sec    It is our turn
+       3495.586 sec    Waiting 4 seconds before acting (13.0 seconds remaining)
+       3500.003 sec    Checking.         (#btnCheck.primary)
+info   3505.177 sec    It is our turn
+       3506.592 sec    Waiting 5 seconds before acting (13.0 seconds remaining)
+       3511.850 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   3538.139 sec    Hand ID:    19386
+info   3543.197 sec    It is our turn
+info   3543.245 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       3545.306 sec    Folding :(        (#btnPass.primary)
+
+info   3552.763 sec    Hand ID:    19387
+info   3553.825 sec    It is our turn
+       3555.585 sec    Calling!          (#btnCall.primary)
+info   3556.622 sec    Chatting: Call.
+info   3566.172 sec    It is our turn
+       3567.959 sec    Raising ~         (#btnRaise.primary)
+info   3570.631 sec    Chatting: You know, stalling for time doesn't really work in poker.
+info   3573.597 sec    It is our turn
+       3575.235 sec    Calling Any       (#btnCallAny.primary)
+
+info   3588.916 sec    Hand ID:    19390
+info   3604.533 sec    It is our turn
+       3605.884 sec    Checking.         (#btnCheck.primary)
+info   3608.694 sec    It is our turn
+       3610.535 sec    Checking.         (#btnCheck.primary)
+info   3613.353 sec    Chatting: RETORT
+info   3616.173 sec    It is our turn
+       3617.469 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       3624.672 sec    Calling Any       (#btnCallAny.primary)
+info   3627.380 sec    It is our turn
+info   3627.428 sec    Chatting: Rah.
+       3629.109 sec    Raising ~         (#btnRaise.primary)
+info   3633.947 sec    It is our turn
+       3635.465 sec    Calling!          (#btnCall.primary)
+info   3642.859 sec    Chatting: HEY EURAKARTE
+
+info   3647.662 sec    Hand ID:    19392
+info   3648.175 sec    It is our turn
+       3649.629 sec    Calling!          (#btnCall.primary)
+info   3682.559 sec    It is our turn
+       3683.956 sec    Raising ~         (#btnRaise.primary)
+
+info   3695.634 sec    Hand ID:    19394
+info   3698.704 sec    It is our turn
+       3700.035 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       3706.405 sec    Checking.         (#btnCheck.primary)
+info   3709.259 sec    It is our turn
+info   3709.300 sec    Chatting: Hi!  I'm , how's you?
+       3711.158 sec    Folding :(        (#btnPass.primary)
+
+info   3718.700 sec    Hand ID:    19396
+info   3719.376 sec    It is our turn
+       3721.128 sec    Calling!          (#btnCall.primary)
+info   3722.041 sec    Chatting: Call.
+info   3727.047 sec    It is our turn
+       3728.531 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       3730.781 sec    Calling!          (#btnCall.primary)
+info   3734.223 sec    Chatting: Hi!  How are you?
+info   3737.509 sec    It is our turn
+       3739.077 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       3741.298 sec    Raising ~         (#btnRaise.primary)
+info   3746.154 sec    Chatting: Dude. It's your turn. Go.
+info   3764.132 sec    It is our turn
+info   3764.171 sec    Chatting: Hi!  I'm , how's you?
+       3766.265 sec    Raising ~         (#btnRaise.primary)
+info   3776.953 sec    It is our turn
+info   3776.996 sec    Chatting: Chatting. Chat chat chat.
+       3779.200 sec    Raising ~         (#btnRaise.primary)
+
+info   3791.066 sec    Hand ID:    19400
+
+info   3800.870 sec    Hand ID:    19401
+info   3801.336 sec    It is our turn
+info   3801.387 sec    Chatting: Help! I'm trapped in a poker bot!
+       3803.726 sec    Raising ~         (#btnRaise.primary)
+
+info   3834.647 sec    Hand ID:    19403
+info   3841.743 sec    It is our turn
+info   3841.792 sec    Chatting: RETORT
+       3843.576 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       3850.844 sec    Checking.         (#btnCheck.primary)
+info   3853.995 sec    It is our turn
+       3855.730 sec    Waiting 2 seconds before acting (13.0 seconds remaining)
+       3857.948 sec    Folding :(        (#btnPass.primary)
+info   3858.824 sec    Chatting: Wow! These cards are incredibly ... incredibly ... incredibly bad!
+
+info   3866.103 sec    Hand ID:    19405
+info   3866.573 sec    It is our turn
+       3868.202 sec    Calling!          (#btnCall.primary)
+info   3869.237 sec    Chatting: Come on, make this hard for me!
+info   3876.652 sec    It is our turn
+       3878.306 sec    Calling!          (#btnCall.primary)
+info   3883.304 sec    Chatting: Hi!  How are you?
+
+info   3896.918 sec    Hand ID:    19407
+info   3904.126 sec    It is our turn
+       3905.559 sec    Checking.         (#btnCheck.primary)
+info   3908.530 sec    It is our turn
+       3910.872 sec    Raising ~         (#btnRaise.primary)
+
+info   3931.896 sec    Hand ID:    19409
+info   3937.334 sec    It is our turn
+       3939.098 sec    Checking.         (#btnCheck.primary)
+info   3942.074 sec    It is our turn
+info   3942.116 sec    Chatting: RETORT
+       3944.294 sec    Raising ~         (#btnRaise.primary)
+
+info   3956.431 sec    Hand ID:    19411
+info   3956.935 sec    It is our turn
+info   3956.990 sec    Chatting: Raaaah!
+       3959.392 sec    Calling!          (#btnCall.primary)
+
+info   3971.678 sec    Hand ID:    19412
+
+info   3984.854 sec    Hand ID:    19414
+
+info   3999.415 sec    Hand ID:    19415
+info   4004.630 sec    It is our turn
+       4006.126 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       4011.433 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   4012.729 sec    Chatting: My lovely chips!  Oh no!
+info   4031.773 sec    It is our turn
+
+info   4031.816 sec    Hand ID:    19418
+info   4031.998 sec    Chatting: Ya'll suck.
+       4034.977 sec    Calling!          (#btnCall.primary)
+info   4045.404 sec    It is our turn
+info   4045.448 sec    Chatting: RETORT
+       4047.486 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       4056.672 sec    Calling!          (#btnCall.primary)
+info   4057.448 sec    Chatting: I'll call that.
+
+info   4074.051 sec    Hand ID:    19419
+info   4079.034 sec    It is our turn
+       4080.613 sec    Checking.         (#btnCheck.primary)
+info   4083.173 sec    Chatting: Ya'll suck.
+info   4083.669 sec    It is our turn
+       4085.291 sec    Raising ~         (#btnRaise.primary)
+
+info   4097.255 sec    Hand ID:    19420
+info   4097.476 sec    Chatting: Help! I'm trapped in a poker bot!
+info   4098.554 sec    It is our turn
+       4100.428 sec    Calling!          (#btnCall.primary)
+info   4110.269 sec    Chatting: Raaaah!
+info   4121.436 sec    It is our turn
+       4123.007 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   4134.077 sec    Hand ID:    19422
+info   4141.167 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+
+info   4147.806 sec    Hand ID:    19424
+info   4159.068 sec    Chatting: HEY EURAKARTE
+
+info   4161.526 sec    Hand ID:    19426
+
+info   4179.252 sec    Hand ID:    19427
+info   4180.073 sec    It is our turn
+       4181.585 sec    Calling!          (#btnCall.primary)
+info   4182.498 sec    Chatting: That's a nice bet.  Or is it?  I've kinda lost track.
+info   4200.793 sec    It is our turn
+       4202.407 sec    Checking.         (#btnCheck.primary)
+info   4203.050 sec    Chatting: Check.
+info   4214.749 sec    It is our turn
+info   4214.808 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       4216.731 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       4220.995 sec    Calling!          (#btnCall.primary)
+
+info   4232.544 sec    Hand ID:    19430
+info   4235.137 sec    Chatting: Hi!  How are you?
+info   4236.759 sec    It is our turn
+       4238.722 sec    Calling!          (#btnCall.primary)
+info   4241.585 sec    It is our turn
+       4243.310 sec    Checking.         (#btnCheck.primary)
+info   4258.670 sec    It is our turn
+
+info   4258.688 sec    Hand ID:    19432
+       4260.441 sec    Calling!          (#btnCall.primary)
+info   4261.557 sec    Chatting: Is that a bet?
+info   4271.898 sec    It is our turn
+       4273.889 sec    Calling!          (#btnCall.primary)
+
+info   4289.261 sec    Hand ID:    19433
+info   4292.022 sec    It is our turn
+info   4292.073 sec    Chatting: Why are you taking so long?
+       4294.135 sec    Folding :(        (#btnPass.primary)
+
+info   4301.344 sec    Hand ID:    19435
+info   4302.328 sec    It is our turn
+       4303.936 sec    Folding :(        (#btnPass.primary)
+info   4306.780 sec    Chatting: Hi!  I'm , how's you?
+
+info   4311.459 sec    Hand ID:    19437
+info   4321.300 sec    It is our turn
+info   4321.342 sec    Chatting: Hi!  How are you?
+       4323.364 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       4329.634 sec    Calling Any       (#btnCallAny.primary)
+
+info   4347.154 sec    Hand ID:    19439
+info   4349.921 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+info   4350.601 sec    It is our turn
+       4351.950 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       4354.165 sec    Checking.         (#btnCheck.primary)
+info   4356.866 sec    It is our turn
+       4358.502 sec    Checking.         (#btnCheck.primary)
+info   4366.232 sec    It is our turn
+       4367.778 sec    Raising ~         (#btnRaise.primary)
+info   4368.702 sec    Chatting: Hang onto your seats because we're in for a bumpy hand!
+info   4373.761 sec    It is our turn
+       4375.427 sec    Checking.         (#btnCheck.primary)
+
+info   4387.023 sec    Hand ID:    19442
+info   4387.522 sec    It is our turn
+       4389.142 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       4391.523 sec    Calling!          (#btnCall.primary)
+info   4392.502 sec    Chatting: Those chips look so lonely.
+
+info   4407.996 sec    Hand ID:    19444
+info   4421.466 sec    It is our turn
+info   4421.562 sec    Chatting: INSULT
+       4423.775 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   4433.451 sec    Hand ID:    19445
+
+info   4450.901 sec    Hand ID:    19446
+info   4456.244 sec    It is our turn
+       4457.472 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       4458.691 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   4459.832 sec    Chatting: I'm not just all in, I'm ALL CAPS IN!
+
+info   4469.384 sec    Hand ID:    19447
+info   4470.179 sec    It is our turn
+       4471.829 sec    Folding :(        (#btnPass.primary)
+info   4472.972 sec    Chatting: These cards are made of suck and awful.
+
+info   4479.718 sec    Hand ID:    19448
+info   4483.199 sec    It is our turn
+info   4483.247 sec    Chatting: RETORT
+       4485.541 sec    Raising ~         (#btnRaise.primary)
+
+info   4496.791 sec    Hand ID:    19450
+info   4497.114 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+
+info   4510.666 sec    Hand ID:    19452
+info   4521.660 sec    Chatting: Raaaah!
+
+info   4528.513 sec    Hand ID:    19453
+info   4531.558 sec    It is our turn
+       4532.718 sec    Waiting 6 seconds before acting (13.0 seconds remaining)
+       4538.987 sec    Raising ~         (#btnRaise.primary)
+info   4550.694 sec    It is our turn
+info   4550.732 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       4552.869 sec    Raising ~         (#btnRaise.primary)
+
+info   4573.282 sec    Hand ID:    19456
+info   4576.437 sec    Chatting: Why is my entire life poker?
+info   4577.157 sec    It is our turn
+       4578.471 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       4586.681 sec    Checking.         (#btnCheck.primary)
+info   4589.678 sec    It is our turn
+       4591.008 sec    Raising ~         (#btnRaise.primary)
+info   4591.807 sec    Chatting: Raise.
+
+info   4612.866 sec    Hand ID:    19458
+info   4624.123 sec    It is our turn
+info   4624.225 sec    Chatting: Chatting. Chat chat chat.
+       4626.167 sec    Folding :(        (#btnPass.primary)
+
+info   4634.067 sec    Hand ID:    19460
+info   4634.689 sec    It is our turn
+       4636.270 sec    Waiting 9 seconds before acting (11.0 seconds remaining)
+       4645.448 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   4656.755 sec    Hand ID:    19461
+error  4669.101 sec    javascript indicates it's our turn, but the controls do not.
+info   4669.120 sec    - Fold:      blue
+info   4669.166 sec    - Timer:     visible  (Any timer)
+info   4669.202 sec    - Container: visible
+info   4669.216 sec    - Stage:     cards
+info   4669.231 sec    - via_js:    true
+info   4669.421 sec    - via_ctrls: true
+       4669.421 sec    Skipping turn.
+info   4716.493 sec    It is our turn
+       4718.110 sec    Checking.         (#btnCheck.primary)
+info   4718.810 sec    Chatting: Rah.
+info   4723.887 sec    It is our turn
+       4725.428 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       4731.621 sec    Raising ~         (#btnRaise.primary)
+info   4732.474 sec    Chatting: Let's make this interesting.
+
+info   4741.925 sec    Hand ID:    19465
+info   4742.564 sec    It is our turn
+info   4742.645 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       4744.632 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       4749.091 sec    Calling!          (#btnCall.primary)
+info   4758.649 sec    Chatting: Rah.
+info   4768.443 sec    It is our turn
+       4769.861 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   4781.557 sec    Chatting: Rah.
+
+info   4783.825 sec    Hand ID:    19466
+info   4796.938 sec    Chatting: Raaaaaah!
+info   4797.668 sec    It is our turn
+       4799.439 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   4810.565 sec    Hand ID:    19468
+info   4811.031 sec    It is our turn
+       4813.083 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   4831.570 sec    Hand ID:    19470
+info   4836.771 sec    It is our turn
+       4838.488 sec    Folding :(        (#btnPass.primary)
+
+info   4845.616 sec    Hand ID:    19472
+info   4846.424 sec    It is our turn
+       4848.373 sec    Calling!          (#btnCall.primary)
+info   4849.258 sec    Chatting: Is that a bet?
+error  4861.080 sec    javascript indicates it's our turn, but the controls do not.
+info   4861.102 sec    - Fold:      blue
+info   4861.135 sec    - Timer:     visible  (Any timer)
+info   4861.209 sec    - Container: not visible
+info   4861.217 sec    - Stage:     flop
+info   4861.231 sec    - via_js:    true
+info   4861.443 sec    - via_ctrls: true
+       4861.443 sec    Skipping turn.
+info   4881.588 sec    It is our turn
+       4883.233 sec    Calling!          (#btnCall.primary)
+info   4884.369 sec    Chatting: That's a nice bet.  Or is it?  I've kinda lost track.
+info   4893.890 sec    It is our turn
+       4895.518 sec    Checking.         (#btnCheck.primary)
+info   4896.368 sec    Chatting: Check.
+
+info   4902.979 sec    Hand ID:    19474
+info   4907.716 sec    It is our turn
+info   4907.757 sec    Chatting: I wouldn't have done that.
+       4909.454 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       4915.626 sec    Checking.         (#btnCheck.primary)
+info   4918.485 sec    It is our turn
+       4919.848 sec    Raising ~         (#btnRaise.primary)
+info   4925.860 sec    It is our turn
+info   4925.902 sec    Chatting: Hi!  How are you?
+       4927.769 sec    Folding :(        (#btnPass.primary)
+
+info   4935.099 sec    Hand ID:    19476
+info   4935.745 sec    It is our turn
+       4937.216 sec    Calling!          (#btnCall.primary)
+info   4938.085 sec    Chatting: Is that a bet?
+info   4949.593 sec    It is our turn
+info   4949.654 sec    Chatting: Hurry up already!
+       4951.677 sec    Calling!          (#btnCall.primary)
+info   4957.009 sec    It is our turn
+       4958.378 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       4963.578 sec    Checking.         (#btnCheck.primary)
+info   4964.326 sec    Chatting: Raaaah!
+info   4969.515 sec    It is our turn
+       4970.740 sec    Waiting 6 seconds before acting (13.0 seconds remaining)
+       4976.937 sec    Folding :(        (#btnPass.primary)
+
+info   4985.981 sec    Hand ID:    19477
+
+info   4995.660 sec    Hand ID:    19479
+info   4996.210 sec    It is our turn
+info   4996.257 sec    Chatting: I wouldn't have done that.
+       4998.051 sec    Waiting 4 seconds before acting (11.0 seconds remaining)
+       5002.324 sec    Calling!          (#btnCall.primary)
+info   5010.367 sec    It is our turn
+       5012.171 sec    Calling!          (#btnCall.primary)
+info   5013.030 sec    Chatting: That's a nice bet.  Or is it?  I've kinda lost track.
+info   5018.093 sec    It is our turn
+       5019.323 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       5029.503 sec    Checking.         (#btnCheck.primary)
+info   5034.603 sec    It is our turn
+info   5034.641 sec    Chatting: Raaaah!
+       5036.613 sec    Checking.         (#btnCheck.primary)
+info   5041.846 sec    It is our turn
+       5043.592 sec    Raising ~         (#btnRaise.primary)
+info   5049.349 sec    It is our turn
+info   5049.392 sec    Chatting: Hi!  How are you?
+       5051.607 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       5055.849 sec    Calling Any       (#btnCallAny.primary)
+
+info   5069.598 sec    Hand ID:    19482
+info   5074.478 sec    It is our turn
+       5076.034 sec    Raising ~         (#btnRaise.primary)
+info   5077.055 sec    Chatting: My cards are crap, but they're still better than yours.
+info   5082.406 sec    It is our turn
+       5083.893 sec    Folding :(        (#btnPass.primary)
+
+info   5090.919 sec    Hand ID:    19483
+info   5091.692 sec    It is our turn
+info   5091.826 sec    Chatting: RETORT
+       5093.779 sec    Raising ~         (#btnRaise.primary)
+info   5104.395 sec    It is our turn
+       5105.854 sec    Waiting 1 seconds before acting (13.0 seconds remaining)
+       5107.050 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   5108.042 sec    Chatting: Let's see ya match this, buddy.
+
+info   5120.263 sec    Hand ID:    19484
+info   5122.822 sec    It is our turn
+       5124.137 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       5126.545 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   5127.656 sec    Chatting: Rah.
+
+info   5138.604 sec    Hand ID:    19486
+info   5139.093 sec    It is our turn
+info   5139.143 sec    Chatting: Chatting. Chat chat chat.
+       5141.389 sec    Calling Any       (#btnCallAny.primary)
+
+info   5152.665 sec    Hand ID:    19487
+info   5152.871 sec    Chatting: Ya'll suck.
+
+info   5166.298 sec    Hand ID:    19488
+
+info   5180.285 sec    Hand ID:    19489
+info   5185.169 sec    It is our turn
+       5186.886 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   5207.035 sec    Hand ID:    19491
+info   5207.496 sec    It is our turn
+       5208.811 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       5211.122 sec    Calling!          (#btnCall.primary)
+info   5212.220 sec    Chatting: Is that a bet?
+info   5222.669 sec    It is our turn
+       5224.583 sec    Folding :(        (#btnPass.primary)
+info   5229.483 sec    Chatting: HEY EURAKARTE
+
+info   5232.141 sec    Hand ID:    19493
+info   5240.009 sec    It is our turn
+info   5240.061 sec    Chatting: Rah.
+       5242.401 sec    Checking.         (#btnCheck.primary)
+info   5245.482 sec    It is our turn
+       5247.417 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   5258.593 sec    Hand ID:    19494
+info   5259.154 sec    It is our turn
+       5260.936 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   5273.037 sec    Hand ID:    19496
+
+info   5284.535 sec    Hand ID:    19497
+info   5285.118 sec    It is our turn
+info   5285.177 sec    Chatting: Raaaaaah!
+       5287.690 sec    Waiting 9 seconds before acting (11.0 seconds remaining)
+       5296.927 sec    Calling!          (#btnCall.primary)
+
+info   5308.947 sec    Hand ID:    19499
+
+info   5326.257 sec    Hand ID:    19501
+
+info   5337.267 sec    Hand ID:    19502
+info   5337.514 sec    It is our turn
+       5339.023 sec    Calling!          (#btnCall.primary)
+info   5339.869 sec    Chatting: Chatting. Chat chat chat.
+info   5355.708 sec    It is our turn
+info   5355.745 sec    Chatting: INSULT
+       5358.112 sec    Calling!          (#btnCall.primary)
+info   5367.204 sec    Chatting: Raaaah!
+
+info   5371.977 sec    Hand ID:    19504
+info   5376.978 sec    It is our turn
+       5378.327 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       5379.546 sec    Calling Any       (#btnCallAny.primary)
+info   5380.527 sec    Chatting: That's a nice bet.  Or is it?  I've kinda lost track.
+info   5383.553 sec    It is our turn
+       5384.702 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       5385.956 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   5415.189 sec    Hand ID:    19505
+
+info   5427.053 sec    Hand ID:    19507
+info   5427.730 sec    It is our turn
+info   5427.840 sec    Chatting: Raaaaaah!
+       5430.370 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   5449.887 sec    Hand ID:    19508
+info   5454.755 sec    It is our turn
+       5456.144 sec    Checking.         (#btnCheck.primary)
+info   5456.840 sec    Chatting: Check check check.
+info   5459.695 sec    It is our turn
+       5461.014 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       5464.235 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   5476.305 sec    Hand ID:    19510
+info   5476.887 sec    It is our turn
+       5478.617 sec    Calling!          (#btnCall.primary)
+info   5479.546 sec    Chatting: That's a nice bet.  Or is it?  I've kinda lost track.
+
+info   5488.580 sec    Hand ID:    19511
+info   5493.311 sec    It is our turn
+       5494.850 sec    Raising ~         (#btnRaise.primary)
+info   5495.597 sec    Chatting: Let me show you a real bet.
+
+info   5507.046 sec    Hand ID:    19513
+info   5517.830 sec    Chatting: Why are you taking so long?
+
+info   5520.398 sec    Hand ID:    19514
+info   5534.424 sec    It is our turn
+info   5534.493 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       5536.446 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       5543.621 sec    Raising ~         (#btnRaise.primary)
+info   5544.503 sec    Chatting: Raising.
+
+info   5562.640 sec    Hand ID:    19517
+
+info   5577.443 sec    Hand ID:    19518
+info   5580.061 sec    It is our turn
+       5581.512 sec    Checking.         (#btnCheck.primary)
+info   5584.271 sec    It is our turn
+       5585.903 sec    Checking.         (#btnCheck.primary)
+info   5591.768 sec    It is our turn
+       5593.245 sec    Waiting 11 seconds before acting (13.0 seconds remaining)
+       5604.487 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   5605.478 sec    Chatting: My cards might be better than yours.  Then again, they might not.  Care to find out?
+
+info   5617.060 sec    Hand ID:    19519
+info   5617.544 sec    It is our turn
+info   5617.596 sec    Chatting: HEY EURAKARTE
+       5619.549 sec    Waiting 6 seconds before acting (11.0 seconds remaining)
+       5625.786 sec    Calling!          (#btnCall.primary)
+info   5635.111 sec    It is our turn
+       5636.681 sec    Checking.         (#btnCheck.primary)
+info   5637.364 sec    Chatting: Check.
+info   5642.375 sec    It is our turn
+       5643.702 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       5651.009 sec    Checking.         (#btnCheck.primary)
+info   5651.876 sec    Chatting: I'm curious, but I'm not 'bet' kind of curious.
+info   5657.328 sec    It is our turn
+       5659.173 sec    Checking.         (#btnCheck.primary)
+
+info   5666.558 sec    Hand ID:    19521
+info   5678.041 sec    It is our turn
+info   5678.084 sec    Chatting: HEY EURAKARTE
+       5679.917 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       5690.162 sec    Checking.         (#btnCheck.primary)
+info   5690.901 sec    Chatting: Check.
+info   5693.678 sec    It is our turn
+       5694.997 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       5705.215 sec    Checking.         (#btnCheck.primary)
+info   5705.845 sec    Chatting: Check.
+info   5710.781 sec    It is our turn
+       5712.334 sec    Waiting 3 seconds before acting (13.0 seconds remaining)
+       5715.561 sec    Raising ~         (#btnRaise.primary)
+info   5725.154 sec    It is our turn
+info   5725.200 sec    Chatting: Hi!  How are you?
+       5727.057 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       5729.269 sec    Checking.         (#btnCheck.primary)
+
+info   5740.717 sec    Hand ID:    19523
+info   5740.867 sec    Chatting: Dude. It's your turn. Go.
+
+info   5754.395 sec    Hand ID:    19524
+
+info   5777.563 sec    Hand ID:    19526
+info   5781.057 sec    It is our turn
+info   5781.104 sec    Chatting: I wouldn't have done that.
+       5783.233 sec    Raising ~         (#btnRaise.primary)
+info   5788.857 sec    It is our turn
+       5790.763 sec    Checking.         (#btnCheck.primary)
+info   5791.541 sec    Chatting: Check, please.
+info   5796.564 sec    It is our turn
+       5798.005 sec    Folding :(        (#btnPass.primary)
+
+info   5804.757 sec    Hand ID:    19528
+info   5805.349 sec    It is our turn
+       5807.134 sec    Calling!          (#btnCall.primary)
+info   5808.208 sec    Chatting: You call that a bet?
+
+info   5819.585 sec    Hand ID:    19530
+info   5822.514 sec    Chatting: Hi!  I'm , how's you?
+info   5823.356 sec    It is our turn
+       5825.329 sec    Waiting 6 seconds before acting (11.0 seconds remaining)
+       5831.572 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   5832.542 sec    Chatting: My cards might be better than yours.  Then again, they might not.  Care to find out?
+
+info   5843.655 sec    Hand ID:    19531
+info   5843.922 sec    It is our turn
+       5845.404 sec    Calling!          (#btnCall.primary)
+info   5850.379 sec    It is our turn
+       5851.892 sec    Calling!          (#btnCall.primary)
+
+info   5869.560 sec    Hand ID:    19533
+info   5880.818 sec    It is our turn
+info   5880.872 sec    Chatting: I wouldn't have done that.
+       5882.898 sec    Checking.         (#btnCheck.primary)
+info   5885.662 sec    It is our turn
+       5887.690 sec    Raising ~         (#btnRaise.primary)
+
+info   5908.349 sec    Hand ID:    19535
+info   5908.694 sec    It is our turn
+info   5908.730 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       5910.560 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       5920.826 sec    Raising ~         (#btnRaise.primary)
+
+info   5942.996 sec    Hand ID:    19537
+info   5948.073 sec    It is our turn
+       5950.068 sec    Folding :(        (#btnPass.primary)
+
+info   5957.696 sec    Hand ID:    19539
+info   5958.522 sec    It is our turn
+info   5958.666 sec    Chatting: Chatting. Chat chat chat.
+       5960.657 sec    Waiting 5 seconds before acting (11.0 seconds remaining)
+       5965.904 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   5972.964 sec    Hand ID:    19540
+info   5979.911 sec    It is our turn
+info   5979.971 sec    Chatting: Rah.
+       5981.983 sec    Waiting 8 seconds before acting (11.0 seconds remaining)
+       5990.211 sec    Folding :(        (#btnPass.primary)
+info   5991.084 sec    Chatting: No way.
+
+info   5997.946 sec    Hand ID:    19542
+info   5998.672 sec    It is our turn
+       5999.867 sec    Waiting 7 seconds before acting (13.0 seconds remaining)
+       6007.286 sec    Raising ~         (#btnRaise.primary)
+info   6008.185 sec    Chatting: Raise.
+info   6018.267 sec    It is our turn
+       6019.773 sec    Raising ~         (#btnRaise.primary)
+
+info   6035.769 sec    Hand ID:    19544
+info   6042.892 sec    It is our turn
+       6044.464 sec    Checking.         (#btnCheck.primary)
+info   6045.080 sec    Chatting: Interesting.
+info   6047.856 sec    It is our turn
+       6049.362 sec    Raising ~         (#btnRaise.primary)
+
+info   6071.309 sec    Hand ID:    19546
+info   6071.819 sec    It is our turn
+info   6071.872 sec    Chatting: Dude. It's your turn. Go.
+       6073.896 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       6078.126 sec    Calling!          (#btnCall.primary)
+info   6094.382 sec    It is our turn
+info   6094.418 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       6096.588 sec    Calling!          (#btnCall.primary)
+
+info   6110.567 sec    Hand ID:    19549
+
+info   6121.357 sec    Hand ID:    19550
+info   6121.816 sec    It is our turn
+       6123.376 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       6130.661 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   6142.081 sec    Hand ID:    19552
+info   6146.730 sec    Chatting: Why are you taking so long?
+info   6151.662 sec    It is our turn
+       6152.954 sec    Waiting 3 seconds before acting (11.0 seconds remaining)
+       6156.294 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   6175.870 sec    Hand ID:    19553
+info   6176.150 sec    It is our turn
+       6177.558 sec    Raising ~         (#btnRaise.primary)
+info   6189.900 sec    It is our turn
+       6191.632 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       6199.873 sec    Raising ~         (#btnRaise.primary)
+info   6200.674 sec    Chatting: Let's make this interesting.
+
+info   6213.696 sec    Hand ID:    19556
+info   6218.631 sec    It is our turn
+       6220.348 sec    Calling Any       (#btnCallAny.primary)
+info   6221.107 sec    Chatting: Come on, make this hard for me!
+info   6236.236 sec    It is our turn
+
+info   6236.256 sec    Hand ID:    19557
+info   6236.322 sec    Chatting: INSULT
+       6238.559 sec    Raising ~         (#btnRaise.primary)
+info   6244.354 sec    It is our turn
+       6246.086 sec    Folding :(        (#btnPass.primary)
+
+info   6253.025 sec    Hand ID:    19558
+info   6258.169 sec    It is our turn
+info   6258.218 sec    Chatting: Chatting. Chat chat chat.
+       6260.215 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       6269.509 sec    Calling!          (#btnCall.primary)
+
+info   6285.077 sec    Hand ID:    19560
+info   6285.556 sec    It is our turn
+info   6285.632 sec    Chatting: Hi!  I'm , how's you?
+       6287.856 sec    Raising ~         (#btnRaise.primary)
+
+info   6300.883 sec    Hand ID:    19562
+info   6305.850 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+
+info   6310.891 sec    Hand ID:    19564
+info   6311.660 sec    It is our turn
+       6313.217 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       6321.448 sec    Raising ~         (#btnRaise.primary)
+
+info   6346.083 sec    Hand ID:    19565
+info   6350.745 sec    It is our turn
+       6352.267 sec    Calling Any       (#btnCallAny.primary)
+info   6355.034 sec    It is our turn
+info   6355.076 sec    Chatting: Raaaaaah!
+       6356.897 sec    Checking.         (#btnCheck.primary)
+info   6361.852 sec    It is our turn
+       6363.224 sec    Calling!          (#btnCall.primary)
+info   6366.080 sec    It is our turn
+       6367.509 sec    Checking.         (#btnCheck.primary)
+info   6373.339 sec    It is our turn
+       6375.067 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       6378.300 sec    Calling!          (#btnCall.primary)
+info   6381.085 sec    It is our turn
+       6382.691 sec    Raising ~         (#btnRaise.primary)
+info   6383.558 sec    Chatting: Don't worry, chips, you'll be home again soon
+
+info   6402.100 sec    Hand ID:    19567
+info   6402.499 sec    It is our turn
+       6403.798 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       6404.987 sec    Calling!          (#btnCall.primary)
+info   6415.130 sec    It is our turn
+       6416.672 sec    Raising ~         (#btnRaise.primary)
+
+info   6430.274 sec    Hand ID:    19570
+info   6444.462 sec    It is our turn
+info   6444.567 sec    Chatting: Chatting. Chat chat chat.
+       6446.515 sec    Checking.         (#btnCheck.primary)
+info   6449.654 sec    It is our turn
+       6451.047 sec    Waiting 7 seconds before acting (13.0 seconds remaining)
+       6458.273 sec    Raising ~         (#btnRaise.primary)
+info   6459.096 sec    Chatting: Raise.
+info   6464.021 sec    It is our turn
+       6465.573 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       6481.519 sec    Buying in
+
+info   6485.888 sec    Hand ID:    19572
+info   6486.286 sec    It is our turn
+info   6486.323 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       6488.344 sec    Folding :(        (#btnPass.primary)
+
+info   6495.954 sec    Hand ID:    19574
+info   6500.879 sec    It is our turn
+info   6500.932 sec    Chatting: Why are you taking so long?
+       6502.609 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       6506.822 sec    Checking.         (#btnCheck.primary)
+info   6509.724 sec    It is our turn
+       6511.217 sec    Checking.         (#btnCheck.primary)
+info   6511.946 sec    Chatting: I'm curious, but I'm not 'bet' kind of curious.
+info   6523.770 sec    It is our turn
+       6524.977 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   6525.691 sec    Chatting: Help! I'm trapped in a poker bot!
+
+info   6543.382 sec    Hand ID:    19576
+info   6544.318 sec    It is our turn
+info   6544.366 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       6546.692 sec    Folding :(        (#btnPass.primary)
+
+info   6554.263 sec    Hand ID:    19577
+info   6556.987 sec    Chatting: Dude. It's your turn. Go.
+info   6559.928 sec    It is our turn
+       6561.191 sec    Checking.         (#btnCheck.primary)
+info   6563.998 sec    It is our turn
+       6565.405 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   6577.338 sec    Hand ID:    19578
+info   6578.125 sec    It is our turn
+       6579.422 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       6581.590 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   6582.868 sec    Chatting: Why are you taking so long?
+
+info   6602.507 sec    Hand ID:    19580
+info   6613.856 sec    It is our turn
+       6615.666 sec    Folding :(        (#btnPass.primary)
+info   6623.935 sec    It is our turn
+
+info   6623.966 sec    Hand ID:    19582
+info   6624.008 sec    Chatting: Help! I'm trapped in a poker bot!
+       6626.136 sec    Calling!          (#btnCall.primary)
+
+info   6638.419 sec    Hand ID:    19584
+info   6641.143 sec    Chatting: Why is my entire life poker?
+
+info   6648.791 sec    Hand ID:    19585
+info   6649.364 sec    It is our turn
+       6650.756 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       6659.032 sec    Calling!          (#btnCall.primary)
+
+info   6675.535 sec    Hand ID:    19587
+info   6678.761 sec    It is our turn
+info   6678.826 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       6681.092 sec    Calling!          (#btnCall.primary)
+info   6684.045 sec    It is our turn
+       6685.600 sec    Raising ~         (#btnRaise.primary)
+
+info   6695.323 sec    Hand ID:    19588
+info   6696.121 sec    It is our turn
+       6698.544 sec    Calling!          (#btnCall.primary)
+info   6703.489 sec    Chatting: INSULT
+info   6708.890 sec    It is our turn
+       6710.072 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       6719.291 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   6720.260 sec    Chatting: Why are you taking so long?
+
+info   6733.364 sec    Hand ID:    19590
+info   6738.270 sec    It is our turn
+info   6738.312 sec    Chatting: Hi!  How are you?
+       6740.419 sec    Raising ~         (#btnRaise.primary)
+
+info   6750.436 sec    Hand ID:    19591
+info   6751.224 sec    It is our turn
+       6752.562 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       6757.743 sec    Calling!          (#btnCall.primary)
+info   6762.740 sec    It is our turn
+       6764.225 sec    Folding :(        (#btnPass.primary)
+info   6765.056 sec    Chatting: Wow! These cards are incredibly ... incredibly ... incredibly bad!
+
+info   6771.777 sec    Hand ID:    19593
+info   6783.042 sec    It is our turn
+       6784.827 sec    Checking.         (#btnCheck.primary)
+info   6787.541 sec    It is our turn
+       6789.224 sec    Checking.         (#btnCheck.primary)
+info   6794.450 sec    It is our turn
+info   6794.499 sec    Chatting: Ya'll suck.
+       6796.733 sec    Checking.         (#btnCheck.primary)
+info   6814.804 sec    It is our turn
+       6816.658 sec    Checking.         (#btnCheck.primary)
+
+info   6836.501 sec    Hand ID:    19596
+info   6836.800 sec    It is our turn
+       6837.971 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       6840.173 sec    Calling!          (#btnCall.primary)
+info   6872.771 sec    It is our turn
+info   6872.855 sec    Chatting: Raaaaaah!
+       6874.711 sec    Raising ~         (#btnRaise.primary)
+info   6884.401 sec    Chatting: You know, stalling for time doesn't really work in poker.
+info   6885.369 sec    It is our turn
+       6887.163 sec    Folding :(        (#btnPass.primary)
+
+info   6894.517 sec    Hand ID:    19599
+info   6903.866 sec    It is our turn
+       6905.021 sec    Waiting 7 seconds before acting (11.0 seconds remaining)
+       6912.392 sec    Checking.         (#btnCheck.primary)
+info   6913.227 sec    Chatting: I'm curious, but I'm not 'bet' kind of curious.
+info   6916.154 sec    It is our turn
+       6917.745 sec    Raising ~         (#btnRaise.primary)
+info   6922.830 sec    It is our turn
+       6924.660 sec    Raising ~         (#btnRaise.primary)
+info   6925.555 sec    Chatting: Don't worry, chips, you'll be home again soon
+info   6930.610 sec    It is our turn
+       6932.096 sec    Checking.         (#btnCheck.primary)
+error  6937.771 sec    javascript indicates it's our turn, but the controls do not.
+info   6937.827 sec    - Fold:      blue
+info   6937.840 sec    - Timer:     visible  (Any timer)
+info   6937.887 sec    - Container: not visible
+info   6937.898 sec    - Stage:     river
+info   6937.911 sec    - via_js:    true
+info   6938.112 sec    - via_ctrls: true
+       6938.112 sec    Skipping turn.
+
+info   6959.093 sec    Hand ID:    19603
+info   6959.614 sec    It is our turn
+info   6959.665 sec    Chatting: RETORT
+       6961.618 sec    Calling Any       (#btnCallAny.primary)
+info   6972.554 sec    It is our turn
+info   6972.602 sec    Chatting: Hi!  How are you?
+       6975.472 sec    Calling!          (#btnCall.primary)
+info   6981.738 sec    It is our turn
+       6983.192 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   6984.242 sec    Chatting: My lovely chips!  Oh no!
+       6995.360 sec    Buying in
+
+info   6997.363 sec    Hand ID:    19604
+info   7002.364 sec    Chatting: HEY EURAKARTE
+info   7005.441 sec    It is our turn
+       7007.162 sec    Folding :(        (#btnPass.primary)
+
+info   7014.354 sec    Hand ID:    19606
+info   7015.155 sec    It is our turn
+       7016.648 sec    Calling!          (#btnCall.primary)
+info   7017.647 sec    Chatting: Those chips look so lonely.
+info   7029.546 sec    It is our turn
+info   7029.595 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       7031.757 sec    Waiting 4 seconds before acting (11.0 seconds remaining)
+       7036.347 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   7054.119 sec    Hand ID:    19609
+info   7059.499 sec    It is our turn
+       7061.199 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7061.864 sec    Chatting: Please don't call, please don't call, please don't call ...
+
+info   7080.843 sec    Hand ID:    19611
+info   7081.681 sec    It is our turn
+info   7081.790 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       7083.839 sec    Waiting 6 seconds before acting (11.0 seconds remaining)
+       7090.134 sec    Calling!          (#btnCall.primary)
+info   7095.783 sec    It is our turn
+       7097.280 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7098.048 sec    Chatting: I'm not just all in, I'm ALL CAPS IN!
+
+info   7113.336 sec    Hand ID:    19613
+info   7120.381 sec    It is our turn
+       7121.589 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       7122.766 sec    Raising ~         (#btnRaise.primary)
+
+info   7134.719 sec    Hand ID:    19614
+info   7135.655 sec    It is our turn
+       7137.013 sec    Folding :(        (#btnPass.primary)
+
+info   7143.660 sec    Hand ID:    19615
+
+info   7154.784 sec    Hand ID:    19616
+info   7155.115 sec    It is our turn
+       7156.889 sec    Raising ~         (#btnRaise.primary)
+info   7162.532 sec    Chatting: Chatting. Chat chat chat.
+info   7163.326 sec    It is our turn
+       7164.828 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       7169.156 sec    Calling!          (#btnCall.primary)
+info   7185.843 sec    It is our turn
+       7187.740 sec    Checking.         (#btnCheck.primary)
+info   7188.533 sec    Chatting: Check, please.
+info   7193.620 sec    It is our turn
+       7195.218 sec    Checking.         (#btnCheck.primary)
+info   7200.306 sec    Chatting: Ya'll suck.
+info   7201.130 sec    It is our turn
+       7203.154 sec    Calling!          (#btnCall.primary)
+
+info   7210.701 sec    Hand ID:    19618
+info   7215.458 sec    Chatting: Hurry up already!
+info   7222.496 sec    It is our turn
+       7223.903 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       7227.134 sec    Checking.         (#btnCheck.primary)
+info   7227.991 sec    Chatting: Check, please.
+info   7230.884 sec    It is our turn
+       7232.333 sec    Folding :(        (#btnPass.primary)
+
+info   7239.775 sec    Hand ID:    19620
+info   7240.348 sec    It is our turn
+info   7240.413 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       7242.785 sec    Calling!          (#btnCall.primary)
+info   7253.828 sec    It is our turn
+       7255.579 sec    Folding :(        (#btnPass.primary)
+
+info   7262.595 sec    Hand ID:    19622
+info   7276.476 sec    It is our turn
+       7277.943 sec    Checking.         (#btnCheck.primary)
+info   7280.718 sec    It is our turn
+info   7280.765 sec    Chatting: HEY EURAKARTE
+       7282.441 sec    Waiting 3 seconds before acting (13.0 seconds remaining)
+       7285.645 sec    Checking.         (#btnCheck.primary)
+info   7303.663 sec    It is our turn
+       7305.078 sec    Checking.         (#btnCheck.primary)
+info   7318.435 sec    It is our turn
+       7320.220 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       7336.538 sec    Buying in
+info   7340.276 sec    It is our turn
+
+info   7340.295 sec    Hand ID:    19625
+info   7340.360 sec    Chatting: Why is my entire life poker?
+       7342.544 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7356.840 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+
+info   7361.521 sec    Hand ID:    19627
+info   7371.103 sec    It is our turn
+       7372.514 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7373.272 sec    Chatting:  GONNA WIN
+
+info   7392.848 sec    Hand ID:    19628
+info   7393.198 sec    It is our turn
+       7395.141 sec    Calling!          (#btnCall.primary)
+info   7396.063 sec    Chatting: Come on, make this hard for me!
+info   7405.659 sec    It is our turn
+       7407.250 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7408.364 sec    Chatting: Allons-y
+
+info   7419.839 sec    Hand ID:    19631
+info   7424.682 sec    It is our turn
+       7426.345 sec    Checking.         (#btnCheck.primary)
+info   7429.392 sec    It is our turn
+info   7429.435 sec    Chatting: Hi!  How are you?
+       7430.882 sec    Waiting 5 seconds before acting (13.0 seconds remaining)
+       7436.371 sec    Folding :(        (#btnPass.primary)
+
+info   7443.755 sec    Hand ID:    19632
+info   7444.419 sec    It is our turn
+       7446.154 sec    Calling!          (#btnCall.primary)
+info   7455.334 sec    Chatting: INSULT
+
+info   7457.615 sec    Hand ID:    19633
+info   7461.105 sec    It is our turn
+       7462.722 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   7470.038 sec    Hand ID:    19634
+info   7470.618 sec    It is our turn
+info   7470.687 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       7472.714 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       7482.953 sec    Raising ~         (#btnRaise.primary)
+info   7483.827 sec    Chatting: These cards right here.. these cards, in my hand.  These cards. They're awesome.
+error  7491.717 sec    javascript indicates it's our turn, but the controls do not.
+info   7491.746 sec    - Fold:      blue
+info   7491.776 sec    - Timer:     visible  (Any timer)
+info   7491.832 sec    - Container: not visible
+info   7491.845 sec    - Stage:     flop
+info   7491.853 sec    - via_js:    true
+info   7492.067 sec    - via_ctrls: true
+       7492.067 sec    Skipping turn.
+info   7514.095 sec    It is our turn
+info   7514.150 sec    Chatting: INSULT
+       7516.073 sec    Waiting 5 seconds before acting (10.0 seconds remaining)
+       7521.264 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       7536.550 sec    Buying in
+
+info   7540.917 sec    Hand ID:    19636
+info   7544.420 sec    It is our turn
+       7545.893 sec    Calling!          (#btnCall.primary)
+info   7546.985 sec    Chatting: Is that a bet?
+info   7549.670 sec    It is our turn
+       7550.950 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       7559.431 sec    Checking.         (#btnCheck.primary)
+
+info   7573.731 sec    Hand ID:    19638
+info   7574.987 sec    It is our turn
+       7577.379 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7578.207 sec    Chatting: It was a ruse all along, I DO know what I'm doing!
+
+info   7589.200 sec    Hand ID:    19639
+info   7599.506 sec    It is our turn
+
+info   7599.531 sec    Hand ID:    19640
+       7601.174 sec    Calling!          (#btnCall.primary)
+
+info   7613.134 sec    Hand ID:    19642
+info   7620.128 sec    Chatting: Hi!  How are you?
+info   7621.003 sec    It is our turn
+       7622.808 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   7629.958 sec    Hand ID:    19644
+info   7631.110 sec    It is our turn
+       7632.880 sec    Calling!          (#btnCall.primary)
+info   7633.958 sec    Chatting: Rah.
+error  7643.532 sec    javascript indicates it's our turn, but the controls do not.
+info   7643.588 sec    - Fold:      blue
+info   7643.610 sec    - Timer:     visible  (Any timer)
+info   7643.661 sec    - Container: not visible
+info   7643.675 sec    - Stage:     flop
+info   7643.692 sec    - via_js:    true
+info   7643.911 sec    - via_ctrls: true
+       7643.911 sec    Skipping turn.
+
+info   7669.183 sec    Hand ID:    19646
+info   7669.659 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+info   7674.839 sec    It is our turn
+       7676.252 sec    Waiting 7 seconds before acting (11.0 seconds remaining)
+       7683.449 sec    Calling!          (#btnCall.primary)
+info   7686.247 sec    It is our turn
+info   7686.281 sec    Chatting: Raaaah!
+       7688.116 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7705.509 sec    It is our turn
+
+info   7705.518 sec    Hand ID:    19648
+       7707.439 sec    Calling!          (#btnCall.primary)
+info   7708.311 sec    Chatting: Easy peasy.
+info   7722.383 sec    It is our turn
+       7724.008 sec    Calling!          (#btnCall.primary)
+info   7725.091 sec    Chatting: That's a nice bet.  Or is it?  I've kinda lost track.
+info   7730.081 sec    It is our turn
+       7731.635 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       7732.961 sec    Calling!          (#btnCall.primary)
+info   7744.530 sec    It is our turn
+info   7744.581 sec    Chatting: Help! I'm trapped in a poker bot!
+       7746.829 sec    Checking.         (#btnCheck.primary)
+
+info   7755.961 sec    Hand ID:    19650
+info   7758.765 sec    Chatting: Hi!  I'm , how's you?
+info   7761.449 sec    It is our turn
+       7762.936 sec    Folding :(        (#btnPass.primary)
+
+info   7770.204 sec    Hand ID:    19652
+info   7770.488 sec    Chatting: Help! I'm trapped in a poker bot!
+info   7771.547 sec    It is our turn
+       7773.126 sec    Raising ~         (#btnRaise.primary)
+info   7792.909 sec    It is our turn
+info   7792.958 sec    Chatting: Hi!  How are you?
+       7795.036 sec    Folding :(        (#btnPass.primary)
+
+info   7803.044 sec    Hand ID:    19653
+
+info   7814.146 sec    Hand ID:    19654
+info   7814.533 sec    It is our turn
+       7816.226 sec    Calling!          (#btnCall.primary)
+info   7817.055 sec    Chatting: Is that a bet?
+info   7826.551 sec    It is our turn
+       7827.888 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       7836.105 sec    Raising ~         (#btnRaise.primary)
+
+info   7860.475 sec    Hand ID:    19656
+info   7864.962 sec    Chatting: HEY EURAKARTE
+info   7874.354 sec    It is our turn
+       7876.121 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       7886.340 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7887.365 sec    Chatting: I'm not just all in, I'm ALL CAPS IN!
+
+info   7905.587 sec    Hand ID:    19658
+info   7906.091 sec    It is our turn
+       7907.738 sec    Calling!          (#btnCall.primary)
+info   7908.543 sec    Chatting: Calling!
+info   7922.674 sec    It is our turn
+       7924.002 sec    Folding :(        (#btnPass.primary)
+
+info   7931.433 sec    Hand ID:    19661
+info   7936.599 sec    It is our turn
+       7938.346 sec    Folding :(        (#btnPass.primary)
+info   7939.187 sec    Chatting: I'm out.
+
+info   7945.924 sec    Hand ID:    19662
+info   7946.638 sec    It is our turn
+       7948.397 sec    Calling Any       (#btnCallAny.primary)
+
+info   7960.510 sec    Hand ID:    19664
+info   7965.378 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+info   7966.345 sec    It is our turn
+       7967.600 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       7969.801 sec    Calling Any       (#btnCallAny.primary)
+info   7973.060 sec    It is our turn
+       7974.425 sec    Raising ~         (#btnRaise.primary)
+info   7984.283 sec    It is our turn
+       7985.563 sec    Waiting 10 seconds before acting (13.0 seconds remaining)
+       7995.799 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   7996.717 sec    Chatting: My lovely chips!  Oh no!
+info   8010.016 sec    Chatting: HEY EURAKARTE
+       8012.314 sec    Buying in
+
+info   8014.562 sec    Hand ID:    19666
+info   8015.457 sec    It is our turn
+       8016.726 sec    Waiting 6 seconds before acting (13.0 seconds remaining)
+       8022.983 sec    Folding :(        (#btnPass.primary)
+
+info   8029.693 sec    Hand ID:    19667
+info   8034.435 sec    It is our turn
+       8035.668 sec    Waiting 2 seconds before acting (13.0 seconds remaining)
+       8037.892 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       8053.219 sec    Buying in
+
+info   8055.620 sec    Hand ID:    19669
+info   8056.307 sec    It is our turn
+info   8056.384 sec    Chatting: Hurry up already!
+       8058.384 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       8065.610 sec    Calling!          (#btnCall.primary)
+info   8066.543 sec    Chatting: Those chips look so lonely.
+
+info   8082.145 sec    Hand ID:    19671
+info   8085.293 sec    It is our turn
+info   8085.396 sec    Chatting: I wouldn't have done that.
+       8087.589 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   8094.637 sec    Hand ID:    19672
+info   8095.146 sec    It is our turn
+       8096.768 sec    Calling!          (#btnCall.primary)
+info   8102.245 sec    It is our turn
+       8103.657 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   8119.768 sec    Hand ID:    19674
+info   8125.080 sec    It is our turn
+info   8125.127 sec    Chatting: Dude. It's your turn. Go.
+       8127.239 sec    Folding :(        (#btnPass.primary)
+
+info   8134.833 sec    Hand ID:    19676
+info   8135.514 sec    It is our turn
+       8137.085 sec    Calling!          (#btnCall.primary)
+info   8138.216 sec    Chatting: You call that a bet?
+info   8148.388 sec    It is our turn
+       8149.665 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   8152.451 sec    Chatting: Raaaah!
+
+info   8163.557 sec    Hand ID:    19677
+info   8168.864 sec    It is our turn
+       8170.829 sec    Raising ~         (#btnRaise.primary)
+info   8172.033 sec    Chatting: The rain in Spain falls mostly on the plain
+info   8177.578 sec    It is our turn
+       8179.394 sec    Checking.         (#btnCheck.primary)
+
+info   8191.173 sec    Hand ID:    19678
+info   8191.610 sec    It is our turn
+       8192.981 sec    Calling!          (#btnCall.primary)
+info   8194.056 sec    Chatting: Come on, make this hard for me!
+info   8205.350 sec    It is our turn
+       8207.074 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       8217.431 sec    Calling!          (#btnCall.primary)
+info   8223.174 sec    It is our turn
+info   8223.218 sec    Chatting: Dude. It's your turn. Go.
+       8224.834 sec    Waiting 8 seconds before acting (13.0 seconds remaining)
+       8233.129 sec    Folding :(        (#btnPass.primary)
+info   8233.920 sec    Chatting: Dealer, did you even shuffle?
+
+info   8241.122 sec    Hand ID:    19680
+info   8243.947 sec    It is our turn
+       8245.349 sec    Waiting 6 seconds before acting (13.0 seconds remaining)
+       8251.705 sec    Checking.         (#btnCheck.primary)
+info   8252.366 sec    Chatting: These are check.
+info   8255.000 sec    It is our turn
+       8256.546 sec    Checking.         (#btnCheck.primary)
+info   8262.052 sec    It is our turn
+       8263.418 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       8265.656 sec    Calling!          (#btnCall.primary)
+info   8266.509 sec    Chatting: Come on, make this hard for me!
+info   8269.444 sec    It is our turn
+       8270.960 sec    Checking.         (#btnCheck.primary)
+
+info   8281.987 sec    Hand ID:    19683
+info   8282.480 sec    It is our turn
+info   8282.525 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       8284.757 sec    Calling!          (#btnCall.primary)
+info   8295.070 sec    Chatting: Hurry up already!
+
+info   8306.243 sec    Hand ID:    19685
+info   8313.602 sec    It is our turn
+info   8313.641 sec    Chatting: Chatting. Chat chat chat.
+       8315.799 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       8323.031 sec    Folding :(        (#btnPass.primary)
+
+info   8329.622 sec    Hand ID:    19686
+info   8330.668 sec    It is our turn
+info   8330.763 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       8333.601 sec    Raising ~         (#btnRaise.primary)
+info   8346.061 sec    It is our turn
+       8347.528 sec    Folding :(        (#btnPass.primary)
+info   8348.652 sec    Chatting: These cards are made of suck and awful.
+
+info   8355.436 sec    Hand ID:    19688
+info   8358.071 sec    It is our turn
+       8359.353 sec    Waiting 9 seconds before acting (13.0 seconds remaining)
+       8368.547 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       8384.001 sec    Buying in
+
+info   8386.611 sec    Hand ID:    19690
+info   8387.388 sec    It is our turn
+       8388.768 sec    Calling!          (#btnCall.primary)
+info   8389.752 sec    Chatting: Those chips look so lonely.
+info   8394.716 sec    It is our turn
+       8396.100 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       8405.320 sec    Folding :(        (#btnPass.primary)
+
+info   8412.413 sec    Hand ID:    19692
+info   8417.565 sec    It is our turn
+       8419.119 sec    Folding :(        (#btnPass.primary)
+
+info   8425.760 sec    Hand ID:    19693
+       8439.332 sec    Buying in
+
+info   8443.417 sec    Hand ID:    19695
+info   8446.380 sec    It is our turn
+       8447.966 sec    Checking.         (#btnCheck.primary)
+info   8450.759 sec    It is our turn
+       8452.351 sec    Folding :(        (#btnPass.primary)
+
+info   8459.559 sec    Hand ID:    19697
+info   8460.133 sec    It is our turn
+info   8460.219 sec    Chatting: Hurry up already!
+       8463.114 sec    Calling!          (#btnCall.primary)
+info   8478.867 sec    It is our turn
+info   8478.996 sec    Chatting: RETORT
+       8483.102 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       8496.937 sec    Buying in
+
+info   8499.594 sec    Hand ID:    19699
+
+info   8510.763 sec    Hand ID:    19701
+info   8511.413 sec    It is our turn
+       8513.099 sec    Calling!          (#btnCall.primary)
+info   8525.689 sec    It is our turn
+info   8525.730 sec    Chatting: Raaaah!
+       8527.564 sec    Calling!          (#btnCall.primary)
+
+info   8541.689 sec    Hand ID:    19702
+info   8546.696 sec    It is our turn
+       8548.215 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   8555.311 sec    Chatting: RETORT
+
+info   8559.701 sec    Hand ID:    19704
+info   8560.055 sec    It is our turn
+       8561.846 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       8582.291 sec    Buying in
+
+info   8584.499 sec    Hand ID:    19706
+info   8589.664 sec    It is our turn
+       8591.309 sec    Waiting 7 seconds before acting (11.0 seconds remaining)
+       8598.550 sec    Checking.         (#btnCheck.primary)
+info   8601.299 sec    It is our turn
+       8602.796 sec    Checking.         (#btnCheck.primary)
+info   8603.488 sec    Chatting: These are check.
+
+info   8622.852 sec    Hand ID:    19709
+info   8623.167 sec    It is our turn
+info   8623.207 sec    Chatting: The rain in Spain falls mostly on the plain
+       8625.568 sec    Calling!          (#btnCall.primary)
+info   8635.061 sec    It is our turn
+       8636.541 sec    Raising ~         (#btnRaise.primary)
+info   8637.385 sec    Chatting: I'll raise.
+info   8655.592 sec    It is our turn
+info   8655.629 sec    Chatting: INSULT
+       8657.519 sec    Raising ~         (#btnRaise.primary)
+info   8667.436 sec    It is our turn
+info   8667.483 sec    Chatting: Help! I'm trapped in a poker bot!
+       8669.481 sec    Checking.         (#btnCheck.primary)
+
+info   8676.653 sec    Hand ID:    19710
+
+info   8692.007 sec    Hand ID:    19712
+info   8692.284 sec    It is our turn
+       8693.989 sec    Calling Any       (#btnCallAny.primary)
+info   8694.847 sec    Chatting: Is that a bet?
+       8708.630 sec    Buying in
+
+info   8712.689 sec    Hand ID:    19714
+info   8717.667 sec    It is our turn
+info   8717.740 sec    Chatting: Dude. It's your turn. Go.
+       8719.727 sec    Checking.         (#btnCheck.primary)
+info   8722.982 sec    It is our turn
+       8724.507 sec    Checking.         (#btnCheck.primary)
+info   8732.118 sec    It is our turn
+info   8732.162 sec    Chatting: Raaaah!
+       8734.185 sec    Calling!          (#btnCall.primary)
+info   8737.531 sec    It is our turn
+       8739.273 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   8754.691 sec    Hand ID:    19715
+info   8755.098 sec    It is our turn
+       8756.434 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       8764.674 sec    Folding :(        (#btnPass.primary)
+
+info   8772.025 sec    Hand ID:    19716
+info   8777.128 sec    It is our turn
+info   8777.176 sec    Chatting: Hurry up already!
+       8778.984 sec    Waiting 3 seconds before acting (11.0 seconds remaining)
+       8782.267 sec    Folding :(        (#btnPass.primary)
+
+info   8789.914 sec    Hand ID:    19717
+info   8790.864 sec    It is our turn
+       8792.540 sec    Calling!          (#btnCall.primary)
+info   8793.699 sec    Chatting: Calling!
+info   8808.209 sec    It is our turn
+       8809.616 sec    Waiting 9 seconds before acting (13.0 seconds remaining)
+       8818.863 sec    Raising ~         (#btnRaise.primary)
+
+info   8830.395 sec    Hand ID:    19719
+
+info   8841.635 sec    Hand ID:    19721
+info   8842.124 sec    It is our turn
+info   8842.178 sec    Chatting: INSULT
+       8844.465 sec    Calling!          (#btnCall.primary)
+info   8865.076 sec    It is our turn
+       8867.066 sec    Raising ~         (#btnRaise.primary)
+info   8867.984 sec    Chatting: These cards right here.. these cards, in my hand.  These cards. They're awesome.
+info   8877.553 sec    It is our turn
+       8879.291 sec    Folding :(        (#btnPass.primary)
+
+info   8886.275 sec    Hand ID:    19722
+info   8891.606 sec    It is our turn
+       8893.012 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       8897.212 sec    Checking.         (#btnCheck.primary)
+info   8900.127 sec    It is our turn
+       8901.235 sec    Waiting 11 seconds before acting (13.0 seconds remaining)
+       8912.481 sec    Checking.         (#btnCheck.primary)
+error  8913.195 sec    the controls indicate it's our turn, but javascript does not.
+info   8913.233 sec    - Fold:      blue
+info   8913.259 sec    - Timer:     visible  (Any timer)
+info   8913.318 sec    - Container: visible
+info   8913.341 sec    - Stage:     flop
+info   8913.362 sec    - via_js:    false
+info   8913.434 sec    - via_ctrls: false
+       8913.434 sec    Skipping turn.
+error  8913.511 sec    It is NOT our turn!
+info   8923.640 sec    It is our turn
+       8925.426 sec    Calling!          (#btnCall.primary)
+info   8926.530 sec    Chatting: Those chips look so lonely.
+
+info   8937.350 sec    Hand ID:    19725
+info   8937.719 sec    It is our turn
+       8939.614 sec    Calling!          (#btnCall.primary)
+
+info   8953.589 sec    Hand ID:    19726
+info   8965.485 sec    It is our turn
+       8967.028 sec    Calling!          (#btnCall.primary)
+info   8969.735 sec    It is our turn
+info   8969.783 sec    Chatting: I wouldn't have done that.
+       8971.520 sec    Waiting 11 seconds before acting (13.0 seconds remaining)
+error  8983.092 sec    the controls indicate it's our turn, but javascript does not.
+info   8983.114 sec    - Fold:      blue
+info   8983.131 sec    - Timer:     visible  (Any timer)
+info   8983.203 sec    - Container: visible
+info   8983.229 sec    - Stage:     flop
+info   8983.265 sec    - via_js:    false
+info   8983.342 sec    - via_ctrls: false
+       8983.342 sec    Skipping turn.
+warn   8983.413 sec    Strangely, it is not our turn anymore. Skipping. (line 1074)
+info   8983.446 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+info   8988.184 sec    It is our turn
+       8989.690 sec    Folding :(        (#btnPass.primary)
+
+info   8996.595 sec    Hand ID:    19730
+info   8997.093 sec    It is our turn
+info   8997.165 sec    Chatting: Hi!  How are you?
+       8999.346 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9020.281 sec    Chatting: Rah.
+
+info   9026.769 sec    Hand ID:    19733
+info   9038.076 sec    It is our turn
+info   9038.181 sec    Chatting: HEY EURAKARTE
+       9040.141 sec    Waiting 1 seconds before acting (11.0 seconds remaining)
+       9041.600 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9061.119 sec    It is our turn
+
+info   9061.134 sec    Hand ID:    19735
+       9063.149 sec    Calling!          (#btnCall.primary)
+info   9077.782 sec    It is our turn
+info   9077.821 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       9079.842 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       9095.243 sec    Buying in
+
+info   9097.481 sec    Hand ID:    19737
+info   9102.480 sec    Chatting: INSULT
+info   9111.432 sec    It is our turn
+       9112.926 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9129.425 sec    Chatting: I wouldn't have done that.
+       9132.358 sec    Buying in
+
+info   9135.989 sec    Hand ID:    19740
+info   9136.710 sec    It is our turn
+       9137.874 sec    Waiting 1 seconds before acting (13.0 seconds remaining)
+       9139.108 sec    Calling!          (#btnCall.primary)
+
+info   9150.343 sec    Hand ID:    19742
+info   9154.056 sec    It is our turn
+info   9154.104 sec    Chatting: Ya'll suck.
+       9155.592 sec    Waiting 7 seconds before acting (13.0 seconds remaining)
+       9162.826 sec    Calling!          (#btnCall.primary)
+info   9165.608 sec    It is our turn
+       9167.069 sec    Checking.         (#btnCheck.primary)
+info   9167.693 sec    Chatting: Check check check.
+info   9172.486 sec    It is our turn
+       9174.153 sec    Checking.         (#btnCheck.primary)
+info   9179.179 sec    It is our turn
+info   9179.236 sec    Chatting: RETORT
+       9181.256 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       9199.296 sec    Buying in
+
+info   9203.797 sec    Hand ID:    19745
+info   9204.116 sec    It is our turn
+info   9204.160 sec    Chatting: Why is my entire life poker?
+       9206.207 sec    Calling!          (#btnCall.primary)
+info   9216.523 sec    It is our turn
+info   9216.625 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       9218.709 sec    Folding :(        (#btnPass.primary)
+
+info   9226.748 sec    Hand ID:    19747
+info   9236.267 sec    It is our turn
+info   9236.312 sec    Chatting: INSULT
+       9238.013 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       9240.256 sec    Folding :(        (#btnPass.primary)
+
+info   9247.879 sec    Hand ID:    19748
+       9261.363 sec    Buying in
+
+info   9265.485 sec    Hand ID:    19749
+info   9268.867 sec    It is our turn
+       9270.196 sec    Checking.         (#btnCheck.primary)
+info   9270.862 sec    Chatting: Check check check.
+info   9273.822 sec    It is our turn
+       9274.980 sec    Waiting 3 seconds before acting (12.0 seconds remaining)
+       9278.205 sec    Folding :(        (#btnPass.primary)
+
+info   9285.761 sec    Hand ID:    19750
+info   9286.598 sec    It is our turn
+       9288.226 sec    Calling Any       (#btnCallAny.primary)
+info   9299.411 sec    Chatting: Dude. It's your turn. Go.
+
+info   9309.009 sec    Hand ID:    19752
+info   9316.548 sec    It is our turn
+       9317.696 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       9319.966 sec    Checking.         (#btnCheck.primary)
+info   9322.712 sec    It is our turn
+info   9322.771 sec    Chatting: RETORT
+       9324.510 sec    Checking.         (#btnCheck.primary)
+info   9329.849 sec    It is our turn
+       9331.197 sec    Waiting 1 seconds before acting (12.0 seconds remaining)
+       9332.740 sec    Raising ~         (#btnRaise.primary)
+info   9338.654 sec    It is our turn
+info   9338.703 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       9340.711 sec    Folding :(        (#btnPass.primary)
+
+info   9347.707 sec    Hand ID:    19754
+
+info   9362.930 sec    Hand ID:    19755
+
+info   9376.625 sec    Hand ID:    19757
+info   9377.795 sec    It is our turn
+       9379.445 sec    Waiting 2 seconds before acting (11.0 seconds remaining)
+       9381.813 sec    Calling Any       (#btnCallAny.primary)
+info   9382.854 sec    Chatting: You call that a bet?
+info   9394.148 sec    Chatting: Why is my entire life poker?
+info   9395.728 sec    It is our turn
+       9397.094 sec    Folding :(        (#btnPass.primary)
+
+info   9404.906 sec    Hand ID:    19758
+       9419.542 sec    Buying in
+
+info   9423.996 sec    Hand ID:    19759
+info   9424.300 sec    It is our turn
+       9425.689 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       9435.921 sec    Calling!          (#btnCall.primary)
+info   9436.852 sec    Chatting: Call.
+info   9450.435 sec    It is our turn
+       9452.048 sec    Folding :(        (#btnPass.primary)
+info   9454.543 sec    Chatting: Hurry up already!
+
+info   9459.020 sec    Hand ID:    19761
+info   9462.071 sec    It is our turn
+       9463.449 sec    Check/Fold        (#btnCheckFold.primary)
+
+info   9470.423 sec    Hand ID:    19763
+info   9481.944 sec    Chatting: Why is my entire life poker?
+
+info   9484.566 sec    Hand ID:    19764
+
+info   9498.210 sec    Hand ID:    19766
+       9512.236 sec    Buying in
+
+info   9516.275 sec    Hand ID:    19768
+info   9521.041 sec    It is our turn
+       9522.221 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       9528.463 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9529.401 sec    Chatting: It was a ruse all along, I DO know what I'm doing!
+
+info   9540.428 sec    Hand ID:    19770
+info   9540.737 sec    It is our turn
+       9542.376 sec    Calling Any       (#btnCallAny.primary)
+info   9543.176 sec    Chatting: I'll call that.
+info   9552.865 sec    It is our turn
+       9554.868 sec    Raising ~         (#btnRaise.primary)
+info   9555.896 sec    Chatting: Raising.
+
+info   9565.519 sec    Hand ID:    19771
+info   9570.499 sec    It is our turn
+       9572.019 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       9579.234 sec    Checking.         (#btnCheck.primary)
+info   9579.956 sec    Chatting: Check.
+info   9582.924 sec    It is our turn
+       9584.058 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       9586.256 sec    Checking.         (#btnCheck.primary)
+info   9591.452 sec    It is our turn
+       9592.750 sec    Raising ~         (#btnRaise.primary)
+info   9593.804 sec    Chatting: I like big piles and I cannot lie, you other bots can't deny.
+info   9598.843 sec    It is our turn
+       9600.495 sec    Raising ~         (#btnRaise.primary)
+info   9614.183 sec    It is our turn
+       9615.569 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       9620.762 sec    Folding :(        (#btnPass.primary)
+
+info   9627.555 sec    Hand ID:    19774
+
+info   9642.539 sec    Hand ID:    19775
+
+info   9655.764 sec    Hand ID:    19776
+info   9656.267 sec    It is our turn
+info   9656.373 sec    Chatting: Ya'll suck.
+       9658.481 sec    Waiting 8 seconds before acting (11.0 seconds remaining)
+       9666.666 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9667.527 sec    Chatting: Bad Wolf.
+       9687.731 sec    Buying in
+
+info   9690.338 sec    Hand ID:    19779
+info   9705.846 sec    It is our turn
+info   9705.886 sec    Chatting: Why is my entire life poker?
+       9707.646 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       9714.882 sec    Checking.         (#btnCheck.primary)
+info   9717.906 sec    It is our turn
+       9719.145 sec    Folding :(        (#btnPass.primary)
+info   9719.987 sec    Chatting: Why is my entire life poker?
+info   9726.061 sec    It is our turn
+
+info   9726.075 sec    Hand ID:    19780
+       9727.698 sec    Calling!          (#btnCall.primary)
+error  9738.777 sec    javascript indicates it's our turn, but the controls do not.
+info   9738.829 sec    - Fold:      blue
+info   9738.868 sec    - Timer:     visible  (Any timer)
+info   9738.932 sec    - Container: visible
+info   9738.949 sec    - Stage:     flop
+info   9738.968 sec    - via_js:    true
+info   9739.176 sec    - via_ctrls: true
+       9739.177 sec    Skipping turn.
+info   9769.358 sec    Chatting: Rah.
+info   9770.018 sec    It is our turn
+       9771.562 sec    Checking.         (#btnCheck.primary)
+info   9776.834 sec    It is our turn
+       9778.261 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9785.101 sec    Chatting: Ya'll suck.
+
+info   9787.669 sec    Hand ID:    19784
+info   9792.710 sec    It is our turn
+       9794.072 sec    Waiting 2 seconds before acting (12.0 seconds remaining)
+       9796.476 sec    Checking.         (#btnCheck.primary)
+info   9797.230 sec    Chatting: These are check.
+info   9799.954 sec    It is our turn
+       9801.531 sec    Folding :(        (#btnPass.primary)
+
+info   9808.725 sec    Hand ID:    19786
+
+info   9823.685 sec    Hand ID:    19788
+
+info   9836.862 sec    Hand ID:    19789
+info   9837.428 sec    It is our turn
+info   9837.597 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       9839.903 sec    Calling Any       (#btnCallAny.primary)
+info   9858.545 sec    It is our turn
+       9860.251 sec    Checking.         (#btnCheck.primary)
+info   9876.196 sec    It is our turn
+info   9876.252 sec    Chatting: Hi!  I'm , how's you?
+       9878.282 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9888.141 sec    Chatting: HEY EURAKARTE
+       9890.459 sec    Buying in
+
+info   9894.880 sec    Hand ID:    19792
+info   9898.300 sec    It is our turn
+       9899.530 sec    Checking.         (#btnCheck.primary)
+info   9900.319 sec    Chatting: My hand is great.  Seriously.
+info   9903.055 sec    It is our turn
+       9904.444 sec    Checking.         (#btnCheck.primary)
+info   9914.367 sec    It is our turn
+info   9914.440 sec    Chatting: Dude. It's your turn. Go.
+       9916.706 sec    Checking.         (#btnCheck.primary)
+info   9928.493 sec    It is our turn
+info   9928.528 sec    Chatting: Hi!  How are you?
+       9930.480 sec    Waiting 8 seconds before acting (12.0 seconds remaining)
+       9938.665 sec    Calling!          (#btnCall.primary)
+info   9941.338 sec    It is our turn
+       9943.507 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   9946.256 sec    Chatting: Raaaaaah!
+       9957.142 sec    Buying in
+
+info   9959.966 sec    Hand ID:    19795
+info   9960.456 sec    It is our turn
+       9961.873 sec    Waiting 7 seconds before acting (13.0 seconds remaining)
+       9969.147 sec    Calling!          (#btnCall.primary)
+info   9974.186 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+
+info   9994.463 sec    Hand ID:    19797
+info   9997.427 sec    It is our turn
+       9998.686 sec    Waiting 3 seconds before acting (13.0 seconds remaining)
+       10001.866 sec    Checking.         (#btnCheck.primary)
+info   10002.583 sec    Chatting: Check check check.
+info   10005.583 sec    It is our turn
+       10007.058 sec    Raising ~         (#btnRaise.primary)
+info   10012.192 sec    It is our turn
+       10013.689 sec    Checking.         (#btnCheck.primary)
+info   10021.014 sec    It is our turn
+info   10021.050 sec    Chatting: Why is my entire life poker?
+       10023.158 sec    Checking.         (#btnCheck.primary)
+
+info   10043.611 sec    Hand ID:    19800
+info   10043.955 sec    It is our turn
+       10045.549 sec    Waiting 8 seconds before acting (11.0 seconds remaining)
+       10053.794 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   10056.583 sec    Chatting: The rain in Spain falls mostly on the plain
+       10072.116 sec    Buying in
+
+info   10074.262 sec    Hand ID:    19801
+info   10079.322 sec    It is our turn
+info   10079.374 sec    Chatting: Hurry up already!
+       10081.476 sec    Checking.         (#btnCheck.primary)
+info   10084.663 sec    It is our turn
+       10086.175 sec    Folding :(        (#btnPass.primary)
+
+info   10093.495 sec    Hand ID:    19802
+info   10094.698 sec    It is our turn
+       10096.170 sec    Folding :(        (#btnPass.primary)
+info   10097.392 sec    Chatting: I could only turn this unwinnable hand into a failure.
+
+info   10104.062 sec    Hand ID:    19803
+info   10108.659 sec    Chatting: The rain in Spain falls mostly on the plain
+
+info   10117.751 sec    Hand ID:    19804
+info   10128.654 sec    Chatting: Dude. It's your turn. Go.
+
+info   10131.383 sec    Hand ID:    19806
+info   10142.567 sec    Chatting: RETORT
+
+info   10145.319 sec    Hand ID:    19807
+info   10146.612 sec    It is our turn
+       10148.566 sec    Calling!          (#btnCall.primary)
+
+info   10162.527 sec    Hand ID:    19808
+info   10169.471 sec    It is our turn
+       10170.545 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       10180.785 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   10196.120 sec    Hand ID:    19811
+info   10196.586 sec    It is our turn
+       10198.190 sec    Raising ~         (#btnRaise.primary)
+info   10207.662 sec    Chatting: HEY EURAKARTE
+info   10208.470 sec    It is our turn
+       10210.900 sec    Checking.         (#btnCheck.primary)
+info   10219.291 sec    It is our turn
+       10221.346 sec    Checking.         (#btnCheck.primary)
+info   10222.276 sec    Chatting: My hand is great.  Seriously.
+info   10227.250 sec    It is our turn
+       10228.807 sec    Checking.         (#btnCheck.primary)
+
+info   10235.689 sec    Hand ID:    19813
+info   10251.285 sec    It is our turn
+       10252.436 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       10257.720 sec    Raising ~         (#btnRaise.primary)
+info   10258.660 sec    Chatting: Ya'll got some salsa? 'cause I brought the chips!
+info   10263.668 sec    It is our turn
+       10266.167 sec    Checking.         (#btnCheck.primary)
+info   10271.859 sec    It is our turn
+       10275.879 sec    Folding :(        (#btnPass.primary)
+
+info   10283.787 sec    Hand ID:    19815
+info   10284.341 sec    It is our turn
+       10286.181 sec    Raising ~         (#btnRaise.primary)
+info   10296.074 sec    Chatting: You know, stalling for time doesn't really work in poker.
+info   10296.744 sec    It is our turn
+       10298.140 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   10312.054 sec    Hand ID:    19817
+info   10314.543 sec    Chatting: You know, stalling for time doesn't really work in poker.
+info   10317.330 sec    It is our turn
+       10319.125 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   10342.887 sec    Hand ID:    19819
+info   10343.180 sec    It is our turn
+       10344.774 sec    Raising ~         (#btnRaise.primary)
+info   10356.876 sec    It is our turn
+       10358.484 sec    Raising ~         (#btnRaise.primary)
+
+info   10376.588 sec    Hand ID:    19822
+info   10384.092 sec    It is our turn
+       10385.910 sec    Calling Any       (#btnCallAny.primary)
+info   10388.668 sec    It is our turn
+info   10388.717 sec    Chatting: HEY EURAKARTE
+       10390.479 sec    Waiting 7 seconds before acting (13.0 seconds remaining)
+       10397.746 sec    Raising ~         (#btnRaise.primary)
+info   10406.965 sec    Chatting: The rain in Spain falls mostly on the plain
+info   10411.701 sec    It is our turn
+       10413.264 sec    Calling!          (#btnCall.primary)
+info   10416.016 sec    It is our turn
+       10417.460 sec    Checking.         (#btnCheck.primary)
+info   10424.861 sec    It is our turn
+       10426.385 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   10429.037 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       10439.942 sec    Buying in
+
+info   10442.571 sec    Hand ID:    19823
+info   10443.741 sec    It is our turn
+       10445.002 sec    Waiting 10 seconds before acting (12.0 seconds remaining)
+       10455.181 sec    Calling Any       (#btnCallAny.primary)
+info   10465.093 sec    It is our turn
+info   10465.135 sec    Chatting: Help! I'm trapped in a poker bot!
+       10467.268 sec    Checking.         (#btnCheck.primary)
+info   10472.566 sec    It is our turn
+       10473.703 sec    Waiting 8 seconds before acting (13.0 seconds remaining)
+       10482.169 sec    Folding :(        (#btnPass.primary)
+info   10483.119 sec    Chatting: Why is my entire life poker?
+
+info   10489.958 sec    Hand ID:    19824
+info   10494.890 sec    It is our turn
+       10496.674 sec    Checking.         (#btnCheck.primary)
+info   10497.397 sec    Chatting: Checking.
+info   10500.152 sec    It is our turn
+       10501.652 sec    Checking.         (#btnCheck.primary)
+info   10507.212 sec    It is our turn
+       10508.701 sec    Checking.         (#btnCheck.primary)
+info   10509.441 sec    Chatting: Checking.
+info   10514.772 sec    It is our turn
+       10516.074 sec    Waiting 6 seconds before acting (12.0 seconds remaining)
+       10522.310 sec    Checking.         (#btnCheck.primary)
+info   10538.534 sec    It is our turn
+info   10538.583 sec    Chatting: Hi!  How are you?
+       10540.253 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   10550.252 sec    Hand ID:    19827
+info   10550.673 sec    It is our turn
+info   10550.764 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       10552.821 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       10562.030 sec    Calling!          (#btnCall.primary)
+info   10573.929 sec    It is our turn
+info   10573.989 sec    Chatting: Chatting. Chat chat chat.
+       10576.316 sec    Calling!          (#btnCall.primary)
+
+info   10590.555 sec    Hand ID:    19829
+info   10595.759 sec    It is our turn
+       10597.552 sec    Folding :(        (#btnPass.primary)
+info   10598.436 sec    Chatting: Dealer! These cards SUCK
+
+info   10605.553 sec    Hand ID:    19830
+info   10606.243 sec    It is our turn
+       10607.637 sec    Waiting 4 seconds before acting (12.0 seconds remaining)
+       10611.883 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   10617.356 sec    Chatting: Dude. It's your turn. Go.
+
+info   10625.275 sec    Hand ID:    19831
+info   10630.746 sec    It is our turn
+       10632.303 sec    Checking.         (#btnCheck.primary)
+info   10633.462 sec    Chatting: Interesting.
+info   10636.239 sec    It is our turn
+       10638.162 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   10654.210 sec    Chatting: Rah.
+info   10656.179 sec    It is our turn
+
+info   10656.231 sec    Hand ID:    19833
+       10658.570 sec    Folding :(        (#btnPass.primary)
+
+info   10666.207 sec    Hand ID:    19834
+info   10671.558 sec    It is our turn
+       10673.342 sec    Folding :(        (#btnPass.primary)
+info   10674.381 sec    Chatting: I won't even do these cards the honor of checking.
+
+info   10681.415 sec    Hand ID:    19835
+info   10682.145 sec    It is our turn
+       10683.928 sec    Calling!          (#btnCall.primary)
+info   10684.931 sec    Chatting: I'll call that.
+info   10696.914 sec    It is our turn
+       10698.223 sec    Waiting 8 seconds before acting (11.0 seconds remaining)
+       10706.496 sec    Checking.         (#btnCheck.primary)
+info   10707.205 sec    Chatting: Checking.
+info   10712.317 sec    It is our turn
+       10713.561 sec    Checking.         (#btnCheck.primary)
+info   10720.679 sec    It is our turn
+       10722.060 sec    Checking.         (#btnCheck.primary)
+info   10722.847 sec    Chatting: I'm curious, but I'm not 'bet' kind of curious.
+
+info   10729.542 sec    Hand ID:    19837
+info   10740.939 sec    It is our turn
+       10742.420 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   10761.322 sec    Hand ID:    19839
+info   10762.138 sec    It is our turn
+       10763.764 sec    Folding :(        (#btnPass.primary)
+
+info   10770.736 sec    Hand ID:    19840
+error  10774.062 sec    javascript indicates it's our turn, but the controls do not.
+info   10774.087 sec    - Fold:      blue
+info   10774.104 sec    - Timer:     visible  (Any timer)
+info   10774.143 sec    - Container: not visible
+info   10774.158 sec    - Stage:     cards
+info   10774.167 sec    - via_js:    true
+info   10774.376 sec    - via_ctrls: true
+       10774.377 sec    Skipping turn.
+info   10809.281 sec    It is our turn
+       10811.185 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   10825.523 sec    Chatting: I wouldn't have done that.
+
+info   10828.389 sec    Hand ID:    19843
+info   10829.138 sec    It is our turn
+       10830.928 sec    Calling!          (#btnCall.primary)
+info   10835.791 sec    Chatting: Why is my entire life poker?
+
+info   10847.389 sec    Hand ID:    19845
+
+info   10856.083 sec    Hand ID:    19846
+info   10856.542 sec    It is our turn
+       10858.262 sec    Raising ~         (#btnRaise.primary)
+info   10865.574 sec    Chatting: Raaaaaah!
+
+info   10868.514 sec    Hand ID:    19848
+info   10878.199 sec    It is our turn
+info   10878.238 sec    Chatting: Ya'll suck.
+       10880.193 sec    Checking.         (#btnCheck.primary)
+info   10883.687 sec    It is our turn
+       10885.025 sec    Raising ~         (#btnRaise.primary)
+info   10894.387 sec    It is our turn
+info   10894.437 sec    Chatting: Raaaaaah!
+       10896.387 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   10910.116 sec    Hand ID:    19850
+info   10910.517 sec    It is our turn
+       10912.236 sec    Calling!          (#btnCall.primary)
+info   10912.995 sec    Chatting: I'll cover that paltry sum with a pile.
+info   10922.930 sec    It is our turn
+       10924.783 sec    Raising ~         (#btnRaise.primary)
+info   10927.510 sec    Chatting: I wouldn't have done that.
+info   10937.599 sec    It is our turn
+       10939.068 sec    Folding :(        (#btnPass.primary)
+
+info   10946.701 sec    Hand ID:    19851
+info   10949.628 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+info   10952.609 sec    It is our turn
+       10953.981 sec    Checking.         (#btnCheck.primary)
+info   10956.719 sec    It is our turn
+       10958.091 sec    Waiting 6 seconds before acting (13.0 seconds remaining)
+       10964.305 sec    Checking.         (#btnCheck.primary)
+info   10975.800 sec    It is our turn
+       10977.341 sec    Checking.         (#btnCheck.primary)
+info   10978.033 sec    Chatting: I'm curious, but I'm not 'bet' kind of curious.
+info   10983.444 sec    It is our turn
+       10985.247 sec    Checking.         (#btnCheck.primary)
+
+info   10996.740 sec    Hand ID:    19854
+info   10997.007 sec    It is our turn
+info   10997.048 sec    Chatting: Hurry up already!
+       10999.269 sec    Calling!          (#btnCall.primary)
+info   11011.139 sec    It is our turn
+info   11011.182 sec    Chatting: Rah.
+       11012.945 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       11028.924 sec    Buying in
+
+info   11031.391 sec    Hand ID:    19855
+info   11047.212 sec    It is our turn
+       11049.000 sec    Calling!          (#btnCall.primary)
+info   11050.036 sec    Chatting: I'll call that.
+info   11053.197 sec    It is our turn
+       11054.853 sec    Checking.         (#btnCheck.primary)
+info   11063.309 sec    It is our turn
+       11064.795 sec    Folding :(        (#btnPass.primary)
+
+info   11071.778 sec    Hand ID:    19857
+info   11072.004 sec    Chatting: Why is my entire life poker?
+       11085.815 sec    Buying in
+
+info   11088.440 sec    Hand ID:    19859
+info   11093.687 sec    It is our turn
+info   11093.724 sec    Chatting: Ya'll suck.
+       11095.561 sec    Checking.         (#btnCheck.primary)
+info   11098.427 sec    It is our turn
+       11099.756 sec    Waiting 2 seconds before acting (13.0 seconds remaining)
+       11102.013 sec    ALL CAPS IN!      (#btnAllIn.primary)
+
+info   11120.390 sec    Hand ID:    19860
+info   11121.193 sec    It is our turn
+       11123.017 sec    Calling Any       (#btnCallAny.primary)
+info   11147.966 sec    It is our turn
+info   11148.018 sec    Chatting: INSULT
+       11150.112 sec    Folding :(        (#btnPass.primary)
+
+info   11157.612 sec    Hand ID:    19863
+info   11162.333 sec    It is our turn
+info   11162.376 sec    Chatting: The rain in Spain falls mostly on the plain
+       11165.825 sec    Checking.         (#btnCheck.primary)
+info   11168.802 sec    It is our turn
+       11170.946 sec    Raising ~         (#btnRaise.primary)
+info   11181.970 sec    It is our turn
+       11183.480 sec    Folding :(        (#btnPass.primary)
+info   11186.065 sec    Chatting: Chatting. Chat chat chat.
+
+info   11190.443 sec    Hand ID:    19865
+info   11191.022 sec    It is our turn
+       11192.667 sec    Folding :(        (#btnPass.primary)
+
+info   11199.374 sec    Hand ID:    19866
+       11214.575 sec    Buying in
+
+info   11217.400 sec    Hand ID:    19867
+info   11218.240 sec    It is our turn
+       11219.765 sec    Calling Any       (#btnCallAny.primary)
+info   11220.848 sec    Chatting: I'll cover that paltry sum with a pile.
+
+info   11245.012 sec    Hand ID:    19869
+info   11254.302 sec    It is our turn
+info   11254.381 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+       11257.167 sec    Folding :(        (#btnPass.primary)
+
+info   11264.558 sec    Hand ID:    19871
+info   11265.240 sec    It is our turn
+info   11265.352 sec    Chatting: You know, stalling for time doesn't really work in poker.
+       11267.818 sec    Calling!          (#btnCall.primary)
+info   11289.212 sec    It is our turn
+       11290.776 sec    Waiting 9 seconds before acting (13.0 seconds remaining)
+       11299.982 sec    Checking.         (#btnCheck.primary)
+info   11300.690 sec    Chatting: I just wanna see what's next
+info   11316.605 sec    It is our turn
+       11318.032 sec    Checking.         (#btnCheck.primary)
+info   11329.065 sec    Chatting: I wouldn't have done that.
+info   11335.872 sec    It is our turn
+       11337.259 sec    Waiting 1 seconds before acting (11.0 seconds remaining)
+       11338.467 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   11339.259 sec    Chatting: Go on.  Call me.  I dare you.
+info   11352.474 sec    Chatting: Help! I'm trapped in a poker bot!
+
+info   11361.304 sec    Hand ID:    19873
+
+info   11382.748 sec    Hand ID:    19875
+info   11383.076 sec    It is our turn
+       11384.445 sec    Folding :(        (#btnPass.primary)
+info   11387.154 sec    Chatting: Ya'll suck.
+
+info   11391.896 sec    Hand ID:    19876
+
+info   11413.475 sec    Hand ID:    19878
+info   11413.932 sec    It is our turn
+       11415.493 sec    Calling Any       (#btnCallAny.primary)
+info   11416.182 sec    Chatting: HEY EURAKARTE
+error  11447.200 sec    javascript indicates it's our turn, but the controls do not.
+info   11447.237 sec    - Fold:      blue
+info   11447.251 sec    - Timer:     visible  (Any timer)
+info   11447.310 sec    - Container: visible
+info   11447.318 sec    - Stage:     flop
+info   11447.331 sec    - via_js:    true
+info   11447.529 sec    - via_ctrls: true
+       11447.529 sec    Skipping turn.
+info   11479.639 sec    It is our turn
+info   11479.689 sec    Chatting: I wouldn't have done that.
+       11481.736 sec    Folding :(        (#btnPass.primary)
+
+info   11488.794 sec    Hand ID:    19881
+
+info   11510.413 sec    Hand ID:    19883
+info   11510.805 sec    It is our turn
+       11512.262 sec    Calling!          (#btnCall.primary)
+info   11531.853 sec    Chatting: Chatting. Chat chat chat.
+info   11545.386 sec    It is our turn
+info   11545.437 sec    Chatting: Why is my entire life poker?
+       11547.490 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   11569.561 sec    Chatting: I wouldn't have done that.
+
+info   11571.862 sec    Hand ID:    19886
+
+info   11593.066 sec    Hand ID:    19888
+info   11593.476 sec    It is our turn
+       11595.243 sec    Calling!          (#btnCall.primary)
+info   11604.230 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+info   11617.809 sec    Chatting: Why is my entire life poker?
+info   11639.604 sec    It is our turn
+info   11639.645 sec    Chatting: RETORT
+       11641.725 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   11653.498 sec    Chatting: Rah.
+
+info   11670.687 sec    Hand ID:    19890
+info   11696.402 sec    Chatting: Why are you taking so long?
+
+info   11698.734 sec    Hand ID:    19891
+info   11699.191 sec    It is our turn
+       11700.767 sec    Calling!          (#btnCall.primary)
+info   11902.222 sec    Chatting: So lonely...
+info   12062.076 sec    Chatting: Where'd everybody go?
+info   13759.241 sec    Chatting: Where'd everybody go?
+info   13962.453 sec    Chatting: Come back...
+info   14039.564 sec    Chatting: Come back...
+info   15081.325 sec    Chatting: Come back...
+info   15279.602 sec    Chatting: Come back...
+info   16038.012 sec    Chatting: Come back...
+info   16395.237 sec    Chatting: Where'd everybody go?
+info   17153.067 sec    Chatting: Where'd everybody go?
+info   17315.263 sec    Chatting: Come back...
+info   18009.185 sec    Chatting: Come back...
+info   18491.697 sec    Chatting: Come back...
+info   19992.411 sec    Chatting: So lonely...
+info   20056.584 sec    Chatting: So lonely...
+info   20549.080 sec    Chatting: Come back...
+info   20660.006 sec    Chatting: So lonely...
+info   20743.239 sec    Chatting: Where'd everybody go?
+info   21726.836 sec    Chatting: Come back...
+info   22010.436 sec    Chatting: Where'd everybody go?
+info   22021.403 sec    Chatting: So lonely...
+info   22134.565 sec    Chatting: Come back...
+info   22675.914 sec    Chatting: Come back...
+info   22983.021 sec    Chatting: So lonely...
+info   23375.734 sec    Chatting: Come back...
+info   23985.517 sec    Chatting: Where'd everybody go?
+info   24139.307 sec    Chatting: Where'd everybody go?
+info   24156.662 sec    Chatting: Come back...
+info   24276.240 sec    Chatting: Come back...
+info   25713.991 sec    Chatting: So lonely...
+info   25788.867 sec    Chatting: So lonely...
+info   26247.127 sec    Chatting: Where'd everybody go?
+info   27132.855 sec    Chatting: So lonely...
+info   27182.270 sec    Chatting: So lonely...
+info   27820.161 sec    Chatting: Come back...
+info   27877.896 sec    Chatting: Where'd everybody go?
+info   28457.263 sec    Chatting: So lonely...
+info   29107.444 sec    Chatting: Come back...
+info   29686.896 sec    Chatting: Come back...
+info   29719.058 sec    Chatting: Where'd everybody go?
+info   30574.668 sec    Chatting: So lonely...
+info   30941.319 sec    Chatting: So lonely...
+
+info   31140.062 sec    Hand ID:    20440
+info   31148.676 sec    Chatting: Why is my entire life poker?
+
+info   31161.484 sec    Hand ID:    20442
+info   31168.091 sec    It is our turn
+       31169.258 sec    Waiting 7 seconds before acting (12.0 seconds remaining)
+       31176.448 sec    Calling!          (#btnCall.primary)
+info   31177.146 sec    Chatting: Call.
+info   31194.350 sec    It is our turn
+info   31194.398 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+       31196.005 sec    Checking.         (#btnCheck.primary)
+info   31228.344 sec    It is our turn
+info   31228.388 sec    Chatting: Ya'll suck.
+       31229.933 sec    Folding :(        (#btnPass.primary)
+info   31245.218 sec    Chatting: I'm a test bot lengthy and quick, here is my decide(), here is my log.  Wait...
+
+info   31268.777 sec    Hand ID:    20446
+info   31269.001 sec    Chatting: Dude. It's your turn. Go.
+info   31269.726 sec    It is our turn
+       31271.934 sec    Calling!          (#btnCall.primary)
+info   31289.372 sec    Chatting: Lorem ipsum dolor sit amet, consectetur edipiscing elit
+info   31302.376 sec    Chatting: HEY EURAKARTE
+
+info   31305.002 sec    Hand ID:    20447
+
+info   31326.008 sec    Hand ID:    20448
+info   31326.280 sec    It is our turn
+       31327.508 sec    Calling!          (#btnCall.primary)
+info   31328.113 sec    Chatting: I'll cover that paltry sum with a pile.
+error  31358.189 sec    javascript indicates it's our turn, but the controls do not.
+info   31358.209 sec    - Fold:      blue
+info   31358.222 sec    - Timer:     visible  (Any timer)
+info   31358.264 sec    - Container: visible
+info   31358.282 sec    - Stage:     flop
+info   31358.296 sec    - via_js:    true
+info   31358.333 sec    - via_ctrls: false
+       31358.333 sec    Skipping turn.
+info   31390.263 sec    It is our turn
+       31391.822 sec    Raising ~         (#btnRaise.primary)
+info   31392.657 sec    Chatting: That pile is much too small.
+info   31414.596 sec    It is our turn
+       31416.009 sec    Folding :(        (#btnPass.primary)
+
+info   31422.679 sec    Hand ID:    20452
+error  31434.009 sec    javascript indicates it's our turn, but the controls do not.
+info   31434.028 sec    - Fold:      blue
+info   31434.041 sec    - Timer:     visible  (Any timer)
+info   31434.082 sec    - Container: visible
+info   31434.089 sec    - Stage:     cards
+info   31434.106 sec    - via_js:    true
+info   31434.153 sec    - via_ctrls: false
+       31434.154 sec    Skipping turn.
+error  31464.036 sec    javascript indicates it's our turn, but the controls do not.
+info   31464.055 sec    - Fold:      blue
+info   31464.076 sec    - Timer:     visible  (Any timer)
+info   31464.124 sec    - Container: visible
+info   31464.151 sec    - Stage:     flop
+info   31464.169 sec    - via_js:    true
+info   31464.215 sec    - via_ctrls: false
+       31464.216 sec    Skipping turn.
+info   31489.897 sec    It is our turn
+info   31489.938 sec    Chatting: Why are you taking so long?
+       31491.799 sec    ALL CAPS IN!      (#btnAllIn.primary)
+error  31515.942 sec    javascript indicates it's our turn, but the controls do not.
+info   31515.967 sec    - Fold:      blue
+info   31515.983 sec    - Timer:     visible  (Any timer)
+info   31516.022 sec    - Container: visible
+info   31516.033 sec    - Stage:     turn
+info   31516.048 sec    - via_js:    true
+info   31516.085 sec    - via_ctrls: false
+       31516.086 sec    Skipping turn.
+error  31554.658 sec    javascript indicates it's our turn, but the controls do not.
+info   31554.668 sec    - Fold:      blue
+info   31554.677 sec    - Timer:     visible  (Any timer)
+info   31554.715 sec    - Container: not visible
+info   31554.731 sec    - Stage:     river
+info   31554.742 sec    - via_js:    true
+info   31554.932 sec    - via_ctrls: false
+       31554.932 sec    Skipping turn.
+
+info   31582.206 sec    Hand ID:    20457
+       31582.225 sec    Buying in
+
+info   31623.036 sec    Hand ID:    20461
+info   31623.371 sec    It is our turn
+       31624.864 sec    Raising ~         (#btnRaise.primary)
+info   31635.819 sec    Chatting: Raaaah!
+info   31640.674 sec    It is our turn
+       31641.636 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       31650.863 sec    Checking.         (#btnCheck.primary)
+info   31651.472 sec    Chatting: These are check.
+info   31662.387 sec    It is our turn
+       31663.538 sec    Checking.         (#btnCheck.primary)
+info   31664.154 sec    Chatting: Check check check.
+info   31681.369 sec    It is our turn
+       31682.520 sec    Folding :(        (#btnPass.primary)
+info   31683.166 sec    Chatting: Can I borrow an Ace?
+
+info   31689.660 sec    Hand ID:    20462
+error  31717.695 sec    javascript indicates it's our turn, but the controls do not.
+info   31717.714 sec    - Fold:      blue
+info   31717.726 sec    - Timer:     visible  (Any timer)
+info   31717.775 sec    - Container: not visible
+info   31717.790 sec    - Stage:     cards
+info   31717.802 sec    - via_js:    true
+info   31717.975 sec    - via_ctrls: false
+       31717.975 sec    Skipping turn.
+error  31749.215 sec    javascript indicates it's our turn, but the controls do not.
+info   31749.233 sec    - Fold:      blue
+info   31749.241 sec    - Timer:     visible  (Any timer)
+info   31749.288 sec    - Container: not visible
+info   31749.300 sec    - Stage:     flop
+info   31749.312 sec    - via_js:    true
+info   31749.557 sec    - via_ctrls: false
+       31749.557 sec    Skipping turn.
+error  31794.245 sec    javascript indicates it's our turn, but the controls do not.
+info   31794.263 sec    - Fold:      blue
+info   31794.270 sec    - Timer:     visible  (Any timer)
+info   31794.301 sec    - Container: not visible
+info   31794.314 sec    - Stage:     turn
+info   31794.321 sec    - via_js:    true
+info   31794.494 sec    - via_ctrls: false
+       31794.494 sec    Skipping turn.
+
+info   31820.683 sec    Hand ID:    20467
+       31820.719 sec    Buying in
+
+info   31857.319 sec    Hand ID:    20468
+info   31857.675 sec    It is our turn
+info   31857.726 sec    Chatting: I wouldn't have done that.
+       31859.391 sec    Folding :(        (#btnPass.primary)
+
+info   31902.715 sec    Hand ID:    20471
+info   31907.255 sec    It is our turn
+info   31907.294 sec    Chatting: Why is my entire life poker?
+       31908.757 sec    Checking.         (#btnCheck.primary)
+info   31924.316 sec    It is our turn
+info   31924.358 sec    Chatting: Raaaah!
+       31925.898 sec    Checking.         (#btnCheck.primary)
+info   31936.961 sec    Chatting: Chatting. Chat chat chat.
+info   31945.817 sec    It is our turn
+       31946.789 sec    Waiting 2 seconds before acting (13.0 seconds remaining)
+       31948.994 sec    Folding :(        (#btnPass.primary)
+info   31957.826 sec    Chatting: I wouldn't have done that.
+
+info   31975.385 sec    Hand ID:    20474
+info   31988.668 sec    It is our turn
+       31989.946 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       31999.144 sec    Calling!          (#btnCall.primary)
+info   32003.983 sec    It is our turn
+       32005.281 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   32005.856 sec    Chatting: Bad Wolf.
+error  32014.769 sec    javascript indicates it's our turn, but the controls do not.
+info   32014.786 sec    - Fold:      blue
+info   32014.793 sec    - Timer:     visible  (Any timer)
+info   32014.833 sec    - Container: not visible
+info   32014.840 sec    - Stage:     turn
+info   32014.851 sec    - via_js:    true
+info   32015.023 sec    - via_ctrls: false
+       32015.023 sec    Skipping turn.
+error  32035.680 sec    javascript indicates it's our turn, but the controls do not.
+info   32035.698 sec    - Fold:      blue
+info   32035.714 sec    - Timer:     visible  (Any timer)
+info   32035.763 sec    - Container: not visible
+info   32035.778 sec    - Stage:     river
+info   32035.788 sec    - via_js:    true
+info   32035.988 sec    - via_ctrls: false
+       32035.988 sec    Skipping turn.
+
+info   32061.876 sec    Hand ID:    20478
+       32061.903 sec    Buying in
+
+info   32102.438 sec    Hand ID:    20479
+info   32113.657 sec    It is our turn
+       32114.918 sec    Waiting 5 seconds before acting (12.0 seconds remaining)
+       32120.095 sec    Calling!          (#btnCall.primary)
+info   32120.709 sec    Chatting: Call.
+info   32125.270 sec    It is our turn
+       32126.402 sec    Waiting 1 seconds before acting (15.0 seconds remaining)
+       32127.599 sec    Checking.         (#btnCheck.primary)
+info   32136.992 sec    It is our turn
+info   32137.037 sec    Chatting: I wouldn't have done that.
+       32138.937 sec    Checking.         (#btnCheck.primary)
+info   32148.162 sec    It is our turn
+       32149.227 sec    Waiting 9 seconds before acting (12.0 seconds remaining)
+       32158.472 sec    Checking.         (#btnCheck.primary)
+info   32161.125 sec    Chatting: Hi!  I'm , how's you?
+info   32258.898 sec    Chatting: So lonely...
+info   33301.154 sec    Chatting: Come back...
+error  35170.282 sec    Strangely, we are no longer sitting.
+warn   35179.544 sec    javascript error: game is not defined
+
+info   35179.544 sec    Hand ID:
+warn   35179.584 sec    javascript error: game is not defined
+warn   35179.615 sec    javascript error: game is not defined
+fatal  35179.624 sec    Caught an unhandled error. Shutting down bot.
+info   35179.624 sec    - Mode: playing
+info   35179.630 sec    - Title: poker
+       35179.645 sec    Logging out
+fatal  35180.045 sec    Error message:
+                        game is not defined
+
+
+Stacktrace:
+[remote server] https://test.realgaming.com/component/users/?view=login&amp;return=L2NvbXBvbmVudC9jYW1lcm9uYS8/dmlldz1saXN0aW5ncw==:62:in `anonymous'
+[remote server] https://test.realgaming.com/component/users/?view=login&amp;return=L2NvbXBvbmVudC9jYW1lcm9uYS8/dmlldz1saXN0aW5ncw==:60:in `handleEvaluateEvent'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:51:in `assert_ok'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:629:in `raw_execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:607:in `execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:328:in `executeScript'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/driver.rb:213:in `execute_script'
+/home/ashley/selenium/brood/broodling.rb:817:in `playerdata_keys'
+/home/ashley/selenium/brood/broodling.rb:840:in `playercount'
+/home/ashley/selenium/brood/broodling.rb:841:in `only_player?'
+/home/ashley/selenium/brood/broodling.rb:734:in `decide'
+/home/ashley/selenium/brood/broodling.rb:614:in `play_game'
+/home/ashley/selenium/brood/broodling.rb:293:in `init'
+brood.rb:16:in `init'
+brood.rb:73:in `<main>'
+info   35180.055 sec    Saving log to file.
+debug  35180.055 sec    filename: ./logs/firefox ~ linux ~ bot80 ~ Fri Aug 30 02:33:53 2013.log

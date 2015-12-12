@@ -1,0 +1,61 @@
+Bot created at 2014-01-09 16:24:01 -0800
+info   0.000 sec    Bot creation finished.
+info   0.000 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   2.011 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       2.011 sec    Resizing browser to 620x600
+       2.029 sec    Navigating to login page.
+       18.567 sec    Logging in as: bot218
+debug  18.567 sec    | Entering username (bot218)
+debug  18.683 sec    | Entering password (test1)
+debug  18.752 sec    | Submitting
+debug  46.702 sec    | Setting selenium page_load timeout (10 sec)
+       46.747 sec    Logging in as: bot218 (again)
+debug  46.747 sec    | Entering username (bot218)
+debug  46.824 sec    | Entering password (test1)
+debug  46.896 sec    | Submitting
+fatal  56.916 sec    | Caught an unhandled error. Shutting down bot.
+info   56.916 sec    | - Mode: login
+info   68.902 sec    | - Title: Welcome to Real Gaming
+       68.903 sec    | Logging out
+fatal  69.105 sec    | Error message:
+                       Timed out waiting for page load.
+
+
+Stacktrace:
+[remote server] file:///tmp/webdriver-profile20140109-11924-1mq6ngr/extensions/fxdriver@googlecode.com/components/command_processor.js:9967:in `WebElement.submitElement/<'
+[remote server] file:///tmp/webdriver-profile20140109-11924-1mq6ngr/extensions/fxdriver@googlecode.com/components/command_processor.js:3263:in `WebLoadingListener/e'
+[remote server] file:///tmp/webdriver-profile20140109-11924-1mq6ngr/extensions/fxdriver@googlecode.com/components/command_processor.js:3270:in `WebLoadingListener/<'
+[remote server] file:///tmp/webdriver-profile20140109-11924-1mq6ngr/extensions/fxdriver@googlecode.com/components/command_processor.js:386:in `fxdriver.Timer.prototype.setTimeout/<.notify'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:51:in `assert_ok'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:629:in `raw_execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:607:in `execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:423:in `submitElement'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/element.rb:179:in `submit'
+/home/ashley/selenium/brood/broodling.rb:1065:in `do_login'
+/home/ashley/selenium/brood/broodling.rb:448:in `login'
+/home/ashley/selenium/brood/broodling.rb:156:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   69.106 sec    | Saving log to file.
+debug  69.106 sec    | filename: ./logs/firefox ~ linux ~ bot218 ~ Thu Jan  9 16:24:01 2014.log

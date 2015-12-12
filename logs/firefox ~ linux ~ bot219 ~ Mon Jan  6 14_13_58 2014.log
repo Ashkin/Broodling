@@ -1,0 +1,186 @@
+Bot created at 2014-01-06 14:13:58 -0800
+info   0.000 sec    Bot creation finished.
+info   0.001 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   2.598 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       2.598 sec    Resizing browser to 620x600
+       2.627 sec    Navigating to login page.
+       3.671 sec    Logging in as: bot219
+debug  3.671 sec    | Entering username (bot219)
+debug  3.762 sec    | Entering password (test1)
+debug  3.830 sec    | Submitting
+debug  4.738 sec    | Setting selenium page_load timeout (10 sec)
+       4.763 sec    Logging in as: bot219 (again)
+debug  4.764 sec    | Entering username (bot219)
+debug  4.851 sec    | Entering password (test1)
+debug  4.942 sec    | Submitting
+debug  6.828 sec    | Setting selenium page_load timeout (10 sec)
+debug  7.840 sec    Checking for #username
+info   7.878 sec    Preventing 'Are you sure?' dialogs
+       8.541 sec    Using Bypass
+info   8.664 sec    Preventing 'Are you sure?' dialogs
+       9.184 sec    Navigating back to the main page
+       10.281 sec    Clicking [Play Free Poker]
+info   12.736 sec    Preventing 'Are you sure?' dialogs
+       13.563 sec    (Directly) Joining Ring Game id 224
+info   20.174 sec    Allowing javascript to finish setting up
+info   21.025 sec    There are 10 seat(s) available.
+       21.070 sec    Sitting down at table (forced)
+info   21.899 sec    Preventing 'Are you sure?' dialogs
+       22.480 sec    Playing
+       22.964 sec    Buying in
+info   25.153 sec    We're the only player.
+info   33.583 sec    Chatting: So lonely...
+info   54.061 sec    There are now 2 players
+
+       54.326 sec    Hand ID:    17704
+       54.336 sec    Hand stage: cards
+info   59.735 sec    There are now 3 players
+info   68.024 sec    There are now 4 players
+info   69.435 sec    It is our turn
+       76.929 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   86.121 sec    There are now 6 players
+info   86.381 sec    Chatting: Dude. It's your turn. Go.
+info   95.509 sec    There are now 7 players
+       103.347 sec    Hand stage: turn
+error  112.791 sec    Stranging, we are no longer sitting.
+debug  119.833 sec    Found dialog with title: x
+                      Buy In
+info   120.413 sec    There are now 9 players
+
+       120.494 sec    Hand ID:    17720
+       120.495 sec    Hand stage: cards
+info   140.127 sec    Chatting: Dude. It's your turn. Go.
+info   264.230 sec    Chatting: Hi!  I'm bot219, how's you?
+       317.553 sec    Hand stage: flop
+       511.381 sec    Hand stage: river
+       514.606 sec    Hand stage: winner
+info   524.541 sec    There are now 7 players
+
+       524.608 sec    Hand ID:    17830
+       524.608 sec    Hand stage: cards
+info   528.408 sec    There are now 8 players
+info   534.054 sec    There are now 9 players
+info   552.119 sec    Chatting: Dude. It's your turn. Go.
+       660.366 sec    Hand stage: flop
+info   737.712 sec    Chatting: Raaaaaah!
+       744.249 sec    Hand stage: turn
+       750.547 sec    Hand stage: winner
+info   759.595 sec    There are now 6 players
+
+       759.656 sec    Hand ID:    17904
+       759.656 sec    Hand stage: cards
+info   767.983 sec    There are now 8 players
+info   826.397 sec    Chatting: INSULT
+       846.589 sec    Hand stage: river
+       849.520 sec    Hand stage: winner
+info   858.969 sec    There are now 7 players
+
+       859.016 sec    Hand ID:    17944
+       859.016 sec    Hand stage: cards
+info   867.725 sec    There are now 8 players
+       1051.341 sec    Hand stage: flop
+       1110.167 sec    Hand stage: turn
+info   1118.224 sec    Chatting: Where did I come from?  Is there anything in life besides poker?
+       1145.581 sec    Hand stage: river
+info   1199.039 sec    Chatting: Ya'll suck.
+       1199.367 sec    Hand stage: winner
+
+       1205.262 sec    Hand ID:    18049
+       1205.262 sec    Hand stage: cards
+       1351.290 sec    Hand stage: flop
+info   1354.749 sec    Chatting: Ya'll suck.
+       1378.048 sec    Hand stage: turn
+       1410.004 sec    Hand stage: river
+       1440.831 sec    Hand stage: winner
+info   1450.802 sec    There are now 7 players
+
+       1450.863 sec    Hand ID:    18118
+       1450.863 sec    Hand stage: cards
+info   1460.021 sec    There are now 8 players
+info   1512.956 sec    Chatting: INSULT
+       1606.195 sec    Hand stage: turn
+       1610.355 sec    Hand stage: winner
+
+       1623.327 sec    Hand ID:    18158
+       1623.327 sec    Hand stage: cards
+info   1632.560 sec    Chatting: INSULT
+info   1750.753 sec    Chatting: You know, stalling for time doesn't really work in poker.
+debug  1766.051 sec    Found dialog with title: x
+                       Idle Notification
+debug  1772.154 sec    Found dialog with title: x
+                       Idle Notification
+debug  1779.609 sec    Found dialog with title: x
+                       Idle Notification
+debug  1786.670 sec    Found dialog with title: x
+                       Idle Notification
+debug  1792.923 sec    Found dialog with title: x
+                       Idle Notification
+info   1794.277 sec    Chatting: You know, stalling for time doesn't really work in poker.
+debug  1799.247 sec    Found dialog with title: x
+                       Idle Notification
+debug  1804.993 sec    Found dialog with title: x
+                       Idle Notification
+debug  1811.206 sec    Found dialog with title: x
+                       Idle Notification
+debug  1816.287 sec    Found dialog with title: x
+                       Idle Notification
+debug  1823.068 sec    Found dialog with title: x
+                       Idle Notification
+debug  1828.552 sec    Found dialog with title: x
+                       Idle Notification
+debug  1833.959 sec    Found dialog with title: x
+                       Idle Notification
+debug  1841.136 sec    Found dialog with title: x
+                       Idle Notification
+       1842.204 sec    Hand stage: flop
+debug  1847.397 sec    Found dialog with title: x
+                       Idle Notification
+debug  1852.853 sec    Found dialog with title: x
+                       Idle Notification
+warn   1855.691 sec    javascript error: game is not defined
+fatal  1855.787 sec    Caught an unhandled error. Shutting down bot.
+info   1855.787 sec    - Mode: playing
+info   1855.844 sec    - Title: Real Gaming - Lobby
+       1855.919 sec    Logging out
+fatal  1856.153 sec    Error message:
+                       game is not defined
+
+
+Stacktrace:
+[remote server] https://realgaming.com/component/camerona/?view=listings:62:in `anonymous'
+[remote server] https://realgaming.com/component/camerona/?view=listings:60:in `handleEvaluateEvent'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:51:in `assert_ok'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:629:in `raw_execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:607:in `execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:328:in `executeScript'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/driver.rb:213:in `execute_script'
+/home/ashley/selenium/brood/game.rb:27:in `playersdata_keys'
+/home/ashley/selenium/brood/game.rb:53:in `playercount'
+/home/ashley/selenium/brood/broodling.rb:998:in `decide'
+/home/ashley/selenium/brood/broodling.rb:736:in `play_game'
+/home/ashley/selenium/brood/broodling.rb:160:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   1856.179 sec    Saving log to file.
+debug  1856.180 sec    filename: ./logs/firefox ~ linux ~ bot219 ~ Mon Jan  6 14:13:58 2014.log

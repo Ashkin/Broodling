@@ -1,0 +1,274 @@
+Bot created at 2013-09-11 19:30:11 -0700
+info   0.000 sec    Bot creation finished.
+info   0.001 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   1.461 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       1.476 sec    Navigating to login page.
+       3.060 sec    Logging in as: bot98
+debug  3.060 sec    | Entering username (bot98)
+debug  3.154 sec    | Entering password (test1)
+debug  3.226 sec    | Submitting
+debug  3.860 sec    | Setting selenium page_load timeout (10 sec)
+       3.876 sec    Logging in as: bot98 (again)
+debug  3.876 sec    | Entering username (bot98)
+debug  3.917 sec    | Entering password (test1)
+debug  3.978 sec    | Submitting
+debug  5.225 sec    | Setting selenium page_load timeout (10 sec)
+debug  6.234 sec    Checking for #username
+info   6.267 sec    Preventing 'Are you sure?' dialogs
+       6.789 sec    Using Bypass
+info   6.859 sec    Preventing 'Are you sure?' dialogs
+       7.379 sec    Navigating back to the main page
+       8.256 sec    Clicking [Play Real Money Poker]
+info   8.927 sec    Waiting to join a Ring Game...
+info   9.312 sec    Found 2 link(s).
+info   9.313 sec    Preventing 'Are you sure?' dialogs
+       9.834 sec    Joining random Ring Game (id 1)
+info   9.942 sec    Allowing javascript to finish setting up
+warn   12.193 sec    javascript error: game.game_meta is undefined
+info   12.213 sec    Waiting to sit down at table
+warn   12.228 sec    javascript error: game.game_meta is undefined
+info   12.417 sec    There are no seat(s) available.
+       12.432 sec    Sitting down at table (forced)
+info   14.767 sec    Preventing 'Are you sure?' dialogs
+       15.287 sec    Playing
+       15.310 sec    Buying in
+info   18.490 sec    There are now 3 players
+
+       18.755 sec    Hand ID:    91
+       18.755 sec    Hand stage: cards
+info   19.436 sec    It is our turn
+       20.785 sec    Raising ~         (#btnRaise.primary)
+info   29.059 sec    It is our turn
+info   29.088 sec    Chatting: Surprise me.
+       30.596 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       33.885 sec    Hand stage: flop
+       46.582 sec    Hand stage: turn
+       59.332 sec    Hand stage: river
+       71.887 sec    Hand stage: winner
+       77.048 sec    Buying in
+
+       78.745 sec    Hand ID:    92
+       78.745 sec    Hand stage: cards
+       95.338 sec    Hand stage: flop
+info   100.460 sec    Chatting: Raaaaaah!
+       127.158 sec    Hand stage: turn
+       135.252 sec    Hand stage: river
+       142.464 sec    Hand stage: winner
+
+       148.777 sec    Hand ID:    93
+       148.777 sec    Hand stage: cards
+info   148.971 sec    It is our turn
+       150.563 sec    Calling!          (#btnCall.primary)
+       153.802 sec    Hand stage: flop
+info   157.178 sec    It is our turn
+info   157.217 sec    Chatting: Let's see some chips!
+       158.650 sec    Folding :(        (#btnPass.primary)
+warn   161.703 sec    Control is Missing: Away button
+warn   161.703 sec    Control is Missing: Stand Up button
+info   161.703 sec    - mode:      playing
+info   161.711 sec    - stage:     turn
+info   161.720 sec    - sitting:   true
+info   161.727 sec    - our turn?: false (js)
+       161.776 sec    Hand stage: turn
+       164.398 sec    Hand stage: river
+       166.568 sec    Hand stage: winner
+info   173.442 sec    Control Reappeared: Away button
+info   173.442 sec    Control Reappeared: Stand Up button
+info   173.442 sec    - mode:      playing
+info   173.449 sec    - stage:     cards
+info   173.457 sec    - sitting:   true
+info   173.466 sec    - our turn?: false (js)
+info   173.505 sec    There are now 2 players
+
+       173.538 sec    Hand ID:    94
+       173.538 sec    Hand stage: cards
+info   176.642 sec    Chatting: I wouldn't have done that.
+info   177.176 sec    It is our turn
+       178.327 sec    Checking.         (#btnCheck.primary)
+       181.241 sec    Hand stage: flop
+info   181.457 sec    It is our turn
+       182.492 sec    Folding :(        (#btnPass.primary)
+       184.892 sec    Hand stage: winner
+
+       190.215 sec    Hand ID:    95
+       190.216 sec    Hand stage: cards
+       219.265 sec    Hand stage: winner
+info   223.579 sec    There are now 3 players
+
+       226.756 sec    Hand ID:    96
+       226.756 sec    Hand stage: cards
+info   229.394 sec    Chatting: Hurry up already!
+       245.806 sec    Hand stage: flop
+       251.387 sec    Hand stage: turn
+       254.583 sec    Hand stage: river
+       257.132 sec    Hand stage: winner
+info   261.424 sec    Chatting: Hurry up already!
+
+       265.053 sec    Hand ID:    97
+       265.053 sec    Hand stage: cards
+info   270.368 sec    It is our turn
+       271.637 sec    Raising ~         (#btnRaise.primary)
+info   288.185 sec    It is our turn
+       289.570 sec    ALL CAPS IN!      (#btnAllIn.primary)
+warn   293.093 sec    Control is Missing: Away button
+warn   293.093 sec    Control is Missing: Stand Up button
+info   293.093 sec    - mode:      playing
+info   293.111 sec    - stage:     flop
+info   293.139 sec    - sitting:   true
+info   293.162 sec    - our turn?: false (js)
+       293.282 sec    Hand stage: flop
+       295.910 sec    Hand stage: turn
+       299.208 sec    Hand stage: winner
+       305.652 sec    Buying in
+info   309.521 sec    Control Reappeared: Away button
+info   309.521 sec    Control Reappeared: Stand Up button
+info   309.522 sec    - mode:      playing
+info   309.528 sec    - stage:     cards
+info   309.537 sec    - sitting:   true
+info   309.545 sec    - our turn?: false (js)
+
+       309.603 sec    Hand ID:    98
+       309.603 sec    Hand stage: cards
+info   315.122 sec    It is our turn
+       316.516 sec    Calling!          (#btnCall.primary)
+info   317.484 sec    Chatting: Well I'll be. Ya'll'r smarter than ya look
+       320.495 sec    Hand stage: flop
+info   320.672 sec    It is our turn
+       321.955 sec    Folding :(        (#btnPass.primary)
+       324.944 sec    Hand stage: winner
+
+       331.119 sec    Hand ID:    99
+       331.119 sec    Hand stage: cards
+       354.242 sec    Hand stage: flop
+       362.539 sec    Hand stage: turn
+warn   368.909 sec    Control is Missing: Away button
+warn   368.909 sec    Control is Missing: Stand Up button
+info   368.909 sec    - mode:      playing
+info   368.924 sec    - stage:     river
+info   368.939 sec    - sitting:   true
+info   368.949 sec    - our turn?: false (js)
+       369.011 sec    Hand stage: river
+       371.402 sec    Hand stage: winner
+       377.853 sec    Buying in
+info   380.512 sec    Control Reappeared: Away button
+info   380.513 sec    Control Reappeared: Stand Up button
+info   380.513 sec    - mode:      playing
+info   380.520 sec    - stage:     cards
+info   380.527 sec    - sitting:   true
+info   380.536 sec    - our turn?: false (js)
+
+       380.598 sec    Hand ID:    100
+       380.598 sec    Hand stage: cards
+       388.461 sec    Hand stage: flop
+       396.894 sec    Hand stage: turn
+       402.607 sec    Hand stage: river
+       407.859 sec    Hand stage: winner
+
+       416.120 sec    Hand ID:    101
+       416.121 sec    Hand stage: cards
+info   419.102 sec    It is our turn
+       420.404 sec    Calling!          (#btnCall.primary)
+info   428.925 sec    It is our turn
+       430.035 sec    Calling!          (#btnCall.primary)
+       433.006 sec    Hand stage: flop
+info   433.202 sec    It is our turn
+info   433.237 sec    Chatting: Surprise!
+       434.828 sec    Checking.         (#btnCheck.primary)
+info   445.966 sec    It is our turn
+       447.083 sec    Folding :(        (#btnPass.primary)
+warn   450.252 sec    Control is Missing: Away button
+warn   450.253 sec    Control is Missing: Stand Up button
+info   450.253 sec    - mode:      playing
+info   450.266 sec    - stage:     turn
+info   450.277 sec    - sitting:   true
+info   450.291 sec    - our turn?: false (js)
+       450.332 sec    Hand stage: turn
+       452.967 sec    Hand stage: river
+       455.119 sec    Hand stage: winner
+info   461.373 sec    Control Reappeared: Away button
+info   461.373 sec    Control Reappeared: Stand Up button
+info   461.373 sec    - mode:      playing
+info   461.382 sec    - stage:     cards
+info   461.391 sec    - sitting:   true
+info   461.397 sec    - our turn?: false (js)
+info   461.437 sec    There are now 2 players
+
+       461.461 sec    Hand ID:    102
+       461.461 sec    Hand stage: cards
+       490.813 sec    Hand stage: winner
+
+       498.523 sec    Hand ID:    103
+       498.523 sec    Hand stage: cards
+info   498.719 sec    It is our turn
+info   498.755 sec    Chatting: Surprise!
+       500.162 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   503.371 sec    It is our turn
+       504.512 sec    Folding :(        (#btnPass.primary)
+info   507.706 sec    It is our turn
+       509.075 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   512.414 sec    It is our turn
+       513.506 sec    Folding :(        (#btnPass.primary)
+info   516.674 sec    It is our turn
+       517.918 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   521.046 sec    It is our turn
+       522.409 sec    Folding :(        (#btnPass.primary)
+info   522.909 sec    Chatting: This is the best hand i've ever seen... Syke!
+info   525.782 sec    It is our turn
+info   527.431 sec    Waiting for hand resolution
+warn   532.952 sec    Strangely, it is not our turn anymore. Skipping. (line 1485)
+
+       535.574 sec    Hand ID:    104
+       535.574 sec    Hand stage: cards
+       564.352 sec    Hand stage: winner
+info   566.506 sec    Chatting: INSULT
+
+       571.629 sec    Hand ID:    105
+       571.629 sec    Hand stage: cards
+info   571.847 sec    It is our turn
+       572.992 sec    Folding :(        (#btnPass.primary)
+info   576.418 sec    It is our turn
+       577.618 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   580.696 sec    It is our turn
+       582.192 sec    Folding :(        (#btnPass.primary)
+info   583.105 sec    Chatting: I know what you're thinking: "Oh, bot98!  How do you always have such nice hands?"  Well I'll tell you: It's my lotion.
+info   586.040 sec    It is our turn
+       587.207 sec    Folding :(        (#btnPass.primary)
+info   590.339 sec    It is our turn
+       591.790 sec    Folding :(        (#btnPass.primary)
+info   594.951 sec    It is our turn
+info   594.987 sec    Chatting: Well I'll be. Ya'll'r smarter than ya look
+       596.254 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   599.556 sec    It is our turn
+warn   600.982 sec    Strangely, it is not our turn anymore. Skipping. (line 1485)
+       603.088 sec    Hand stage: winner
+
+       608.338 sec    Hand ID:    106
+       608.338 sec    Hand stage: cards
+info   634.747 sec    Chatting: Dude. It's your turn. Go.
+       638.153 sec    Hand stage: winner
+info   644.927 sec    We're the only player.
+info   705.200 sec    We've been the only player for five minutes.
+info   705.216 sec    Preventing 'Are you sure?' dialogs
+       705.738 sec    Standing up
+-end-  705.835 sec    Kill():  Killing bot...
+       705.835 sec    | Logging out
+info   707.146 sec    | Closing browser
+-end-  708.065 sec    Finished.
+info   708.566 sec    Saving log to file.
+debug  708.566 sec    filename: ./logs/firefox ~ linux ~ bot98 ~ Wed Sep 11 19:30:11 2013.log

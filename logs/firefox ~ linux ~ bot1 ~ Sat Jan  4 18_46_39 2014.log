@@ -1,0 +1,67 @@
+Bot created at 2014-01-04 18:46:39 -0800
+info   0.000 sec    Bot creation finished.
+info   0.001 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   9.618 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       9.623 sec    Resizing browser to 620x600
+       9.716 sec    Navigating to login page.
+       11.303 sec    Logging in as: bot1
+debug  11.303 sec    | Entering username (bot1)
+debug  11.602 sec    | Entering password (test1)
+debug  11.738 sec    | Submitting
+debug  14.815 sec    | Setting selenium page_load timeout (10 sec)
+debug  15.941 sec    Checking for #username
+info   16.205 sec    Preventing 'Are you sure?' dialogs
+       16.767 sec    Using Bypass
+info   16.953 sec    Preventing 'Are you sure?' dialogs
+       17.505 sec    Navigating back to the main page
+       20.480 sec    Clicking [Play Free Poker]
+info   23.328 sec    Preventing 'Are you sure?' dialogs
+       23.901 sec    (Directly) Joining Ring Game id 135
+fatal  31.644 sec    Caught an unhandled error. Shutting down bot.
+info   31.646 sec    - Mode: join
+info   31.662 sec    - Title: Real Gaming::Test:: Table ID 135, No Limit::
+       31.662 sec    Logging out
+fatal  32.954 sec    Error message:
+                     Element not found in the cache - perhaps the page has changed since it was looked up
+
+
+Stacktrace:
+[remote server] resource://fxdriver/modules/web_element_cache.js:7403:in `fxdriver.cache.getElementAt'
+[remote server] file:///tmp/webdriver-profile20140104-17568-1bgws7l/extensions/fxdriver@googlecode.com/components/command_processor.js:6993:in `Utils.getElementAt'
+[remote server] file:///tmp/webdriver-profile20140104-17568-1bgws7l/extensions/fxdriver@googlecode.com/components/command_processor.js:9910:in `WebElement.getElementText'
+[remote server] file:///tmp/webdriver-profile20140104-17568-1bgws7l/extensions/fxdriver@googlecode.com/components/command_processor.js:10456:in `DelayedCommand.prototype.executeInternal_/h'
+[remote server] file:///tmp/webdriver-profile20140104-17568-1bgws7l/extensions/fxdriver@googlecode.com/components/command_processor.js:10461:in `DelayedCommand.prototype.executeInternal_'
+[remote server] file:///tmp/webdriver-profile20140104-17568-1bgws7l/extensions/fxdriver@googlecode.com/components/command_processor.js:10401:in `DelayedCommand.prototype.execute/<'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:51:in `assert_ok'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:629:in `raw_execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:607:in `execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:518:in `getElementText'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/element.rb:108:in `text'
+/home/ashley/selenium/brood/broodling.rb:548:in `join_specific_game'
+/home/ashley/selenium/brood/broodling.rb:505:in `join_game'
+/home/ashley/selenium/brood/broodling.rb:159:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   32.958 sec    Saving log to file.
+debug  32.958 sec    filename: ./logs/firefox ~ linux ~ bot1 ~ Sat Jan  4 18:46:39 2014.log

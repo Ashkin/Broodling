@@ -1,0 +1,53 @@
+Bot created at 2014-01-04 23:20:33 -0800
+info   0.000 sec    Bot creation finished.
+info   0.001 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   5.045 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       5.046 sec    Resizing browser to 620x600
+       5.111 sec    Navigating to login page.
+       6.036 sec    Logging in as: bot2
+debug  6.037 sec    | Entering username (bot2)
+debug  6.130 sec    | Entering password (test1)
+debug  6.244 sec    | Submitting
+debug  8.896 sec    | Setting selenium page_load timeout (10 sec)
+debug  9.952 sec    Checking for #username
+info   10.402 sec    Preventing 'Are you sure?' dialogs
+       10.947 sec    Using Bypass
+info   11.167 sec    Preventing 'Are you sure?' dialogs
+       11.723 sec    Navigating back to the main page
+       14.149 sec    Clicking [Play Free Poker]
+info   17.193 sec    Preventing 'Are you sure?' dialogs
+       17.736 sec    (Directly) Joining Ring Game id 135
+info   21.228 sec    Allowing javascript to finish setting up
+fatal  31.246 sec    Caught an unhandled error. Shutting down bot.
+info   31.246 sec    - Mode: join
+info   31.279 sec    - Title: Real Gaming::Test:: Table ID 135, No Limit::
+       31.285 sec    Logging out
+fatal  32.666 sec    Error message:
+                     timed out after 10 seconds
+
+
+Stacktrace:
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/wait.rb:57:in `until'
+/home/ashley/selenium/brood/broodling.rb:554:in `join_specific_game'
+/home/ashley/selenium/brood/broodling.rb:505:in `join_game'
+/home/ashley/selenium/brood/broodling.rb:159:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   32.673 sec    Saving log to file.
+debug  32.673 sec    filename: ./logs/firefox ~ linux ~ bot2 ~ Sat Jan  4 23:20:33 2014.log

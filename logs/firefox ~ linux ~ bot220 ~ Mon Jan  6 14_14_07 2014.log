@@ -1,0 +1,196 @@
+Bot created at 2014-01-06 14:14:07 -0800
+info   0.000 sec    Bot creation finished.
+info   0.001 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   7.649 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       7.653 sec    Resizing browser to 620x600
+       7.715 sec    Navigating to login page.
+       9.594 sec    Logging in as: bot220
+debug  9.594 sec    | Entering username (bot220)
+debug  10.033 sec    | Entering password (test1)
+debug  10.756 sec    | Submitting
+debug  13.775 sec    | Setting selenium page_load timeout (10 sec)
+       13.952 sec    Logging in as: bot220 (again)
+debug  13.972 sec    | Entering username (bot220)
+debug  14.444 sec    | Entering password (test1)
+debug  15.362 sec    | Submitting
+debug  17.577 sec    | Setting selenium page_load timeout (10 sec)
+debug  18.637 sec    Checking for #username
+info   18.667 sec    Preventing 'Are you sure?' dialogs
+       19.231 sec    Using Bypass
+info   19.500 sec    Preventing 'Are you sure?' dialogs
+       20.066 sec    Navigating back to the main page
+       22.685 sec    Clicking [Play Free Poker]
+info   25.865 sec    Preventing 'Are you sure?' dialogs
+       26.434 sec    (Directly) Joining Ring Game id 224
+info   33.828 sec    Allowing javascript to finish setting up
+info   34.248 sec    There are 9 seat(s) available.
+       34.310 sec    Sitting down at table (forced)
+info   35.414 sec    Preventing 'Are you sure?' dialogs
+       36.028 sec    Playing
+       36.277 sec    Buying in
+info   44.619 sec    There are now 2 players
+
+       44.831 sec    Hand ID:    17704
+       44.833 sec    Hand stage: cards
+info   47.072 sec    It is our turn
+       55.346 sec    Calling!          (#btnCall.primary)
+info   64.366 sec    There are now 5 players
+info   75.090 sec    There are now 6 players
+info   76.792 sec    It is our turn
+       85.597 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   93.785 sec    There are now 7 players
+       94.028 sec    Hand stage: turn
+error  106.194 sec    Duplicate cards!
+info   106.634 sec    - Bot's cards:      {}
+info   111.126 sec    - Community cards:  ["", ""]
+info   112.193 sec    - All Player cards: [[36, 31], [], [], [], [], [], [], "", ""]
+info   117.946 sec    There are now 9 players
+
+       118.078 sec    Hand ID:    17720
+       118.084 sec    Hand stage: cards
+info   161.037 sec    It is our turn
+       168.927 sec    Calling!          (#btnCall.primary)
+info   257.469 sec    It is our turn
+       265.079 sec    Calling!          (#btnCall.primary)
+       309.434 sec    Hand stage: flop
+info   379.554 sec    It is our turn
+       388.407 sec    Raising ~         (#btnRaise.primary)
+info   392.402 sec    Chatting: Well I'll be. Ya'll'r smarter than ya look
+info   486.806 sec    It is our turn
+       494.570 sec    Calling Any       (#btnCallAny.primary)
+       505.460 sec    Hand stage: winner
+
+       527.626 sec    Hand ID:    17830
+       527.627 sec    Hand stage: cards
+info   552.123 sec    It is our turn
+       560.556 sec    Calling!          (#btnCall.primary)
+info   632.853 sec    Chatting: HEY EURAKARTE
+info   635.708 sec    It is our turn
+       643.332 sec    Calling!          (#btnCall.primary)
+       652.939 sec    Hand stage: flop
+info   659.949 sec    Chatting: Chatting. Chat chat chat.
+info   670.553 sec    It is our turn
+       679.375 sec    Calling!          (#btnCall.primary)
+info   722.880 sec    It is our turn
+       730.572 sec    Calling!          (#btnCall.primary)
+info   733.900 sec    Chatting: I know what you're thinking: "Oh, bot220!  How do you always have such nice hands?"  Well I'll tell you: It's my lotion.
+       741.314 sec    Hand stage: winner
+       753.807 sec    Buying in
+debug  760.876 sec    Found dialog with title: x
+                      Important Message
+       761.347 sec    Dialog: Seat Already Occupied
+info   762.183 sec    There are now 8 players
+
+       762.300 sec    Hand ID:    17904
+       762.300 sec    Hand stage: cards
+info   775.663 sec    Chatting: I wouldn't have done that.
+       836.802 sec    Hand stage: river
+       840.021 sec    Hand stage: winner
+info   856.207 sec    There are now 7 players
+
+       856.365 sec    Hand ID:    17944
+       856.365 sec    Hand stage: cards
+info   863.030 sec    There are now 8 players
+info   937.037 sec    Chatting: Raaaaaah!
+       1039.246 sec    Hand stage: flop
+       1101.480 sec    Hand stage: turn
+info   1106.959 sec    Chatting: Why are you taking so long?
+info   1128.556 sec    Chatting: INSULT
+       1135.451 sec    Hand stage: river
+       1189.516 sec    Hand stage: winner
+
+       1202.808 sec    Hand ID:    18049
+       1202.808 sec    Hand stage: cards
+info   1321.180 sec    Chatting: INSULT
+       1342.022 sec    Hand stage: flop
+       1368.921 sec    Hand stage: turn
+       1401.145 sec    Hand stage: river
+       1432.074 sec    Hand stage: winner
+info   1440.874 sec    There are now 7 players
+
+       1440.936 sec    Hand ID:    18118
+       1440.936 sec    Hand stage: cards
+info   1451.181 sec    There are now 8 players
+info   1517.489 sec    Chatting: Hi!  I'm bot220, how's you?
+       1596.462 sec    Hand stage: turn
+       1600.628 sec    Hand stage: winner
+
+       1611.983 sec    Hand ID:    18158
+       1611.983 sec    Hand stage: cards
+info   1713.954 sec    Chatting: The rain in Spain falls mainly on the plain
+info   1755.030 sec    Chatting: I wouldn't have done that.
+debug  1779.491 sec    Found dialog with title: x
+                       Idle Notification
+debug  1786.353 sec    Found dialog with title: x
+                       Idle Notification
+debug  1793.769 sec    Found dialog with title: x
+                       Idle Notification
+debug  1801.631 sec    Found dialog with title: x
+                       Idle Notification
+debug  1808.818 sec    Found dialog with title: x
+                       Idle Notification
+debug  1815.746 sec    Found dialog with title: x
+                       Idle Notification
+debug  1823.253 sec    Found dialog with title: x
+                       Idle Notification
+debug  1831.369 sec    Found dialog with title: x
+                       Idle Notification
+       1832.346 sec    Hand stage: flop
+debug  1838.990 sec    Found dialog with title: x
+                       Idle Notification
+debug  1846.283 sec    Found dialog with title: x
+                       Idle Notification
+debug  1855.515 sec    Found dialog with title: x
+                       Idle Notification
+fatal  1866.139 sec    Caught an unhandled error. Shutting down bot.
+info   1866.139 sec    - Mode: playing
+info   1866.334 sec    - Title: Real Gaming - Lobby
+       1866.351 sec    Logging out
+fatal  1866.447 sec    Error message:
+                       Element not found in the cache - perhaps the page has changed since it was looked up
+
+
+Stacktrace:
+[remote server] resource://fxdriver/modules/web_element_cache.js:7403:in `fxdriver.cache.getElementAt'
+[remote server] file:///tmp/webdriver-profile20140106-660-ea7gnk/extensions/fxdriver@googlecode.com/components/command_processor.js:6993:in `Utils.getElementAt'
+[remote server] file:///tmp/webdriver-profile20140106-660-ea7gnk/extensions/fxdriver@googlecode.com/components/command_processor.js:9910:in `WebElement.getElementText'
+[remote server] file:///tmp/webdriver-profile20140106-660-ea7gnk/extensions/fxdriver@googlecode.com/components/command_processor.js:10456:in `DelayedCommand.prototype.executeInternal_/h'
+[remote server] file:///tmp/webdriver-profile20140106-660-ea7gnk/extensions/fxdriver@googlecode.com/components/command_processor.js:10461:in `DelayedCommand.prototype.executeInternal_'
+[remote server] file:///tmp/webdriver-profile20140106-660-ea7gnk/extensions/fxdriver@googlecode.com/components/command_processor.js:10401:in `DelayedCommand.prototype.execute/<'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:51:in `assert_ok'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:629:in `raw_execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:607:in `execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:518:in `getElementText'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/element.rb:108:in `text'
+/home/ashley/selenium/brood/broodling.rb:921:in `block in check_messages'
+/home/ashley/selenium/brood/broodling.rb:919:in `each'
+/home/ashley/selenium/brood/broodling.rb:919:in `with_index'
+/home/ashley/selenium/brood/broodling.rb:919:in `check_messages'
+/home/ashley/selenium/brood/broodling.rb:982:in `decide'
+/home/ashley/selenium/brood/broodling.rb:736:in `play_game'
+/home/ashley/selenium/brood/broodling.rb:160:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   1866.462 sec    Saving log to file.
+debug  1866.465 sec    filename: ./logs/firefox ~ linux ~ bot220 ~ Mon Jan  6 14:14:07 2014.log

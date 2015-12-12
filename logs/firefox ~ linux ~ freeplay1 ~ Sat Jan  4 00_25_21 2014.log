@@ -1,0 +1,38 @@
+Bot created at 2014-01-04 00:25:21 -0800
+info   0.000 sec    Bot creation finished.
+info   0.000 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   2.169 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       2.170 sec    Resizing browser to 620x600
+       2.186 sec    Navigating to login page.
+fatal  13.775 sec    Caught an unhandled error. Shutting down bot.
+info   13.776 sec    - Mode: login
+info   13.788 sec    - Title: Real Poker — Coming Soon!
+       13.788 sec    Logging out
+fatal  13.897 sec    Error message:
+                     timed out after 10 seconds (Unable to locate element: {"method":"id","selector":"username"})}
+
+
+Stacktrace:
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/wait.rb:57:in `until'
+/home/ashley/selenium/brood/broodling.rb:444:in `login'
+/home/ashley/selenium/brood/broodling.rb:156:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   13.899 sec    Saving log to file.
+debug  13.899 sec    filename: ./logs/firefox ~ linux ~ freeplay1 ~ Sat Jan  4 00:25:21 2014.log

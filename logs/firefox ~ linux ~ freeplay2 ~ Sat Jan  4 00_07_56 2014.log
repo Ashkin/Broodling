@@ -1,0 +1,343 @@
+Bot created at 2014-01-04 00:07:56 -0800
+info   0.001 sec    Bot creation finished.
+info   0.001 sec    Host OS:  linux (linux-gnu)
+info   0.001 sec    Browser:  firefox
+info   1.593 sec    Browser Capabilities:
+                    - browserName:                firefox
+                    - version:                    20.0
+                    - platform:                   LINUX
+                    - javascriptEnabled:          true
+                    - cssSelectorsEnabled:        true
+                    - takesScreenshot:            true
+                    - nativeEvents:               false
+                    - rotatable:                  false
+                    - handlesAlerts:              true
+                    - webStorageEnabled:          true
+                    - applicationCacheEnabled:    true
+                    - databaseEnabled:            true
+                    - locationContextEnabled:     true
+                    - browserConnectionEnabled:   true
+                    - acceptSslCerts:             true
+       1.594 sec    Resizing browser to 620x600
+       1.607 sec    Navigating to login page.
+       2.483 sec    Logging in as: freeplay2
+debug  2.483 sec    | Entering username (freeplay2)
+debug  2.581 sec    | Entering password (freeplay2)
+debug  2.650 sec    | Submitting
+debug  3.369 sec    | Setting selenium page_load timeout (10 sec)
+       3.388 sec    Logging in as: freeplay2 (again)
+debug  3.388 sec    | Entering username (freeplay2)
+debug  3.439 sec    | Entering password (freeplay2)
+debug  3.494 sec    | Submitting
+debug  4.905 sec    | Setting selenium page_load timeout (10 sec)
+debug  5.925 sec    Checking for #username
+info   6.028 sec    Preventing 'Are you sure?' dialogs
+       6.589 sec    Using Bypass
+info   6.684 sec    Preventing 'Are you sure?' dialogs
+       7.427 sec    Navigating back to the main page
+       8.662 sec    Clicking [Play Free Poker]
+info   9.619 sec    Preventing 'Are you sure?' dialogs
+       10.141 sec    (Directly) Joining Ring Game id 135
+info   11.612 sec    Allowing javascript to finish setting up
+info   12.154 sec    There are 10 seat(s) available.
+       12.162 sec    Sitting down at table (forced)
+info   12.580 sec    Preventing 'Are you sure?' dialogs
+       13.098 sec    Playing
+       13.202 sec    Buying in
+info   15.627 sec    We're the only player.
+info   18.020 sec    There are now 2 players
+
+       18.089 sec    Hand ID:    8362
+       18.091 sec    Hand stage:
+
+       22.176 sec    Hand ID:    8747
+       22.176 sec    Hand stage: cards
+info   24.853 sec    It is our turn
+       26.361 sec    Checking.         (#btnCheck.primary)
+       29.620 sec    Hand stage: flop
+info   29.763 sec    It is our turn
+       30.730 sec    Folding :(        (#btnPass.primary)
+info   31.685 sec    Chatting: Wow! These cards are incredibly ... incredibly ... incredibly bad!
+       34.216 sec    Hand stage: winner
+
+       37.503 sec    Hand ID:    8748
+       37.504 sec    Hand stage: cards
+info   38.454 sec    It is our turn
+       39.437 sec    Calling Any       (#btnCallAny.primary)
+info   43.887 sec    It is our turn
+       44.999 sec    ALL CAPS IN!      (#btnAllIn.primary)
+info   45.958 sec    Chatting: Please don't call, please don't call, please don't call ...
+warn   49.221 sec    Control is Missing: Away button
+info   49.221 sec    - mode:      playing
+info   49.230 sec    - stage:     cards
+info   49.236 sec    - sitting:   true
+info   49.241 sec    - our turn?: false (js)
+info   51.607 sec    Control Reappeared: Away button
+info   51.607 sec    - mode:      playing
+info   51.617 sec    - stage:     flop
+info   51.630 sec    - sitting:   true
+info   51.638 sec    - our turn?: false (js)
+       51.684 sec    Hand stage: flop
+       54.249 sec    Hand stage: turn
+       57.140 sec    Hand stage: winner
+       63.561 sec    Buying in
+
+       68.562 sec    Hand ID:    8749
+       68.562 sec    Hand stage: cards
+       71.150 sec    Hand stage: winner
+
+       79.178 sec    Hand ID:    8750
+       79.178 sec    Hand stage: cards
+info   79.356 sec    It is our turn
+       80.356 sec    Folding :(        (#btnPass.primary)
+       82.808 sec    Hand stage: winner
+
+       89.294 sec    Hand ID:    8751
+       89.295 sec    Hand stage: cards
+info   92.744 sec    It is our turn
+info   92.765 sec    Chatting: Surprise me.
+       93.965 sec    Folding :(        (#btnPass.primary)
+       96.838 sec    Hand stage: winner
+
+       103.617 sec    Hand ID:    8752
+       103.617 sec    Hand stage: cards
+info   103.858 sec    It is our turn
+info   103.880 sec    Chatting: I know what you're thinking: "Oh, freeplay2!  How do you always have such nice hands?"  Well I'll tell you: It's my lotion.
+       105.579 sec    Calling!          (#btnCall.primary)
+info   110.014 sec    It is our turn
+       111.401 sec    Calling Any       (#btnCallAny.primary)
+       116.865 sec    Hand stage: flop
+info   117.021 sec    It is our turn
+       117.982 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       124.382 sec    Hand stage: turn
+       126.999 sec    Hand stage: river
+       129.259 sec    Hand stage: winner
+       134.330 sec    Buying in
+       136.524 sec    Hand stage:
+
+       141.390 sec    Hand ID:    8753
+       141.390 sec    Hand stage: cards
+info   142.000 sec    It is our turn
+info   142.023 sec    Chatting: Ha, take that!
+       143.839 sec    Folding :(        (#btnPass.primary)
+       146.553 sec    Hand stage: winner
+
+       153.066 sec    Hand ID:    8754
+       153.066 sec    Hand stage: cards
+info   153.215 sec    It is our turn
+       154.220 sec    Raising ~         (#btnRaise.primary)
+info   154.947 sec    Chatting: Come again?
+       159.316 sec    Hand stage: flop
+info   165.323 sec    It is our turn
+       166.608 sec    Calling!          (#btnCall.primary)
+       170.558 sec    Hand stage: turn
+info   173.734 sec    It is our turn
+       175.313 sec    Calling!          (#btnCall.primary)
+info   178.780 sec    Chatting: Dude. It's your turn. Go.
+       179.014 sec    Hand stage: river
+       181.328 sec    Hand stage: winner
+
+       188.660 sec    Hand ID:    8755
+       188.660 sec    Hand stage: cards
+info   193.377 sec    It is our turn
+       194.788 sec    Checking.         (#btnCheck.primary)
+       198.609 sec    Hand stage: flop
+info   198.941 sec    It is our turn
+       199.937 sec    Folding :(        (#btnPass.primary)
+info   200.985 sec    Chatting: This is the best hand i've ever seen... Syke!
+       203.358 sec    Hand stage: winner
+
+       209.605 sec    Hand ID:    8756
+       209.606 sec    Hand stage: cards
+info   209.811 sec    It is our turn
+       210.894 sec    Calling!          (#btnCall.primary)
+info   212.031 sec    Chatting: I'll cover that paltry sum with a pile.
+       215.664 sec    Hand stage: flop
+info   221.691 sec    It is our turn
+       223.441 sec    Checking.         (#btnCheck.primary)
+       227.268 sec    Hand stage: turn
+info   230.021 sec    It is our turn
+       231.854 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       240.188 sec    Hand stage: river
+       242.379 sec    Hand stage: winner
+       247.064 sec    Buying in
+       249.076 sec    Hand stage:
+
+       252.897 sec    Hand ID:    8757
+       252.898 sec    Hand stage: cards
+info   256.217 sec    It is our turn
+info   256.247 sec    Chatting: Surprise me.
+       258.904 sec    Checking.         (#btnCheck.primary)
+       262.064 sec    Hand stage: flop
+info   262.218 sec    It is our turn
+       263.465 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       270.800 sec    Hand stage: river
+       273.516 sec    Hand stage: winner
+       280.334 sec    Buying in
+
+       284.620 sec    Hand ID:    8758
+       284.620 sec    Hand stage: cards
+info   284.995 sec    It is our turn
+       286.436 sec    Calling Any       (#btnCallAny.primary)
+info   293.289 sec    It is our turn
+       294.960 sec    Calling!          (#btnCall.primary)
+       298.560 sec    Hand stage: flop
+info   301.346 sec    It is our turn
+       303.293 sec    Folding :(        (#btnPass.primary)
+info   304.353 sec    Chatting: Dealer, did you even shuffle?
+       306.739 sec    Hand stage: winner
+
+       312.824 sec    Hand ID:    8759
+       312.824 sec    Hand stage: cards
+info   316.353 sec    It is our turn
+       318.085 sec    Folding :(        (#btnPass.primary)
+       320.559 sec    Hand stage: winner
+
+       327.541 sec    Hand ID:    8760
+       327.541 sec    Hand stage: cards
+info   327.803 sec    It is our turn
+       328.835 sec    Calling!          (#btnCall.primary)
+       335.428 sec    Hand stage: flop
+info   338.264 sec    It is our turn
+info   338.293 sec    Chatting: Come again?
+       340.738 sec    Checking.         (#btnCheck.primary)
+       344.632 sec    Hand stage: turn
+info   347.419 sec    It is our turn
+       349.153 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       352.309 sec    Hand stage: river
+info   354.577 sec    Chatting: Chatting. Chat chat chat.
+       354.829 sec    Hand stage: winner
+       361.466 sec    Buying in
+
+       366.712 sec    Hand ID:    8761
+       366.712 sec    Hand stage: cards
+info   370.131 sec    It is our turn
+       372.550 sec    Raising ~         (#btnRaise.primary)
+       378.985 sec    Hand stage: flop
+info   379.192 sec    It is our turn
+info   379.225 sec    Chatting: Ha, take that!
+       381.324 sec    Folding :(        (#btnPass.primary)
+       384.178 sec    Hand stage: winner
+
+       391.679 sec    Hand ID:    8762
+       391.680 sec    Hand stage: cards
+info   391.833 sec    It is our turn
+       392.842 sec    Calling!          (#btnCall.primary)
+       399.481 sec    Hand stage: flop
+
+       440.628 sec    Hand ID:    8763
+       440.628 sec    Hand stage: cards
+info   443.919 sec    It is our turn
+       444.985 sec    Checking.         (#btnCheck.primary)
+info   445.765 sec    Chatting: My hand is great.  Seriously.
+       448.987 sec    Hand stage: flop
+info   449.540 sec    It is our turn
+       450.766 sec    Checking.         (#btnCheck.primary)
+       457.019 sec    Hand stage: turn
+info   457.216 sec    It is our turn
+       459.161 sec    Checking.         (#btnCheck.primary)
+info   459.782 sec    Chatting: Honestly, I just wanna see what's next.
+       465.495 sec    Hand stage: winner
+
+       473.896 sec    Hand ID:    8764
+       473.896 sec    Hand stage: cards
+info   474.065 sec    It is our turn
+       475.178 sec    Raising ~         (#btnRaise.primary)
+       481.096 sec    Hand stage: winner
+
+       489.142 sec    Hand ID:    8765
+       489.143 sec    Hand stage: cards
+info   492.742 sec    It is our turn
+       493.893 sec    Checking.         (#btnCheck.primary)
+       497.152 sec    Hand stage: flop
+info   497.361 sec    It is our turn
+info   497.390 sec    Chatting: Your turn.
+       499.449 sec    Checking.         (#btnCheck.primary)
+info   506.468 sec    It is our turn
+       508.060 sec    Raising ~         (#btnRaise.primary)
+       514.187 sec    Hand stage: winner
+
+       521.675 sec    Hand ID:    8766
+       521.675 sec    Hand stage: cards
+info   521.846 sec    It is our turn
+       522.945 sec    Calling!          (#btnCall.primary)
+info   524.283 sec    Chatting: Call.
+       527.272 sec    Hand stage: winner
+
+       535.600 sec    Hand ID:    8767
+       535.601 sec    Hand stage: cards
+info   538.797 sec    It is our turn
+       540.323 sec    Checking.         (#btnCheck.primary)
+       543.944 sec    Hand stage: flop
+info   544.099 sec    It is our turn
+info   544.122 sec    Chatting: Your turn.
+       545.432 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       554.392 sec    Hand stage: turn
+       557.655 sec    Hand stage: winner
+
+       565.370 sec    Hand ID:    8768
+       565.371 sec    Hand stage: cards
+info   565.566 sec    It is our turn
+info   565.594 sec    Chatting: Let's see some chips!
+       567.690 sec    Calling!          (#btnCall.primary)
+       574.906 sec    Hand stage: flop
+info   581.109 sec    It is our turn
+       582.695 sec    ALL CAPS IN!      (#btnAllIn.primary)
+       588.186 sec    Hand stage: river
+       590.536 sec    Hand stage: winner
+
+       598.911 sec    Hand ID:    8769
+       598.912 sec    Hand stage: cards
+info   602.175 sec    It is our turn
+       604.032 sec    Folding :(        (#btnPass.primary)
+info   605.186 sec    Chatting: This is the best hand i've ever seen... Syke!
+       607.561 sec    Hand stage: winner
+
+       613.799 sec    Hand ID:    8770
+       613.799 sec    Hand stage: cards
+info   614.236 sec    It is our turn
+       615.438 sec    Calling!          (#btnCall.primary)
+       621.976 sec    Hand stage: flop
+info   625.689 sec    It is our turn
+       627.198 sec    Calling!          (#btnCall.primary)
+       631.103 sec    Hand stage: turn
+       633.626 sec    Hand stage: winner
+fatal  638.106 sec    Caught an unhandled error. Shutting down bot.
+info   638.108 sec    - Mode: playing
+info   638.131 sec    - Title: n/a (browser closed?)
+warn   638.206 sec    | Standup failed.
+       638.208 sec    Logging out
+warn   638.221 sec    | Logout failed. (Connection refused - connect(2)
+fatal  638.223 sec    Error message:
+                      Window not found. The browser window may have been closed.
+
+
+Stacktrace:
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/command_processor.js:10526:in `nsCommandProcessor.prototype.execute'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/driver_component.js:7510:in `Dispatcher.executeAs/<'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/driver_component.js:7668:in `Resource.prototype.handle'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/driver_component.js:7615:in `Dispatcher.prototype.dispatch'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/driver_component.js:10336:in `WebDriverServer/<.handle'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/httpd.js:1935:in `unknown'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/httpd.js:2261:in `ServerHandler.prototype.handleResponse'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/httpd.js:1168:in `Connection.prototype.process'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/httpd.js:1616:in `RequestReader.prototype._handleResponse'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/httpd.js:1464:in `RequestReader.prototype._processBody'
+[remote server] file:///tmp/webdriver-profile20140104-9828-dnby4i/extensions/fxdriver@googlecode.com/components/httpd.js:1333:in `RequestReader.prototype.onInputStreamReady'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:51:in `assert_ok'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:629:in `raw_execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:607:in `execute'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/remote/bridge.rb:165:in `getTitle'
+/var/lib/gems/1.9.1/gems/selenium-webdriver-2.33.0/lib/selenium/webdriver/common/driver.rb:130:in `title'
+/home/ashley/selenium/brood/broodling.rb:948:in `decide'
+/home/ashley/selenium/brood/broodling.rb:736:in `play_game'
+/home/ashley/selenium/brood/broodling.rb:160:in `init'
+brood.rb:16:in `init'
+brood.rb:98:in `<main>'
+info   638.258 sec    Saving log to file.
+debug  638.261 sec    filename: ./logs/firefox ~ linux ~ freeplay2 ~ Sat Jan  4 00:07:56 2014.log
