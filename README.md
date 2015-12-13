@@ -2,7 +2,7 @@
 #### An autonomous poker bot for automated frontend and stress testing ####
 > The name is a reference to the Zerg Broodlings from Starcraft -- small and effective creatures, if short-lived.
 
-Sample logs and screenshots are in /logs and /screenshots, respectively.  You can see an example of two bots running side-by-side in [concurrent.png](https://github.com/Ashkin/Broodling/blob/master/concurrent.png); it's pre-flop, so there is no visible card spread.
+Sample logs and screenshots are in [/logs](https://github.com/Ashkin/Broodling/tree/master/logs) and [/screenshots](https://github.com/Ashkin/Broodling/tree/master/screenshots), respectively.  You can see an example of two bots running side-by-side in [concurrent.png](https://github.com/Ashkin/Broodling/blob/master/concurrent.png); it's pre-flop, so there is no visible card spread.
 
 ----------------------------------------------------
 
