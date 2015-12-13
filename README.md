@@ -2,7 +2,7 @@
 #### An autonomous poker bot for automated frontend and stress testing ####
 > The name is a reference to the Zerg Broodlings from Starcraft -- small and effective creatures, if short-lived.
 
-Sample logs and screenshots are in /logs and /screenshots, respectively.  You can see an example of two bots running side-by-side in concurrent.png; it's pre-flop, so there is no visible card spread.
+Sample logs and screenshots are in /logs and /screenshots, respectively.  You can see an example of two bots running side-by-side in [concurrent.png](https://github.com/Ashkin/Broodling/blob/master/concurrent.png); it's pre-flop, so there is no visible card spread.
 
 ----------------------------------------------------
 
@@ -37,7 +37,7 @@ I wrote a rakefile to simplify launching bots (and allow them to be run via batc
 * browser    --- firefox (default), chrome, safari, opera, ie
 * moneytype  --- free (default), money
 * gametype   --- ring (default), sng, tournament
-* gameid     --- (integer) table/tournament id;  picks a random game unless specified
+* gameid     --- (integer) table/tournament id;  picks a random game unless this is specified
 * username   --- leave blank to use a random bot (bot #1-98)
 * password   --- leave blank to use the default bot password (test1)
 
